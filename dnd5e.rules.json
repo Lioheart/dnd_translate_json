@@ -1,6 +1,276 @@
 {
     "label": "Rules",
     "entries": {
+        "06nEp8Zg7Stzugpy": {
+            "name": "U"
+        },
+        "07PtjpMxiRIhkBEp": {
+            "name": "Lair Actions"
+        },
+        "0AGfrwZRzSG0vNKb": {
+            "name": "Chapter 7: Using Ability Scores"
+        },
+        "0B1fxfmw0a48tPsc": {
+            "name": "Flying Movement"
+        },
+        "0Dgs9HZmRIFKVeca": {
+            "name": "Armor Class"
+        },
+        "0LBrn5XGigZKGfIe": {
+            "name": "Special Purpose"
+        },
+        "0LfgSuMJmv7bf1JU": {
+            "name": "Druid"
+        },
+        "0RBamBThjzeAdMSt": {
+            "name": "Darkvision"
+        },
+        "0b8N4FymGGfbZGpJ": {
+            "name": "Blinded"
+        },
+        "1PnjDBKbQJIVyc2t": {
+            "name": "Carrying Capacity"
+        },
+        "1U0myNrOvIVBUdJV": {
+            "name": "Long Jump"
+        },
+        "1oT7t6tHE4kZuSN1": {
+            "name": "Plants"
+        },
+        "1s2swI3UsjUUgbt2": {
+            "name": "Short Rest"
+        },
+        "243xmBDKcM1W2QEm": {
+            "name": "Hit Points"
+        },
+        "2TZKy9YbMN3ZY3h8": {
+            "name": "Escaping a Grapple"
+        },
+        "2VqLyxMyMxgXe2wC": {
+            "name": "Reactions"
+        },
+        "2fu2CXsDg8gQmGGw": {
+            "name": "Bonus Actions"
+        },
+        "2l5215aIscQ8Y1di": {
+            "name": "Abilities"
+        },
+        "2lysbY50fgv1R3v7": {
+            "name": "Fantasy-Historical Pantheons"
+        },
+        "2umstdyMUtPaf6vB": {
+            "name": "Damage at 0 Hit Points"
+        },
+        "310T6po5xJuu8FoZ": {
+            "name": "Dexterity Checks"
+        },
+        "38hXYxwxxyWdZLG7": {
+            "name": "Charisma Checks"
+        },
+        "39LFrlef94JIYO8m": {
+            "name": "Bludgeoning"
+        },
+        "3LkAmY7ENZwUBBdM": {
+            "name": "Ammunition"
+        },
+        "3RM2KPMlMrSXngN3": {
+            "name": "Objects"
+        },
+        "3UU5GCTVeRDbZy9u": {
+            "name": "Invisible"
+        },
+        "4ANrmP15aBGam0QS": {
+            "name": "Credits"
+        },
+        "4AXnTyno7dLBB6Ct": {
+            "name": "Initiative"
+        },
+        "4FlMOQZ7aUuergFe": {
+            "name": "N"
+        },
+        "4H88x7iJuzshQpgr": {
+            "name": "Mounted Combat"
+        },
+        "4H9SLM95OCLfFizz": {
+            "name": "Casting a Spell at a Highler Level"
+        },
+        "4MfrpERNiQXmvgCI": {
+            "name": "Stealth"
+        },
+        "4R5H8iIsdFQTsj3X": {
+            "name": "Persuasion"
+        },
+        "4VHHI2gJ1jEsppfg": {
+            "name": "Intimidation"
+        },
+        "4dfREIDjG5N4fvxd": {
+            "name": "Darkness"
+        },
+        "4jyYYINOE5kg9hnA": {
+            "name": "J"
+        },
+        "4xsFUooHDEdfhw6g": {
+            "name": "Cold"
+        },
+        "54V7wpfYdnPtb6WS": {
+            "name": "L"
+        },
+        "5LoAJLkfIYBAgWTW": {
+            "name": "Chapter 1: Beyond 1st Level"
+        },
+        "5ZJNwEPlsGurecg5": {
+            "name": "Unseen Attackers and Targets"
+        },
+        "5cn1ZTLgQq95vfZx": {
+            "name": "Search"
+        },
+        "5pMrBRugiTmOqo8t": {
+            "name": "H"
+        },
+        "5tcK9buXWDOw8yHH": {
+            "name": "Radiant"
+        },
+        "5wkqEqhbBD5kDeE7": {
+            "name": "Attack Rolls"
+        },
+        "63gRBbKNthvnmFmh": {
+            "name": "Actions"
+        },
+        "6DOoBgg7okm9gBc6": {
+            "name": "Line"
+        },
+        "6G8JSjhn701cBITY": {
+            "name": "Deafened"
+        },
+        "6Icem7G3CICdNOkM": {
+            "name": "Curing Madness"
+        },
+        "6PfYpwxkdQkyS6b7": {
+            "name": "Chapter 9: Combat"
+        },
+        "6UXTNWMCQ0nSlwwx": {
+            "name": "Verbal (V)"
+        },
+        "6WJRdQlCExNsBZMz": {
+            "name": "Modifiers to the Roll"
+        },
+        "6WVjSqxczERrYQzb": {
+            "name": "N"
+        },
+        "6bTHn7pZek9YX2tv": {
+            "name": "Beasts"
+        },
+        "6cLtjbHn4KV2R7G9": {
+            "name": "Long Rest"
+        },
+        "6tqz947qO8vPyxvD": {
+            "name": "Difficult Terrain"
+        },
+        "6zVOeLyq4iMnrQT4": {
+            "name": "Underwater Combat"
+        },
+        "7xAozaqWq3Z6YTsf": {
+            "name": "Cleric"
+        },
+        "7z1LXGGkXpHuzkFh": {
+            "name": "Elementals"
+        },
+        "849AYEWw9FHD6JNz": {
+            "name": "Abjuration"
+        },
+        "8AIlZ95v54mL531X": {
+            "name": "Tremorsense"
+        },
+        "8BG05mA0mEzwmrHU": {
+            "name": "Instant Death"
+        },
+        "8DajfNll90eeKcmB": {
+            "name": "Saving Throws"
+        },
+        "8HxbRceQQUAhyWRt": {
+            "name": "Point of Origin"
+        },
+        "8R5SMbAGbECNgO8z": {
+            "name": "Insight"
+        },
+        "8TSg6dtVxOVPzvuY": {
+            "name": "Hit Points"
+        },
+        "8V1QMgTrcYbGWppo": {
+            "name": "Feats"
+        },
+        "8i9W8vECXrwMunQC": {
+            "name": "Alignment"
+        },
+        "8iC24otVX4n1yrYw": {
+            "name": "Truesight"
+        },
+        "8jxEuy0PV2HNySQC": {
+            "name": "Overview"
+        },
+        "8xJzZVelP2AmQGfU": {
+            "name": "Ready"
+        },
+        "95agSnEGTdAmKhyC": {
+            "name": "Piercing"
+        },
+        "988C2hQNyvqkdbND": {
+            "name": "Passive Perception"
+        },
+        "9DPXJOLEsspMYK0D": {
+            "name": "Attacks Rolls and Damage"
+        },
+        "9FyghudYFV5QJOuG": {
+            "name": "Charisma"
+        },
+        "9LJZhqvCburpags3": {
+            "name": "Damage Threshold"
+        },
+        "9M9VztnDl81tTxgz": {
+            "name": "Saving Throws"
+        },
+        "9SaxFJ9bM3SutaMC": {
+            "name": "Lightning"
+        },
+        "9ZWCknaXCOdhyOrX": {
+            "name": "Moving Around Other Creatures"
+        },
+        "9iCIjvYzMdxWPtd1": {
+            "name": "Disclaimer"
+        },
+        "9jV1fFF163dr68vd": {
+            "name": "Tags"
+        },
+        "9jyye7TeGlY4FRf3": {
+            "name": "The Environment"
+        },
+        "9lcffy0dOmFDaoKr": {
+            "name": "Monk"
+        },
+        "9mp0SRsptjvJcq1e": {
+            "name": "Duration"
+        },
+        "A6k5fS0kFqPXTW3v": {
+            "name": "Spell Level"
+        },
+        "AOOs5OrXYgGzwI9d": {
+            "name": "Weapons"
+        },
+        "AOXn3Mv5vPZwo0Uf": {
+            "name": "Giants"
+        },
+        "AW6HpJZHqxfESXaq": {
+            "name": "Temporary Hit Points"
+        },
+        "AeH5eDS4YeM9RETC": {
+            "name": "Material (M)"
+        },
+        "AjavRU4yPfI9hfaI": {
+            "name": "Adventuring Gear"
+        },
+        "AoykthgwEP3T0XsL": {
+            "name": "Saving Throws"
+        },
         "Appendix A: Conditions": {
             "name": "Appendix A: Conditions",
             "pages": {
@@ -1214,6 +1484,45 @@
                 }
             }
         },
+        "AvvBLEHNl7kuwPkN": {
+            "name": "Acrobatics"
+        },
+        "B8rYvLQ4jMY9GeJA": {
+            "name": "Poisons"
+        },
+        "BIlnr0xYhqt4TGsi": {
+            "name": "Suffocating"
+        },
+        "BKUAxXuPEzxiEOeL": {
+            "name": "Total Cover"
+        },
+        "BXlHhE4ZoiFwiXLK": {
+            "name": "Hide"
+        },
+        "BYFd9hiJGo9L5aOM": {
+            "name": "Chapter 5: Equipment"
+        },
+        "BhPCJ7FryjIRAzap": {
+            "name": "Modifying Creatures"
+        },
+        "BmCHiD6pLNjIgeTx": {
+            "name": "D"
+        },
+        "C1awOyZh78pq1xmY": {
+            "name": "Legendary Actions"
+        },
+        "CI6KiNhPoh5AL0sD": {
+            "name": "Armor, Weapon, and Tool Proficiencies"
+        },
+        "CUSrUMAS8EvE3buX": {
+            "name": "Wisdom Checks"
+        },
+        "CXVzERHdP4qLhJXM": {
+            "name": "Religion"
+        },
+        "CabaZgw9cPlv5TOt": {
+            "name": "D"
+        },
         "Chapter 10: Spellcasting": {
             "name": "Chapter 10: Spellcasting",
             "pages": {
@@ -1530,6 +1839,222 @@
                 }
             }
         },
+        "D2BdqS1GeD5rcZ6q": {
+            "name": "Undead"
+        },
+        "D8K6ansoz1q6P37s": {
+            "name": "Mounts and Vehicles"
+        },
+        "DABoaeeF6w31UCsj": {
+            "name": "Spells"
+        },
+        "DOKv3OuN2jzjOnX8": {
+            "name": "Speed"
+        },
+        "DT4Kz0sQrS0Fnb6A": {
+            "name": "O"
+        },
+        "DZ7AhdQ94xggG4bj": {
+            "name": "Detecting and Disabling a Trap"
+        },
+        "DqqAOr5JnX71OCOw": {
+            "name": "Cone"
+        },
+        "DyAsc0h0MqTSHzz4": {
+            "name": "Monsters and Death"
+        },
+        "EQWAcrLYsd96MzJH": {
+            "name": "Swim"
+        },
+        "ER8CKDUWLsFXuARJ": {
+            "name": "Dexterity"
+        },
+        "EfSG7uc39rBeq4TK": {
+            "name": "T"
+        },
+        "ElHKBJeiJPC7gj6k": {
+            "name": "Fiends"
+        },
+        "EnsZoNfQh0jVS5Y1": {
+            "name": "Triggering a Trap"
+        },
+        "FQTS08uH74A6psL2": {
+            "name": "Two-Weapon Fighting"
+        },
+        "FX9TS9vmt4dyOoqJ": {
+            "name": "Spellcasting"
+        },
+        "FayGZfFQU5llJ0LQ": {
+            "name": "Mounts and Vehicles"
+        },
+        "FcAth0Y91MCUozKO": {
+            "name": "Selling Treasure"
+        },
+        "FhucONA0yRZQjMmb": {
+            "name": "Paladin Spells"
+        },
+        "FiOvoBCuCpgyMjAX": {
+            "name": "Short-Term Madness"
+        },
+        "FjWqT5iyJ89kohdA": {
+            "name": "Rituals"
+        },
+        "FjXRWwrGzsLmI83j": {
+            "name": "Complex Traps"
+        },
+        "FximlEBSWq8TLAtX": {
+            "name": "Long-Term Madness"
+        },
+        "G80AIQr04sxdVpw4": {
+            "name": "Targets"
+        },
+        "GLwN36E4WXn3Cp4Z": {
+            "name": "Cast a Spell"
+        },
+        "GOlh1UMmEIjEQcSE": {
+            "name": "X/Day"
+        },
+        "GTk6emvzNxl8Oosl": {
+            "name": "Melee Attacks"
+        },
+        "GaGqOeIqwylIgOsB": {
+            "name": "P"
+        },
+        "GeYmM7BVfSCAga4o": {
+            "name": "Medicine"
+        },
+        "Gwq0BG0orHTTCmbX": {
+            "name": "G"
+        },
+        "H4rlIErtw6z98jYJ": {
+            "name": "Appendix C: Creatures"
+        },
+        "HANU4fJW9LI4MIC8": {
+            "name": "Objects and Damage Types"
+        },
+        "HB2L0RLLfmmzzPsJ": {
+            "name": "Traps"
+        },
+        "HWHRQVBVG7K0RVVW": {
+            "name": "Creature Size"
+        },
+        "HhqeIiSj8sE1v1qZ": {
+            "name": "Speed"
+        },
+        "HiXixxLYesv6Ff3t": {
+            "name": "Command Word"
+        },
+        "HjKXuB8ndjcqOds7": {
+            "name": "Range"
+        },
+        "Hni8DjqLzoqsVjb6": {
+            "name": "Push, Drag, or Lift"
+        },
+        "HoD2MwzmVbMqj9se": {
+            "name": "Divination"
+        },
+        "I13SYX1zaCLYmaYF": {
+            "name": "Burrow"
+        },
+        "I6ABWHBYwGl55dLY": {
+            "name": "Blindsight"
+        },
+        "I6OMMWUaYCWR9xip": {
+            "name": "Poison Types"
+        },
+        "ICketFqbFslqKiX9": {
+            "name": "Healing"
+        },
+        "ILRZw1QbK6ixZhac": {
+            "name": "M"
+        },
+        "ILpAVXkFHoS8OQ8y": {
+            "name": "Senses"
+        },
+        "IQhbKRPe1vCPdh8v": {
+            "name": "Acid"
+        },
+        "IYWewSailtmv6qEb": {
+            "name": "Transmutation"
+        },
+        "Ik0x5qoE14RYE6nj": {
+            "name": "Indefinite Madness"
+        },
+        "JEZp7QApVjyNgqrQ": {
+            "name": "Other Activity on Your Turn"
+        },
+        "JKn9lp15q1zX2ZwX": {
+            "name": "Monsters"
+        },
+        "JL8LePEJQYFdNuLL": {
+            "name": "Death Saving Throws"
+        },
+        "JoLjmTDfWLAqNK7F": {
+            "name": "Miscellaneous Creatures"
+        },
+        "Jqn0MEvq6fduYNo6": {
+            "name": "Dash"
+        },
+        "JwqYf9qb6gJAWZKs": {
+            "name": "Variant: Encumbrance"
+        },
+        "JxboWb0XHo2GwqD0": {
+            "name": "Moving Between Attacks"
+        },
+        "K2NysbFnuhTGlaHd": {
+            "name": "E"
+        },
+        "K2lVWIOvfzThf9xe": {
+            "name": "A Clear Path to the Target"
+        },
+        "KU4VD1FIv3OOovn0": {
+            "name": "C"
+        },
+        "KUQjsYx3HISWxjO2": {
+            "name": "Spellcasting Ability"
+        },
+        "KUyN4eK1xTBzXsjP": {
+            "name": "Inhaled"
+        },
+        "KWmHLFi39glwuXQ7": {
+            "name": "Armor Class"
+        },
+        "Kh16IbKZRyEer1ju": {
+            "name": "Creating Sentient Magic Items"
+        },
+        "KnrD3u2AnQfmtOWj": {
+            "name": "Help"
+        },
+        "Kuj7Lkfn8ZckcNGH": {
+            "name": "Lifting and Carrying"
+        },
+        "KxUXbMrUCIAhv4AF": {
+            "name": "Climbing, Swimming, and Crawling"
+        },
+        "LLLopR0IZOleE1xT": {
+            "name": "Psionics"
+        },
+        "LUL48OUq6SJeMGc7": {
+            "name": "Injury"
+        },
+        "LgFIjR9ASPVL0W8K": {
+            "name": "Using Ability Scores"
+        },
+        "LrDxITNV8raUt37y": {
+            "name": "Spellcasting"
+        },
+        "Lw9aodFTlNhXLpyx": {
+            "name": "Rolling 1 or 20"
+        },
+        "MAxtfJyvJV7EpzWN": {
+            "name": "Lightly Obscured"
+        },
+        "MFpyvUIdcBpC9kIE": {
+            "name": "Mounting and Dismounting"
+        },
+        "MWiN7ILEO0Vd3zAZ": {
+            "name": "Druid Spells"
+        },
         "Magic Items A-Z": {
             "name": "Magic Items A-Z",
             "pages": {
@@ -1618,6 +2143,108 @@
                     "text": "<h3>@UUID[Compendium.dnd5e.items.Item.7jEKkA9qbwJ3IuCb]{Wand of Binding}</h3><h3>@UUID[Compendium.dnd5e.items.Item.5Rxo4K9cgpwgW9vZ]{Wand of Enemy Detection}</h3><h3>@UUID[Compendium.dnd5e.items.Item.EJFql4aNWHHJSxT9]{Wand of Fear}</h3><h3>@UUID[Compendium.dnd5e.items.Item.DoSvjhRARhRqWZXg]{Wand of Fireballs}</h3><h3>@UUID[Compendium.dnd5e.items.Item.bPFVfq81EsMNu6OQ]{Wand of Lightning Bolts}</h3><h3>@UUID[Compendium.dnd5e.items.Item.18fbyArtidKzON01]{Wand of Magic Detection}</h3><h3>@UUID[Compendium.dnd5e.items.Item.1taRIMF9w7jpnonN]{Wand of Magic Missiles}</h3><h3>@UUID[Compendium.dnd5e.items.Item.GcpXNc4dKUNw0Tk6]{Wand of Paralysis}</h3><h3>@UUID[Compendium.dnd5e.items.Item.khyjT3dKyoEOf4eA]{Wand of Polymorph}</h3><h3>@UUID[Compendium.dnd5e.items.Item.VQ6NWjWV37wiB29O]{Wand of Secrets}</h3><h3>Wand of the War Mage, +1, +2, or +3</h3><p> › @UUID[Compendium.dnd5e.items.Item.OPbdSlrhkUDNpgcS]{Wand of the War Mage +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.k3T7tpcdzDyVKlF4]{Wand of the War Mage +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.IuVaBrq17AqxpXc4]{Wand of the War Mage +3}</p><h3>@UUID[Compendium.dnd5e.items.Item.4sR5HOah6KwVPHOb]{Wand of Web}</h3><h3>@UUID[Compendium.dnd5e.items.Item.lPsueMv4ZoXqCYf9]{Wand of Wonder}</h3><h3>Weapon, +1, +2, or +3</h3><p> › @UUID[Compendium.dnd5e.items.Item.UAXu4MNvAvaKz9JO]{Battleaxe +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.cQ94oKUZN8FDAI8U]{Battleaxe +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.kNlvoSTcdMqxJPmI]{Battleaxe +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.N8XNP3vjVZmM2r9S]{Blowgun +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.fu7DJcrYWfGMeVt9]{Blowgun +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.HQJ8tiyyrJJSUSyF]{Blowgun +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.fCRftM4QxEDkeu0a]{Club +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.gyJ0imAckcWtCjyv]{Club +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.HdC66U61pDOknaux]{Club +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.59pjg8FGM4GG4Fdd]{Dagger +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.Lr8aRsnia8hftPAb]{Dagger +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.bWI5i4RbyGKT6Eiq]{Dagger +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.giU3yyZXvErjf78D]{Dart +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.EWdfUQriSabqDESm]{Dart +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.izF3kmyFEVI5TWhp]{Dart +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.0LVFLPmsu1b2vf8E]{Flail +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.z0lIRURcyDYt1kLK]{Flail +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.wgBKZNeRN1XsE9I7]{Flail +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.09i8r1UmzDSKiZ9g]{Glaive +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.Mt2WB1W9nDWO4d16]{Glaive +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.rc9nkN6YOD7ogtEi]{Glaive +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.qhdGVfT5j6u46mtk]{Greataxe +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.hdUzXzVPonOQzW81]{Greataxe +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.PAa2EG5kzmqxcp46]{Greataxe +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.dwGxrGqkn2ppNaqs]{Greatclub +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.Or3kVfJ0Fbr33ARS]{Greatclub +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.mkyltDYnuzNU3kmF]{Greatclub +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.kBVK2IiZYRkEYtcM]{Greatsword +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.8LZBOY5USLZ4ngDq]{Greatsword +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.RfEZvwcLwe6Ih0LQ]{Greatsword +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.nl7cc7Z1HpSHbUdQ]{Halberd +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.6ndqUhOySYVVQ5on]{Halberd +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.EU78dSbnr91QWZ7g]{Halberd +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.MnX9soPEMNsCtpv7]{Hand Crossbow +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.3Q6rw9kAMf6F1SW5]{Hand Crossbow +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.oG4rvCuMstgl4Nez]{Hand Crossbow +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.Qfi5Rsuun3reqYmf]{Handaxe +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.LZcpcR21nte4Yoe2]{Handaxe +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.cmnBssaWWzWWm70C]{Handaxe +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.ijDzcDXfJAdj2uED]{Heavy Crossbow +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.8wXB18E0oPAYFkqc]{Heavy Crossbow +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.Sj4zEvuGcSV6anKm]{Heavy Crossbow +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.idtlcnIWgwVdvp31]{Javelin +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.gV671PZGnYoVZefN]{Javelin +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.FhtjbeBeP4q5vTyc]{Javelin +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.l88FXiodYofrJT8a]{Lance +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.CVMGOJWTO6TCybrH]{Lance +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.r97KnMO7Zxgfdh3P]{Lance +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.kHjpHTKex95ULxUX]{Light Crossbow +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.x12sDhylcf8843fT]{Light Crossbow +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.amRx3jOYlPeXEiAN]{Light Crossbow +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.q24QnImAicnT9Byd]{Light Hammer +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.XIpJkxbySJxm6hoU]{Light Hammer +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.Y08Al2dMN8he1hFK]{Light Hammer +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.A2i08i8gAFscm6hZ]{Longbow +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.ZcvU9rRb573NOywv]{Longbow +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.8W6ULfSqzuHh6Peg]{Longbow +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.IPkf0XNowClwXnjQ]{Longsword +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.bcv7J9culilK68zp]{Longsword +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.H6SIiRIig7OMM2Z0]{Longsword +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.jf0XMx2vfEZzZuD7]{Mace +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.m1hJnK7CHsaJB26v]{Mace +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.2CQnAvn06bncXPBt]{Mace +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.EveBprZPBjfZqXLt]{Maul +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.1kihEfn9QppB34ee]{Maul +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.P8f9o36qxagW2uRW]{Maul +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.PKpftwMAn88gfLi7]{Morningstar +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.NrHboku9vJO5FGiY]{Morningstar +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.dghpiMWDSUXtQf6X]{Morningstar +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.rJKXDPikXSYXYgb5]{Net +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.hHX5qXva1ScCpBpL]{Net +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.iIuNqnpWCHrLEKWj]{Net +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.t8L7B0JWamsvxhui]{Quarterstaff +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.7kVZo4DLBq22406E]{Quarterstaff +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.BmWnprrj0QWQ1BL3]{Quarterstaff +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.S7AhpCPDBGUBbg7b]{Rapier +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.uLY74ppOrTaWKwer]{Rapier +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.YevPP0DZXgAcLmzv]{Rapier +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.VGtyTdVLoWls8FL5]{Scimitar +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.VHYy3ZsJNPUo1SIx]{Scimitar +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.2wK9ImkAeG3Lzxa0]{Scimitar +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.gYDMk3LWikIP5PmA]{Shortbow +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.tt4WokZBZMGqgYm5]{Shortbow +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.egJhGFU3v5OfjPNS]{Shortbow +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.sl6yiYSlqkHiVVSN]{Shortsword +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.b2l2ubCGSnmiTrm8]{Shortsword +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.uIHXYhnOwETlA5lT]{Shortsword +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.asUgQFrF1xYeNhtW]{Sickle +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.uRoHwk1c8e5xJjkV]{Sickle +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.AHn15T1TOuDFS0GH]{Sickle +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.6I5lt8KheTsAE4Zr]{Sling +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.9qOAoFw9dTXhJ1w0]{Sling +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.q3WqP3r2emnumyUF]{Sling +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.WNdN2mBF3O7ZNcMp]{Spear +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.HeDP6dL9daVT3uj2]{Spear +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.62EaozKvcA0aSy2q]{Spear +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.vuThcmO7MYlw5b9f]{Trident +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.EkTpM4Wbsrdqflzl]{Trident +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.z9fFB1uaGJvcXTf7]{Trident +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.l2T46xCqUbJvKE7A]{War Pick +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.RbC0UCqAnQcIPIXZ]{War Pick +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.nrvAo3TznyQrHS1t]{War Pick +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.8N1GqcdroUpmM9dS]{Warhammer +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.KvIlZssYEtQ4bvSE]{Warhammer +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.setcTdSZ09rmsqMn]{Warhammer +3}</p><p> › @UUID[Compendium.dnd5e.items.Item.lcqqW2vGF6P8nJ77]{Whip +1}</p><p> › @UUID[Compendium.dnd5e.items.Item.WlPzuxaVnYzxzDEC]{Whip +2}</p><p> › @UUID[Compendium.dnd5e.items.Item.jcQqI0pxLD2nNNQ4]{Whip +3}</p><h3>@UUID[Compendium.dnd5e.items.Item.xjme5oSQZmdAy1fc]{Well of Many Worlds}</h3><h3>@UUID[Compendium.dnd5e.items.Item.mYFfH24uzuKh4IPS]{Wind Fan}</h3><h3>@UUID[Compendium.dnd5e.items.Item.YjImJ3cVnArHH4ES]{Winged Boots}</h3><h3>@UUID[Compendium.dnd5e.items.Item.FkDyLSpiynKTQZdi]{Wings of Flying}</h3>"
                 }
             }
+        },
+        "MpA4jnwD17Q0RPg7": {
+            "name": "Constitution"
+        },
+        "Ms00uWg0w77sWI4C": {
+            "name": "Reactions"
+        },
+        "NLRXcgrpRCfsA5mO": {
+            "name": "Charges"
+        },
+        "NizgRXLNUqtdlC1s": {
+            "name": "Appendix E: Rules"
+        },
+        "NmdLIJPXEMZIWWQa": {
+            "name": "Recharge X–Y"
+        },
+        "NtvBcsKpLrYEV9Y7": {
+            "name": "B"
+        },
+        "O6hamUbI9kVASN8b": {
+            "name": "Vision and Light"
+        },
+        "OFsRUt3pWljgm8VC": {
+            "name": "Fey"
+        },
+        "OVPruCAPRdXlmy7f": {
+            "name": "W"
+        },
+        "OcHhrKKzffcVi03Q": {
+            "name": "Ability Checks"
+        },
+        "PFbzoMBviI2DD9QP": {
+            "name": "Hit Points"
+        },
+        "PVD47ooQoPqxZqvV": {
+            "name": "Armor"
+        },
+        "PVgly1xB2S2I8GLQ": {
+            "name": "Sorcerer Spells"
+        },
+        "PqHSxFUwaXHL7kSz": {
+            "name": "Activating an Item"
+        },
+        "PxYak7E7jGQMxuzh": {
+            "name": "Constitution Checks"
+        },
+        "QqDSGiJgfNloLLka": {
+            "name": "P"
+        },
+        "QvPDSUsAiEn3hD8s": {
+            "name": "Chapter 10: Spellcasting"
+        },
+        "R9nWciuL1bon7BuY": {
+            "name": "Equipment"
+        },
+        "RBYPyE5z5hAZSbH6": {
+            "name": "Range"
+        },
+        "RP1WL9FXI3aknlxZ": {
+            "name": "Bonus Action"
+        },
+        "RZ8IAnSAPtfL2jvL": {
+            "name": "The Planes of Existence"
+        },
+        "RcwElV4GAcVXKWxo": {
+            "name": "Initiative"
+        },
+        "RhVgQfF29CyStS22": {
+            "name": "Heavily Encumbered"
+        },
+        "RiEi4ID9qFpZKrS7": {
+            "name": "Beyond 1st Level"
+        },
+        "Rk5nUGsGWHkSzPub": {
+            "name": "Attack Rolls and Damage"
+        },
+        "RnMokVPyKGbbL8vi": {
+            "name": "Bright Light"
+        },
+        "RpvmpJcaWKJjfsfn": {
+            "name": "Food and Water"
+        },
+        "Rs0xLMFGbcCkEhuA": {
+            "name": "Tools"
+        },
+        "S48JxKMOF2ZmAfav": {
+            "name": "Conflict"
+        },
+        "S9aclVOCbusLE3kC": {
+            "name": "Ranged Attacks"
+        },
+        "SdK1Y86NLlPhjhMl": {
+            "name": "Alignment"
+        },
+        "SehPXk24ySBVOwCZ": {
+            "name": "Enchantment"
+        },
+        "SfmusW5B5jOaR0vd": {
+            "name": "Movement and Position"
+        },
+        "Sl4bniSPSbyrakM2": {
+            "name": "Grappling"
         },
         "Spells A-Z": {
             "name": "Spells A-Z",
@@ -1711,6 +2338,723 @@
                     "text": "<p>@UUID[Compendium.dnd5e.spells.Item.CylBa7jR8DSbo8Z3]{Zone of Truth}</p>"
                 }
             }
+        },
+        "Su6wbb0O9UN4ZDIH": {
+            "name": "Spell Slots"
+        },
+        "T5CJwxjhBbi6oqaM": {
+            "name": "Celestials"
+        },
+        "TMIN963hG773yZzO": {
+            "name": "Combining Magical Effects"
+        },
+        "TWyKMhZJZGqQ6uls": {
+            "name": "Conjuration"
+        },
+        "TX0yPEFTn79AMZ8P": {
+            "name": "Monstrosities"
+        },
+        "TeF6CKMDRpYpsLd4": {
+            "name": "The Schools of Magic"
+        },
+        "TpkZgLfxCmSndmpb": {
+            "name": "Incapacitated"
+        },
+        "Tu30XV5UKGAdgz4Z": {
+            "name": "Strength Checks"
+        },
+        "TyVYTOPeXLHqvG0N": {
+            "name": "B"
+        },
+        "Tz7woWr1hx3Prerz": {
+            "name": "J"
+        },
+        "U91wa2xksFdN49jc": {
+            "name": "T"
+        },
+        "UEPAcZFzQ5x196zE": {
+            "name": "Consumables"
+        },
+        "UQ65OwIyGK65eiOK": {
+            "name": "Attunement"
+        },
+        "UWw13ISmMxDzmwbd": {
+            "name": "Unconscious"
+        },
+        "UZWKjrHZF5pEEqbA": {
+            "name": "Falling Unconscious"
+        },
+        "Ur7xWFlpVK5X8ueP": {
+            "name": "Encumbered"
+        },
+        "V1BkwK2HQrtEfa4d": {
+            "name": "Dodge"
+        },
+        "VWG9qe8PUNtS28Pw": {
+            "name": "Crawling"
+        },
+        "Vgc0SlCji7PgJXH1": {
+            "name": "U"
+        },
+        "Vs6MP6JjihYfqSB8": {
+            "name": "F"
+        },
+        "W0eyiV1FBmngb6Qh": {
+            "name": "Necromancy"
+        },
+        "W7f7PcRubNUMIq2S": {
+            "name": "Cover"
+        },
+        "WIA5bs3P45PmO3OS": {
+            "name": "Space"
+        },
+        "WTgThIDXBP3BhTJK": {
+            "name": "Between Adventures"
+        },
+        "WYZMEei2b0HZgWdu": {
+            "name": "Bard"
+        },
+        "Whmua4WYwTPfvjm8": {
+            "name": "Ability Scores"
+        },
+        "WzWWcTIppki35YvF": {
+            "name": "Intelligence"
+        },
+        "X2CTP455Zpr7Shs9": {
+            "name": "Fly"
+        },
+        "X7MUx4s27wFrY6Df": {
+            "name": "Z"
+        },
+        "Y0vsJYSWeQcFpJ27": {
+            "name": "Ingested"
+        },
+        "Y7nmbQAruWOs7WRM": {
+            "name": "Investigation"
+        },
+        "YAhGI1Pyff166NF9": {
+            "name": "Statistics for Objects"
+        },
+        "YHsuCV4IZZZoyDap": {
+            "name": "Magic Items"
+        },
+        "YIKbDv4zYqbE5teJ": {
+            "name": "Psychic"
+        },
+        "YJkaWnytz5zanzXE": {
+            "name": "Diseases"
+        },
+        "YM7RJylVdSyhAwbI": {
+            "name": "R"
+        },
+        "YSFOauOValBylNc7": {
+            "name": "Armor Class"
+        },
+        "Yljd0J36zC8eibW5": {
+            "name": "Targeting Yourself"
+        },
+        "YmOt8HderKveA19K": {
+            "name": "Surprise"
+        },
+        "ZOCWbO9IYvBf9WyR": {
+            "name": "Conditions"
+        },
+        "ZOPRfI48NyjoloEF": {
+            "name": "Disengage"
+        },
+        "ZWYqwR5xKGfLQH9u": {
+            "name": "Grapple Rules for Monsters"
+        },
+        "ZyZMUwA2rboh4ObS": {
+            "name": "Stunned"
+        },
+        "aYmUMcQfSIqYWpKk": {
+            "name": "Chapter 8: Adventuring"
+        },
+        "aaZQf95dvNIjftAW": {
+            "name": "Art"
+        },
+        "aeJoiagWfLPkJSFM": {
+            "name": "Special Traits"
+        },
+        "avHnt4RvYYnzhDDj": {
+            "name": "Dropping to 0 Hit Points"
+        },
+        "bM4hvojHpH6eqAtX": {
+            "name": "Skills"
+        },
+        "bV8akkBdVUUG21CO": {
+            "name": "Being Prone"
+        },
+        "bghE3dOp2KMcc3b3": {
+            "name": "Going Mad"
+        },
+        "bvdDVfbOkOqgdmcj": {
+            "name": "M"
+        },
+        "c5Xm2a3tPNyF1TGU": {
+            "name": "W"
+        },
+        "cNflBe0pZX8eAFB4": {
+            "name": "Experience Points"
+        },
+        "cSVcyZyNe2iG1fIc": {
+            "name": "Restrained"
+        },
+        "cgzIC1ecG03D97Fg": {
+            "name": "Oozes"
+        },
+        "ckTc3L0Byh2WMHsp": {
+            "name": "Damage and Healing"
+        },
+        "cmkACLWa9Hq1S6Go": {
+            "name": "Wizard"
+        },
+        "cspWveykstnu3Zcv": {
+            "name": "Exhaustion"
+        },
+        "cuG9d7J9fQH9InYT": {
+            "name": "Cleric Spells"
+        },
+        "cwkeZKDj6grWNq8m": {
+            "name": "Hit Points"
+        },
+        "d3eBZOe9PUvZ7dKQ": {
+            "name": "Advantage and Disadvantage"
+        },
+        "dRfDIwuaHmUQ06uA": {
+            "name": "Cube"
+        },
+        "dWO90EG5camfT34z": {
+            "name": "Huge and Gargantuan Objects"
+        },
+        "dc3D4WGYznFa3HCM": {
+            "name": "Using Different Speeds"
+        },
+        "doLlxoEonAEiIJM7": {
+            "name": "Paladin"
+        },
+        "dpHJXYLigIdEseIb": {
+            "name": "Resting"
+        },
+        "eFAISahBloR2X8MX": {
+            "name": "Travel Pace"
+        },
+        "eFTWzngD8dKWQuUR": {
+            "name": "Force"
+        },
+        "eVtpEGXjA2tamEIJ": {
+            "name": "Appendix D: Senses and Speeds"
+        },
+        "eW0LypO5xZZdq4I9": {
+            "name": "Climb"
+        },
+        "eWXjNMjX1tZIFEuq": {
+            "name": "Madness"
+        },
+        "eihqNjwpZ3HM4IqY": {
+            "name": "Time"
+        },
+        "eqXkPKiwiACNXkfw": {
+            "name": "Type"
+        },
+        "evx9TWix4wYU51a5": {
+            "name": "What Is a Spell?"
+        },
+        "f1S66aQJi4PmOng6": {
+            "name": "Fire"
+        },
+        "fvyKl5hb2nLEvpA8": {
+            "name": "S"
+        },
+        "fwJOeFAJn8DkwebA": {
+            "name": "Rolling 1 or 20"
+        },
+        "fwkSG4DkT0379wjE": {
+            "name": "A"
+        },
+        "gFL1VhSEljL1zvje": {
+            "name": "Critical Hits"
+        },
+        "gIhCLRlo8YAF3U86": {
+            "name": "I"
+        },
+        "gOAIRFCyPUx42axn": {
+            "name": "Longer Casting Times"
+        },
+        "gOIzjQ6o3HkzkEY8": {
+            "name": "Underwater Combat"
+        },
+        "gYDAhd02ryUmtwZn": {
+            "name": "Grappled"
+        },
+        "geTidcFIYWuUvD2L": {
+            "name": "Telepathy"
+        },
+        "gi8IKhtOlBVhMJrN": {
+            "name": "Spell Scroll"
+        },
+        "gqecphEUnz4ktrQ9": {
+            "name": "Chapter 3: Classes"
+        },
+        "h3bYSPge8IOqne1N": {
+            "name": "Arcana"
+        },
+        "hFW5BR2yHHwwgurD": {
+            "name": "Difficult Terrain"
+        },
+        "hYT7Z06yDNBcMtGe": {
+            "name": "Performance"
+        },
+        "hd26AqKrCqtcQBWy": {
+            "name": "Damage Rolls"
+        },
+        "hgHJdp8lTiJ5TpN9": {
+            "name": "Chapter 6: Customization Options"
+        },
+        "hgZ5ZN4B3y7tmFlt": {
+            "name": "Reach"
+        },
+        "hrdqMF8hRXJdNzJx": {
+            "name": "Shoving a Creature"
+        },
+        "hv0J61IAfofuhy3Q": {
+            "name": "Half Cover"
+        },
+        "hwTLpAtSS5OqQsI1": {
+            "name": "Dropping Prone & Standing Up"
+        },
+        "iFzQs4AenN8ALRvw": {
+            "name": "Humanoids"
+        },
+        "iIEI87J7lr2sqtb5": {
+            "name": "Water"
+        },
+        "iP1hYT7zzOyrzS7j": {
+            "name": "Your Turn"
+        },
+        "iPB8mGKuQx3X0Z2J": {
+            "name": "Wearing and Wielding Items"
+        },
+        "iSNOtO9OQxN8Buf3": {
+            "name": "Communication"
+        },
+        "icbKYJ9K1sUzmL5W": {
+            "name": "Multiclassing"
+        },
+        "iqWQPnNMz8f1rsQ8": {
+            "name": "Languages"
+        },
+        "iqsmMHk7FSpiNkQy": {
+            "name": "Thunder"
+        },
+        "ixeXj7Eqq5zPDUYo": {
+            "name": "Expenses"
+        },
+        "jIvbJXZXcU4Wuzh0": {
+            "name": "Vulnerabilities, Resistances, and Immunities"
+        },
+        "jQGAJZBZTqDFod8d": {
+            "name": "Constructs"
+        },
+        "jVOgf7DNEhkzYNIe": {
+            "name": "Damage Types"
+        },
+        "jZD5mCTnMPJ9jW67": {
+            "name": "Cantrips"
+        },
+        "jZFp4R7tXsIqkiG3": {
+            "name": "Cylinder"
+        },
+        "jayo7XVgGnRCpTW0": {
+            "name": "Food"
+        },
+        "jcpZgjk77lUW7OkM": {
+            "name": "Languages"
+        },
+        "k2IRXZwGk9W0PM2S": {
+            "name": "Dragons"
+        },
+        "k5wOYXdWPzcWwds1": {
+            "name": "Poison"
+        },
+        "k7RmdfUGl7aQKU5I": {
+            "name": "Inspiration"
+        },
+        "k7Rs5EyXeA0SFTXD": {
+            "name": "Wizard Spells"
+        },
+        "kGp1RNuxL2SELLRC": {
+            "name": "Evocation"
+        },
+        "kNa8rJFbtaTM3Rmk": {
+            "name": "Truesight"
+        },
+        "kRBZbdWMGW9K3wdY": {
+            "name": "History"
+        },
+        "kREHL5pgNUOhay9f": {
+            "name": "Falling"
+        },
+        "kV4IIZoaMJUR4La9": {
+            "name": "A Legendary Creature's Lair"
+        },
+        "kWXplnmp5JXCo84x": {
+            "name": "Chapter 4: Personality and Background"
+        },
+        "kXnCEqqGUWRZeZDj": {
+            "name": "Contact"
+        },
+        "kYIupxHL0v6kzLMq": {
+            "name": "Cover"
+        },
+        "kdlgZOpRMB6bGCod": {
+            "name": "Instantaneous"
+        },
+        "khmR2xFk1NxoQUgZ": {
+            "name": "Controlling a Mount"
+        },
+        "klOVUV5G1U7iaKoG": {
+            "name": "Necrotic"
+        },
+        "kwj04a1za8L4cqPw": {
+            "name": "Melee and Ranged Attacks"
+        },
+        "l4Z4cLJmlegyfY6c": {
+            "name": "Senses"
+        },
+        "lOVKZ7EtGyWimsYm": {
+            "name": "L"
+        },
+        "lQ6qPkCfIyjIADY5": {
+            "name": "Barbarian"
+        },
+        "ldmA1PbnEGVkmE11": {
+            "name": "Darkvision"
+        },
+        "ljqhJx8Qxu2ivo69": {
+            "name": "Use an Object"
+        },
+        "lq3TRI6ZlED8ABMx": {
+            "name": "Poisoned"
+        },
+        "m2K2xsTy8w0WFuoJ": {
+            "name": "Chapter 2: Races"
+        },
+        "m4ErwsuDpgi9Hu0V": {
+            "name": "Challenge"
+        },
+        "mh73MffZNiVCVxJV": {
+            "name": "Sorcerer"
+        },
+        "mqVZ2fz0L7a9VeKJ": {
+            "name": "Deception"
+        },
+        "mx4TsSbBIAaAkhQ7": {
+            "name": "Warlock Spells"
+        },
+        "n0gCL50RM2QjHw6F": {
+            "name": "Resting"
+        },
+        "n1Ocpbyhr6HhgbCG": {
+            "name": "Dim Light"
+        },
+        "nBRkCAhWQOChx5qN": {
+            "name": "Warlock"
+        },
+        "nLK08pRtyaLLuB4w": {
+            "name": "Ranger"
+        },
+        "nUPv6C66Ur64BIUH": {
+            "name": "Strength"
+        },
+        "njF9PueE9rmnn8N8": {
+            "name": "The Order of Combat"
+        },
+        "nk7LKOPdp2p513fO": {
+            "name": "V"
+        },
+        "nkEPI89CiQnOaLYh": {
+            "name": "Inspiration"
+        },
+        "npdEWb2egUPnB5Fa": {
+            "name": "Sphere"
+        },
+        "nqt4mR004wWbljhw": {
+            "name": "Time"
+        },
+        "oNQWvyRZkTOJ8PBq": {
+            "name": "Diseases"
+        },
+        "oONHbeR1vPpfU1aT": {
+            "name": "Size and Strength"
+        },
+        "oezg742GlxmEwT85": {
+            "name": "Known and Prepared Spells"
+        },
+        "om6YcPnsMpvmSkQj": {
+            "name": "H"
+        },
+        "oreoyaFKnvZCrgij": {
+            "name": "Frightened"
+        },
+        "ow58p27ctAnr4VPH": {
+            "name": "Concentration"
+        },
+        "p1Jaf0GiuDnembBO": {
+            "name": "Alignment"
+        },
+        "plCB5ei1JbVtBseb": {
+            "name": "Spells A-Z"
+        },
+        "plHuoNdS0j3umPNS": {
+            "name": "Hiding"
+        },
+        "pxfO7ZR2AJhqaktD": {
+            "name": "Nonplayer Characters"
+        },
+        "pyo2jnYvavIGyg0s": {
+            "name": "Innate Spellcasting"
+        },
+        "q8azjjql1Ya5DeR2": {
+            "name": "Traps in Play"
+        },
+        "qAFzmGZKhVvAEUF3": {
+            "name": "Attack Rolls"
+        },
+        "qDa1UPF8OHCCPVM4": {
+            "name": "I"
+        },
+        "qEZvxW0NM7ixSQP5": {
+            "name": "Ranged Attacks in Close Combat"
+        },
+        "qKmqbRFE9n2Up5bF": {
+            "name": "Equipment"
+        },
+        "qUyioT438hkwApBG": {
+            "name": "Trade Goods"
+        },
+        "qiH6zRDM96meMz8Y": {
+            "name": "Races"
+        },
+        "qvBU4XhGZuOrb8LT": {
+            "name": "Trap Effects"
+        },
+        "qwUNgUNilEmZkSC9": {
+            "name": "Somatic (S)"
+        },
+        "r1CgZXLcqFop6Dlx": {
+            "name": "Stabilizing a Creature"
+        },
+        "rACi0b6BleZOqpCl": {
+            "name": "V"
+        },
+        "rIR7ttYDUpH3tMzv": {
+            "name": "Athletics"
+        },
+        "rLJdvz4Mde8GkEYQ": {
+            "name": "Multiple Items of the Same Kind"
+        },
+        "rVqb9MusYjBGrk6B": {
+            "name": "K"
+        },
+        "raPwIkqKSv60ELmy": {
+            "name": "High Jump"
+        },
+        "rd9pCH8yFraSGN34": {
+            "name": "Paired Items"
+        },
+        "s0ZHwT4gTb5fuw4w": {
+            "name": "Madness Effects"
+        },
+        "sANq9JMycfSq3A5d": {
+            "name": "Ranger Spells"
+        },
+        "sBAdGkDN7y7GmHKc": {
+            "name": "Multiattack"
+        },
+        "sLw1gfc1aLg7djmZ": {
+            "name": "Intelligence Checks"
+        },
+        "saRwXXdZ2trLoGHZ": {
+            "name": "Recharge after a Short or Long Rest"
+        },
+        "sacjsfm9ZXnw4Tqc": {
+            "name": "Blindsight"
+        },
+        "sfJtvPjEs50Ruzi4": {
+            "name": "Magic Items A-Z"
+        },
+        "sg7JuiDwLrmK8Ddk": {
+            "name": "R"
+        },
+        "sgs4mhWwQev8JY03": {
+            "name": "Rogue"
+        },
+        "smEk7kvVyslFozrB": {
+            "name": "Illusion"
+        },
+        "sz2XKQ5lgsdPEJOa": {
+            "name": "Slashing"
+        },
+        "t0XXMmv014K4vV3p": {
+            "name": "Actions in Combat"
+        },
+        "t3EzDU5b9BVAIEVi": {
+            "name": "Survival"
+        },
+        "t62lCfinwU9H7Lji": {
+            "name": "Reactions"
+        },
+        "t6scHTmpmHBTZGTX": {
+            "name": "Chapter 11: DM Tools"
+        },
+        "tVyTG8DkzYAi7wxc": {
+            "name": "Interacting with Objects Around You"
+        },
+        "tthOsaZTr7AVKnsW": {
+            "name": "Proficiency Bonus"
+        },
+        "twd4zj7m1n9sBaVG": {
+            "name": "Making an Attack"
+        },
+        "u46Rva9Nrm9bG1Mu": {
+            "name": "Spellcasting Ability"
+        },
+        "u4GQCzoBig20yRLj": {
+            "name": "Attack"
+        },
+        "uDAwhaxTV9p57TWK": {
+            "name": "A"
+        },
+        "uEwjgKGuCRTNADYv": {
+            "name": "Knocking a Creature Out"
+        },
+        "uQWQpRKQ1kWhuvjZ": {
+            "name": "Forced March"
+        },
+        "udVPA9JW5wy5t3G5": {
+            "name": "Appendix B: Gods and the Multiverse"
+        },
+        "ueMx3uF2PQlcye31": {
+            "name": "Nature"
+        },
+        "uj8W27NKFyzygPUd": {
+            "name": "Regional Effects"
+        },
+        "v0UFDQcAt4aVwvxI": {
+            "name": "Size"
+        },
+        "v0WE18nT5SJO8Ft7": {
+            "name": "Damage Resistance and Vulnerability"
+        },
+        "v3IPyTtqvXqN934s": {
+            "name": "Wisdom"
+        },
+        "vR9rCM0UXPM9zl43": {
+            "name": "Movement"
+        },
+        "va0sfLfuz2kDP78g": {
+            "name": "Spellcasting Ability"
+        },
+        "vfuGcEbTfLjmqkAM": {
+            "name": "G"
+        },
+        "w7eitkpD7QQTB6j0": {
+            "name": "Appendix A: Conditions"
+        },
+        "wAMCoSlvbZH5G7lS": {
+            "name": "Breaking Up Your Move"
+        },
+        "wKtOwagDAiNfVoPS": {
+            "name": "Squeezing into a Smaller Space"
+        },
+        "wPFjfRruboxhtL4b": {
+            "name": "Heavily Obscured"
+        },
+        "woz7jrGWkpioqcvQ": {
+            "name": "C"
+        },
+        "wre9ECSVuEyJBYhr": {
+            "name": "Casting a Spell"
+        },
+        "wvtCeGHgnUmh0cuj": {
+            "name": "Areas of Effect"
+        },
+        "x5bUdhAD7u5Bt2rg": {
+            "name": "Moving a Grappled Creature"
+        },
+        "xBOHFPuQWeudrfqy": {
+            "name": "Limited Usage"
+        },
+        "xJjJ4lhymAYXAOvO": {
+            "name": "Unarmed Strike"
+        },
+        "xaNDaW6NwQTgHSmi": {
+            "name": "Petrified"
+        },
+        "xb3MCjUvopOU4viE": {
+            "name": "Animal Handling"
+        },
+        "xeHthAF9lxfn2tII": {
+            "name": "Components"
+        },
+        "xnSV5hLJIMaTABXP": {
+            "name": "Paralyzed"
+        },
+        "xt6tSGvU9e0vtXw6": {
+            "name": "Using Each Ability"
+        },
+        "xxt7YT2t76JxNTel": {
+            "name": "Disclaimer"
+        },
+        "y0TkcdyoZlOTmAFT": {
+            "name": "Prone"
+        },
+        "yAxKu1Ffw5nMUHSv": {
+            "name": "F"
+        },
+        "yEK0RUmDMxWubBlS": {
+            "name": "S"
+        },
+        "yK94U1uZ8xkuYlHa": {
+            "name": "E"
+        },
+        "yVqTYrqULTs2JCV8": {
+            "name": "Backgrounds"
+        },
+        "yg6SRpGNVz9nDW0A": {
+            "name": "Sleight of Hand"
+        },
+        "ygdteO7FoWsKqfOD": {
+            "name": "Fighter"
+        },
+        "yuSwUFIjK31Mr3DI": {
+            "name": "Ability Scores and Modifiers"
+        },
+        "yy50qVC1JhPHt4LC": {
+            "name": "Aberrations"
+        },
+        "z4A8vHSK2pb8YA9X": {
+            "name": "Casting in Armor"
+        },
+        "zAMStUjUrPV10dFm": {
+            "name": "Three-Quarters Cover"
+        },
+        "zRVW8Tvyk6BECjZD": {
+            "name": "Casting Time"
+        },
+        "zZaEBrKkr66OWJvD": {
+            "name": "Charmed"
+        },
+        "zeU0NyCyP10lkLg3": {
+            "name": "Opportunity Attacks"
+        },
+        "ziBzRlrpBm1KVV0j": {
+            "name": "Bard Spells"
+        },
+        "zjEeHCUqfuprfzhY": {
+            "name": "Perception"
         }
     }
 }
