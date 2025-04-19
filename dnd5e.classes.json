@@ -54,7 +54,7 @@
                     "title": "Hit Points"
                 },
                 "5": {
-                    "title": "Purity of Body"
+                    "hint": "Your mastery of the ki flowing through you makes you immune to disease and poison."
                 },
                 "6": {
                     "title": "Features"
@@ -141,22 +141,22 @@
                     "title": "Features"
                 },
                 "10": {
-                    "title": "Eldritch Invocations"
+                    "hint": "If an eldritch invocation has prerequisites, you must meet them to learn it. You can learn the invocation at the same time that you meet its prerequisites. A level prerequisite refers to your level in this class."
                 },
                 "11": {
                     "title": "Pact Boon"
                 },
                 "12": {
-                    "title": "Mystic Arcanum (6th level)"
+                    "hint": "Choose one 6th-level spell from the warlock spell list as this arcanum."
                 },
                 "13": {
-                    "title": "Mystic Arcanum (7th level)"
+                    "hint": "Choose one 7th-level spell from the warlock spell list as this arcanum."
                 },
                 "14": {
-                    "title": "Mystic Arcanum (8th level)"
+                    "hint": "Choose one 8th-level spell from the warlock spell list as this arcanum."
                 },
                 "15": {
-                    "title": "Mystic Arcanum (9th level)"
+                    "hint": "Choose one 9th-level spell from the warlock spell list as this arcanum."
                 },
                 "16": {
                     "title": "Cantrips Known"
@@ -204,7 +204,7 @@
                     "title": "Features"
                 },
                 "11": {
-                    "title": "Fighting Style"
+                    "hint": "You adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again."
                 },
                 "12": {
                     "title": "Indomitable Uses"
@@ -264,7 +264,7 @@
                     "title": "Features"
                 },
                 "17": {
-                    "title": "Magical Secrets"
+                    "hint": "Choose two spells from any classes, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip."
                 },
                 "18": {
                     "title": "Bardic Inspiration Die"
@@ -330,7 +330,7 @@
                     "title": "Features"
                 },
                 "15": {
-                    "title": "Fighting Style"
+                    "hint": "Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again."
                 },
                 "16": {
                     "title": "Spells Known"
@@ -360,7 +360,7 @@
                     "title": "Hit Points"
                 },
                 "6": {
-                    "title": "Divine Health"
+                    "hint": "The divine magic flowing through you makes you immune to disease."
                 },
                 "7": {
                     "title": "Features"
@@ -387,7 +387,7 @@
                     "title": "Features"
                 },
                 "15": {
-                    "title": "Fighting Style"
+                    "hint": "Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again."
                 },
                 "16": {
                     "title": "Ability Score Improvement"
@@ -522,7 +522,7 @@
                     "title": "Features"
                 },
                 "8": {
-                    "title": "Signature Spells"
+                    "hint": "Choose two 3rd-level wizard spells in your spellbook as your signature spells."
                 },
                 "9": {
                     "title": "Cantrips Known"
@@ -602,6 +602,9 @@
                 "23": {
                     "title": "Ability Score Improvement"
                 },
+                "27": {
+                    "hint": "You have acquired greater mental strength. You gain proficiency in Wisdom saving throws."
+                },
                 "28": {
                     "title": "Roguish Archetype"
                 }
@@ -613,6 +616,9 @@
             "advancement": {
                 "0": {
                     "title": "Hit Points"
+                },
+                "1": {
+                    "hint": "Light Armor, Medium Armor, & Shields (druids will not wear armor or use shields made of metal)"
                 },
                 "6": {
                     "title": "Features"
