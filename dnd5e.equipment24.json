@@ -1249,7 +1249,7 @@
         },
         "dmgElixirOfHealt": {
             "name": "Elixir of Health",
-            "description": "<div><p><em>Potion, Rare</em></p></div><blockquote><p>The clear, red liquid has tiny bubbles of light in it.</p></blockquote><p>When you drink this potion, you are cured of all magical contagions. In addition, the following conditions end on you: &amp;Reference[Blinded], &amp;Reference[Deafened], &amp;Reference[Paralyzed], and &amp;Reference[Poisoned].</p>"
+            "description": "<div><p><em>Potion, Rare</em></p></div><p>When you drink this potion, you are cured of all magical contagions. In addition, the following conditions end on you: &amp;Reference[Blinded apply=false], &amp;Reference[Deafened apply=false], &amp;Reference[Paralyzed apply=false], and &amp;Reference[Poisoned apply=false].</p><p>The clear, red liquid has tiny bubbles of light in it.</p>"
         },
         "dmgElvenChain000": {
             "name": "Elven Chain",
@@ -1906,7 +1906,7 @@
         },
         "dmgRodOfResurrec": {
             "name": "Rod of Resurrection",
-            "description": "<p><em>Rod, Legendary (Requires Attunement)</em></p><p>The rod has 5 charges. While you hold it, you can cast one of the following spells from it: @UUID[Compendium.dnd5e.feats24.Item.phbftHealer00000]{Heal} (expends 1 charge) or @UUID[Compendium.dnd5e.spells24.Item.phbsplResurrecti]{Resurrection} (expends 5 charges).</p><p>The rod regains 1 expended charge daily at dawn. If you expend the last charge, roll [[/r 1d20]]. On a 1, the rod disappears in a harmless burst of radiance.</p>"
+            "description": "<p><em>Rod, Legendary (Requires Attunement)</em></p><p>The rod has 5 charges. While you hold it, you can cast one of the following spells from it: @UUID[Compendium.dnd5e.spells24.Item.phbsplHeal000000]{Heal} (expends 1 charge) or @UUID[Compendium.dnd5e.spells24.Item.phbsplResurrecti]{Resurrection} (expends 5 charges).</p><p>The rod regains 1 expended charge daily at dawn. If you expend the last charge, roll [[/r 1d20]]. On a 1, the rod disappears in a harmless burst of radiance.</p>"
         },
         "dmgRodOfRulershi": {
             "name": "Rod of Rulership",
