@@ -13,6 +13,159 @@
         "Creating a Character": "Creating a Character"
     },
     "entries": {
+        "1HtTelpxxOAc4vID": {
+            "name": "Puzzle"
+        },
+        "1miaa3ePalyErX8y": {
+            "name": "Mastiff"
+        },
+        "1nEUEa3WUmsNMDFC": {
+            "name": "Jackal"
+        },
+        "3Qtoly9mgrhZ8UW4": {
+            "name": "Giant Badger"
+        },
+        "5WGqQRDzxKVqIgoI": {
+            "name": "Balance"
+        },
+        "6L3KbE75ugKNdbhg": {
+            "name": "Human"
+        },
+        "7h9jMXFIxBKzjivk": {
+            "name": "Rogue"
+        },
+        "8g4dm4vqB60zPWw5": {
+            "name": "Elven Lineage"
+        },
+        "8oHL5jQ0fXbXGpuf": {
+            "name": "Cardinal Directions"
+        },
+        "93Y3C0JT1dJtoFwW": {
+            "name": "Void"
+        },
+        "9FtTDJCOwnD97SOu": {
+            "name": "Goliath"
+        },
+        "9isSpLlYLL5h2Aoa": {
+            "name": "Rogue"
+        },
+        "A4xbZelWo8bO7tfV": {
+            "name": "Elf, Wood"
+        },
+        "AEVEm8pwZd8HZEaf": {
+            "name": "Key"
+        },
+        "AIWT6lRqac4IYvnv": {
+            "name": "Gnome, Forest"
+        },
+        "APmmNA5Z3jQQG2U0": {
+            "name": "Donjon"
+        },
+        "B2uTmg4glLwbt7OE": {
+            "name": "Ape"
+        },
+        "BDTDezjTIxlDKI0W": {
+            "name": "Tiefling, Abyssal"
+        },
+        "BnLtNGVLIwk3q6Hf": {
+            "name": "Elf, Drow"
+        },
+        "D9Z08jw6cnu1UMjo": {
+            "name": "Key"
+        },
+        "D9qG1cIKGxRGMdm7": {
+            "name": "Giant Goat"
+        },
+        "DAzY7u6xTitMeoB6": {
+            "name": "Skull"
+        },
+        "EiuOGVBwrd5dzY1O": {
+            "name": "Ruin"
+        },
+        "GHibWDnM5Q0a2JtC": {
+            "name": "Owl"
+        },
+        "GUJztKPsgSVX7R39": {
+            "name": "Gem"
+        },
+        "GaLvOBWWFIj4RQIO": {
+            "name": "Giant Elk"
+        },
+        "GlIp7jcoqnfbWWqc": {
+            "name": "Giant Hyena"
+        },
+        "H6PRkRifUyITp5Ph": {
+            "name": "Knight"
+        },
+        "HRPWtZTeg5oK5ImY": {
+            "name": "Panther"
+        },
+        "JIVjZDR7dWYLBJi4": {
+            "name": "Fates"
+        },
+        "JT3pbm7yJ23CiCqT": {
+            "name": "Euryale"
+        },
+        "JpUuNwaf83gmUwV4": {
+            "name": "Sub-Languages Table"
+        },
+        "LumSf2zPMkOkfFLE": {
+            "name": "Dire Wolf"
+        },
+        "PkXN8vlW5cXx8vbB": {
+            "name": "Fiendish Legacy"
+        },
+        "RI73kNpd5iAababR": {
+            "name": "Halfling"
+        },
+        "SEhoRaQ3DYPJpgis": {
+            "name": "Black Bear"
+        },
+        "SvVflxSVAZgZiUZz": {
+            "name": "Giant Boar"
+        },
+        "SyT5zrUhk8Zh98rX": {
+            "name": "Lion"
+        },
+        "SzMeDSCvraNzAqcm": {
+            "name": "Brown Bear"
+        },
+        "Tzf8H1DJyFsmBqaN": {
+            "name": "Jester"
+        },
+        "WN6avNTrKLMyCRVD": {
+            "name": "Sun"
+        },
+        "XAwjD2CKetY0vDzS": {
+            "name": "Rat"
+        },
+        "XoGa3OMCvqVJ1iUS": {
+            "name": "Sun"
+        },
+        "Ym4LPQm1DMZ3iUBH": {
+            "name": "Dwarf"
+        },
+        "aQ0vAp1BNIGLUZa0": {
+            "name": "Giant Weasel"
+        },
+        "az5LLssMmXKwVuVN": {
+            "name": "Tiefling, Chthonic"
+        },
+        "bEMGelUnEQGCNIch": {
+            "name": "Knight"
+        },
+        "ckQqX5zhGyji2SBo": {
+            "name": "Star"
+        },
+        "dG8deoNGQdNwnJRf": {
+            "name": "Fool"
+        },
+        "dGC8E7S2XXliLPjy": {
+            "name": "Axe Beak"
+        },
+        "dQ9za3nwnBnEltRF": {
+            "name": "Tiger"
+        },
         "dmg1116RandomMag": {
             "name": "Level 11-16"
         },
@@ -112,6 +265,24 @@
         "dmgWandOfWonderE": {
             "name": "Wand of Wonder Effects"
         },
+        "fRp61b2M2UirSn1B": {
+            "name": "Elf, High"
+        },
+        "imEKznlZEE0rSsLx": {
+            "name": "Flames"
+        },
+        "k0SXf6JEb7Eairsz": {
+            "name": "Comet"
+        },
+        "kDI3PFkVjvrFOI7G": {
+            "name": "Baboon"
+        },
+        "kGl8BbIhwg7Ptesu": {
+            "name": "Flames"
+        },
+        "lCG2E5mLJL43oGk4": {
+            "name": "Dragonborn"
+        },
         "mmAnimatedObject": {
             "name": "Animated Object Catalysts"
         },
@@ -175,6 +346,21 @@
         "mmWraithManifest": {
             "name": "Wraith Manifestations"
         },
+        "nIAzWt9uXY5U3kSz": {
+            "name": "Ruin"
+        },
+        "ncs8GLvSuavCJAqf": {
+            "name": "Gnomish Lineage"
+        },
+        "nvT66fqxT99k5jKd": {
+            "name": "Sage"
+        },
+        "oRpNqb5LQrTBwcdV": {
+            "name": "Throne"
+        },
+        "petFp3KELvvag9R3": {
+            "name": "Star"
+        },
         "phbElvenLineage0": {
             "name": "Elven Lineage"
         },
@@ -210,6 +396,57 @@
         },
         "phbsplTeleportMi": {
             "name": "Teleport Mishap"
+        },
+        "pzL0RD1tg43fqDTo": {
+            "name": "Sub-Languages Table"
+        },
+        "q7k0kww4KOcCQh8Z": {
+            "name": "Moon"
+        },
+        "rMJiKI5wApRiSebO": {
+            "name": "Throne"
+        },
+        "rgmgNUmrPVv1e7Dz": {
+            "name": "Tiefling, Infernal"
+        },
+        "sT9ULq3ZPnBuh0AY": {
+            "name": "Skull"
+        },
+        "sxKB8VQEBh0roKnc": {
+            "name": "Moon"
+        },
+        "tErs3uTFNYKl3gAu": {
+            "name": "Gnome, Rock"
+        },
+        "trQNDzdEF19fadQK": {
+            "name": "Jester"
+        },
+        "uhxub63WB4H7yROY": {
+            "name": "Goat"
+        },
+        "v5WZsl3D7AcVp8kv": {
+            "name": "Euryale"
+        },
+        "v65tOkYcYXbUplIe": {
+            "name": "Boar"
+        },
+        "wHuva8KyJqk0ks9t": {
+            "name": "Weasel"
+        },
+        "xNcsrma8ucsEEgz3": {
+            "name": "Orc"
+        },
+        "xVsjx6HCackwxQ1O": {
+            "name": "Talons"
+        },
+        "xzCuVY29JwIHHgbB": {
+            "name": "Void"
+        },
+        "y0mm0I94cSaTbkk6": {
+            "name": "Badger"
+        },
+        "z4mqTXpfNseZDTT6": {
+            "name": "Giant Rat"
         }
     }
 }

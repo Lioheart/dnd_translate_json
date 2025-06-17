@@ -34,7 +34,7 @@
         },
         "0EcUwWcmWzFuiJyg": {
             "name": "Stench",
-            "description": "<p>Any creature that starts its turn <strong>within 10 feet</strong> of the hezrou must succeed on a <strong>DC 14 Constitution saving throw</strong> or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours.</p>",
+            "description": "<p>Any creature that starts its turn within 10 feet of the hezrou must succeed on a [[/save]] saving throw or be &amp;Reference[poisoned] until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours.</p>",
             "chat": "<p>Any creature that starts its turn <strong>within 10 feet</strong> of the hezrou must succeed on a Constitution saving throw.</p>"
         },
         "0NpX1YUDTXjgIm23": {
@@ -76,6 +76,7 @@
         },
         "0blKOND2AnsMsZa6": {
             "name": "Etherealness",
+            "description": "<p>The hag magically enters the Ethereal Plane from the Material Plane, or vice versa. To do so, the hag must have a <em>heartstone</em> in her possession.</p>",
             "chat": "<section class=\"secret\"><p></p></section><p>The hag magically enters the Ethereal Plane from the Material Plane, or vice versa. To do so, the hag must have a heartstone in her possession.</p>"
         },
         "0fheJO7kmH1UV99g": {
@@ -99,7 +100,7 @@
         },
         "0xdLfPJEHYwh8MIT": {
             "name": "Death Burst",
-            "description": "<p>When the magmin dies, it explodes in a burst of fire and magma. </p><p>Each creature within 10 ft. of it must make a  <strong>DC 11 Dexterity</strong> saving throw, taking <strong>7 (2d6) <em>fire damage</em></strong> on a failed save, or half as much damage on a successful one. Flammable objects that aren't being worn or carried in that area are ignited.</p>",
+            "description": "<p>When the magmin dies, it explodes in a burst of fire and magma. Each creature within 10 ft. of it must make a [[/save]] saving throw, taking [[/damage average]] damage on a failed save, or half as much damage on a successful one. Flammable objects that aren't being worn or carried in that area are ignited.</p>",
             "chat": "<p>When the magmin dies, it explodes in a burst of fire and magma. Each creature within 10 ft. of it must make a <strong>Dexterity</strong> saving throw. Flammable objects that aren't being worn or carried in that area are ignited.</p>"
         },
         "0yHcZm2TzgOyt3fI": {
@@ -122,7 +123,7 @@
         },
         "14epJr1iwk3pnPVs": {
             "name": "Hold Breath",
-            "description": "<p>The lizardfolk can hold its breath for <strong>15 minutes</strong>.</p>"
+            "description": "<p>The lizardfolk can hold its breath for 15 minutes.</p>"
         },
         "15Fa6q1nH27XfbR8": {
             "name": "Dispel Magic",
@@ -139,7 +140,7 @@
         },
         "198fJNFbhjGeZ8UZ": {
             "name": "Shortsword",
-            "description": "<p>A medium sized blade with a firm crossguard and a leather-wrapped handle. A versatile weapon which makes up in versatility what it lacks in reach.</p>"
+            "description": "<p>[[/attack extended]]. [[/damage extended]]</p>"
         },
         "1ArcmRCn5G0t6sOo": {
             "name": "Charge",
@@ -218,7 +219,7 @@
         },
         "1YhP86rTuRIXKFi2": {
             "name": "Scare",
-            "description": "<p>One creature of the quasit's choice within 20 ft. of it must succeed on a  <strong>DC 10 Wisdom</strong> saving throw or be frightened for 1 minute. </p><p>The target can repeat the saving throw at the end of each of its turns, with disadvantage if the quasit is within line of sight, ending the effect on itself on a success.</p>",
+            "description": "<p>One creature of the quasit's choice within 20 ft. of it must succeed on a [[/save]] saving throw or be &amp;Reference[frightened] for 1 minute.</p><p>The target can repeat the saving throw at the end of each of its turns, with disadvantage if the quasit is within line of sight, ending the effect on itself on a success.</p>",
             "chat": "<p>One creature of the quasit's choice within 20 ft. of it must make a <strong>Wisdom</strong> saving throw. The target can repeat the saving throw at the end of each of its turns, with disadvantage if the quasit is within line of sight, ending the effect on itself on a success.</p>"
         },
         "1aEgtsYuxz12hFn3": {
@@ -251,12 +252,12 @@
         },
         "1mD9NcCf8ZMQtsrU": {
             "name": "Frost Breath",
-            "description": "<p>The mephit exhales a 15-foot cone of cold air. Each creature in that area must succeed on a  <strong>DC 10 Dexterity</strong> saving throw, taking <strong>5 (2d4) <em>cold damage</em></strong> on a failed save, or half as much damage on a successful one.</p>",
+            "description": "<p>The mephit exhales a 15-foot cone of cold air. Each creature in that area must succeed on a [[/save]] saving throw, taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
             "chat": "<p>The mephit exhales a 15-foot cone of cold air. Each creature in that area must make a <strong>Dexterity</strong> saving throw.</p>"
         },
         "1oGgJQB1ItqyKoZ5": {
             "name": "Whip",
-            "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>The target must succeed on a  <strong>DC 20 Strength</strong> saving throw or be pulled up to 25 feet toward the balor.</p>",
+            "description": "<p>[[/attack extended]]. [[/damage extended]]. The target must succeed on a [[/save]] saving throw or be pulled up to 25 feet toward the balor.</p>",
             "chat": "<p>The Balor attacks with its Whip. The target must make a <strong>Strength</strong> saving throw.</p>"
         },
         "1oNtSpRA4XS3L6to": {
@@ -331,7 +332,7 @@
         },
         "2MKXiCJeOrUJIEto": {
             "name": "Magic Resistance",
-            "description": "<p>The pit fiend has<strong> advantage </strong>on saving throws against spells and other magical effects.</p>"
+            "description": "<p>The pit fiend has advantage on saving throws against spells and other magical effects.</p>"
         },
         "2MZNHeOZweXAYbv1": {
             "name": "Xorn"
@@ -383,7 +384,7 @@
         },
         "2iPYXoxM2ZReuhSL": {
             "name": "Keen Hearing and Smell",
-            "description": "<p>The weretiger has<strong> advantage </strong>on Wisdom (Perception) checks that rely on hearing or smell.</p>"
+            "description": "<p>The weretiger has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
         },
         "2iRdkvAfbmxSymuw": {
             "name": "Amorphous",
@@ -400,7 +401,7 @@
         },
         "2kHNI1T4gg879fDv": {
             "name": "Shapechanger",
-            "description": "<p>The werewolf can use its action to <strong>polymorph</strong> into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. </p><p>Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>",
+            "description": "<p>The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid.</p><p>Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>",
             "chat": "<p>The werewolf can use its action to <strong>polymorph</strong>, or return to its true form.</p>"
         },
         "2m2mkUSBJi2QOZje": {
@@ -409,7 +410,7 @@
         },
         "2n8ByeQNl7QkjNVA": {
             "name": "Heated Body",
-            "description": "<p>A creature that touches the salamander or hits it with a melee attack while within 5 ft. of it takes <strong>7 (2d6) <em>fire damage</em></strong>.</p>",
+            "description": "<p>A creature that touches the salamander or hits it with a melee attack while within 5 ft. of it takes [[/damage average]] damage.</p>",
             "chat": "<p>A creature that touches the salamander or hits it with a melee attack while within 5 ft. of it takes <em>fire damage</em>.</p>"
         },
         "2reHgwNJRFbhmxqA": {
@@ -422,7 +423,7 @@
         },
         "2y0o9wGzCVoBBuDZ": {
             "name": "Heated Weapons",
-            "description": "<p>Any metal melee weapon the salamander wields deals an extra <strong>3 (1d6) <em>fire damage</em></strong> on a hit (included in the attack).</p>",
+            "description": "<p>Any metal melee weapon the salamander wields deals an extra 3 (1d6) fire damage on a hit (included in the attack).</p>",
             "chat": "<p>Any metal melee weapon the salamander wields deals an extra <em>fire damage</em> on a hit (included in the attack).</p>"
         },
         "2y826IUSIAgmYf2c": {
@@ -509,7 +510,7 @@
         },
         "3TD2NpdjIDJxeLl9": {
             "name": "Tusks (Boar or Hybrid Form Only)",
-            "description": "<p>[[/attack extended]]. [[/damage extended]]. </p><p>If the target is a humanoid, it must succeed on a  <strong>DC 12 Constitution</strong> saving throw or be cursed with wereboar lycanthropy.</p>",
+            "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>If the target is a humanoid, it must succeed on a [[/save]] saving throw or be cursed with wereboar lycanthropy.</p>",
             "chat": "<p>The Wereboar attacks with its Tusks. If the target is a humanoid, it must make a <strong>Constitution</strong> saving throw.</p>"
         },
         "3UHmbpT3v3FTlplI": {
@@ -591,7 +592,7 @@
         },
         "46b7R0DbKIsxvWcv": {
             "name": "Multiattack",
-            "description": "<p>The knight makes two melee attacks.</p>"
+            "description": "<p>The knight makes two [[/item .iPLa96izrYFiVtaO]]{melee} attacks.</p>"
         },
         "4Cf4U7JMFMCyjw7N": {
             "name": "Wing Attack",
@@ -680,7 +681,7 @@
         },
         "4xg2sYoD5Z4lRmkT": {
             "name": "Keen Smell",
-            "description": "<p>The giant has<strong> advantage </strong>on Wisdom (Perception) checks that rely on smell.</p>"
+            "description": "<p>The giant has advantage on Wisdom (Perception) checks that rely on smell.</p>"
         },
         "50udgXso5dIQmQfv": {
             "name": "Amphibious",
@@ -747,7 +748,7 @@
         },
         "5XUFTldfE6mtRUfd": {
             "name": "Whelm",
-            "description": "<p>Each creature in the elemental's space must make a  <strong>DC 15 Strength</strong> saving throw. On a failure, a target takes <strong>13 (2d8 + 4) <em>bludgeoning damage</em></strong>. If it is Large or smaller, it is also grappled (escape DC 14). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. </p><p>If the saving throw is successful, the target is pushed out of the elemental's space.The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental's turns, each target grappled by it takes <strong>13 (2d8 + 4) <em>bludgeoning damage</em></strong>. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a DC 14 Strength check and succeeding.</p>",
+            "description": "<p>Each creature in the elemental's space must make a [[/save]] saving throw. On a failure, a target takes [[/damage average]] damage. If it is Large or smaller, it is also &amp;Reference[grappled] (escape DC 14). Until this grapple ends, the target is &amp;Reference[restrained] and unable to breathe unless it can breathe water.</p><p>If the saving throw is successful, the target is pushed out of the elemental's space.The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental's turns, each target grappled by it takes [[/damage average]] damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a [[/check]] check and succeeding.</p>",
             "chat": "<p>Each creature in the elemental's space must make a <strong>Strength</strong> saving throw. If it is Large or smaller, it is also grappled. Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a Strength check and succeeding.</p>"
         },
         "5ZWzJ5OSQh22ueeq": {
@@ -816,13 +817,13 @@
             "description": "<p>The aboleth makes three [[/item .sgauK8Lyt8qxsxOH]]{tentacle} attacks.</p>"
         },
         "64Swhse7QnbiLAbi": {
-            "name": "Sting",
+            "name": "Sting (Bite in Beast Form)",
             "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>The target must make on a [[/save]] saving throw, taking [[/damage average activity=dnd5eactivity100]] damage on a failed save, or half as much damage on a successful one.</p>",
             "chat": "<p>The Imp attacks with its Sting. The target must make a <strong>Constitution</strong> saving throw.</p>"
         },
         "68Y4sNHbVetQN3wa": {
             "name": "Fire Breath",
-            "description": "<p>The veteran exhales fire in a 15-foot cone. Each creature in that area must make a  <strong>DC 15 Dexterity</strong> saving throw, taking <strong>24 (7d6) <em>fire damage</em></strong> on a failed save, or half as much damage on a successful one.</p>",
+            "description": "<p>The veteran exhales fire in a 15-foot cone. Each creature in that area must make a [[/save]] saving throw, taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
             "chat": "<p>The veteran exhales fire in a 15-foot cone. Each creature in that area must make a <strong>Dexterity</strong> saving throw.</p>"
         },
         "68bAMIpe4jvDeR9G": {
@@ -945,7 +946,7 @@
         },
         "7AGmP2dRLYmORUX7": {
             "name": "Death Glare",
-            "description": "<p>The hag targets one frightened creature she can see within 30 ft. of her. If the target can see the hag, it must succeed on a  <strong>DC 11 Wisdom</strong> saving throw against this magic or drop to 0 hit points.</p>",
+            "description": "<p>The hag targets one frightened creature she can see within 30 ft. of her. If the target can see the hag, it must succeed on a [[/save]] saving throw against this magic or drop to 0 hit points.</p>",
             "chat": "<p>The hag targets one frightened creature she can see within 30 ft. of her. If the target can see the hag, it must make a <strong>Wisdom</strong> saving throw against this magic.</p>"
         },
         "7DRko62ztr6FjZLA": {
@@ -1024,11 +1025,11 @@
         },
         "7YSwI62Budsr6HzO": {
             "name": "Multiattack",
-            "description": "<p>The oni makes two attacks, either with its claws or its [[/item .FC0FNE8O4rnbth8s]]{glaive}.</p>"
+            "description": "<p>The oni makes two attacks, either with its [[/item .q7J7PERrJb2vxtlt]]{claws} or its [[/item .FC0FNE8O4rnbth8s]]{glaive}.</p>"
         },
         "7a3DRiT1Ku9AnAQO": {
             "name": "Magic Resistance",
-            "description": "<p>The glabrezu has<strong> advantage </strong>on saving throws against spells and other magical effects.</p>"
+            "description": "<p>The glabrezu has advantage on saving throws against spells and other magical effects.</p>"
         },
         "7buEm5KhI5lP8m1z": {
             "name": "Guiding Bolt",
@@ -1036,7 +1037,7 @@
         },
         "7ePnUuyCcRkB5GHo": {
             "name": "Duergar Resilience",
-            "description": "<p>The duergar has<strong> advantage </strong>on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.</p>"
+            "description": "<p>The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.</p>"
         },
         "7g1LwEync57GwqV0": {
             "name": "False Appearance (Object Form Only)",
@@ -1044,7 +1045,7 @@
         },
         "7gfe5c1qGIvai12V": {
             "name": "Hellish Rejuvenation",
-            "description": "<p>A lemure that dies in the Nine Hells sometimes comes back to comes back to life with all its<strong> hit points</strong> in 1d10 days unless it is killed by a good-aligned creature with a bless spell cast on that creature or its remains are sprinkled with holy water.</p>",
+            "description": "<p>A lemure that dies in the Nine Hells sometimes comes back to comes back to life with all its hit points in [[/r 1d10]] days unless it is killed by a good-aligned creature with a bless spell cast on that creature or its remains are sprinkled with holy water.</p>",
             "chat": "<p>A lemure that dies in the Nine Hells sometimes comes back to life.</p>"
         },
         "7lnXqe8AnWhtnQh7": {
@@ -1153,7 +1154,7 @@
         },
         "8QaMc1baRrSlLFXN": {
             "name": "Barbed Hide",
-            "description": "<p>At the start of each of its turns, the barbed devil deals <strong>5 (1d10) <em>piercing damage</em></strong> to any creature grappling it.</p>"
+            "description": "<p>At the start of each of its turns, the barbed devil deals [[/damage average]] damage to any creature grappling it.</p>"
         },
         "8RgUhb31VvjUNZU1": {
             "name": "Crab"
@@ -1179,7 +1180,7 @@
         },
         "8Yo6JM2NfjkpC8Hz": {
             "name": "Stone Camouflage",
-            "description": "<p>The gnome has<strong> advantage </strong>on Dexterity (Stealth) checks made to hide in rocky terrain.</p>"
+            "description": "<p>The gnome has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.</p>"
         },
         "8ZXdgzpI6WytT63w": {
             "name": "Cold Breath",
@@ -1199,7 +1200,7 @@
         },
         "8liUuXPhjNLKYMMx": {
             "name": "Regeneration",
-            "description": "<p>The oni regains <strong>10 hit points</strong> at the start of its turn if it has at least <strong>1 hit point</strong>.</p>",
+            "description": "<p>The oni regains 10 hit points at the start of its turn if it has at least 1 hit point.</p>",
             "chat": "<p>The oni regains <strong>10 hit points</strong> at the start of its turn.</p>"
         },
         "8pX2JhWUpTNNRBVx": {
@@ -1302,7 +1303,7 @@
         },
         "9SWi4zPVGsMD5l2Y": {
             "name": "Chain",
-            "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>The target is grappled (escape DC 14) if the devil isn't already grappling a creature. Until this grapple ends, the target is restrained and takes <strong>7 (2d6) <em>piercing damage</em></strong> at the start of each of its turns.</p>",
+            "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>The target is grappled (escape DC 14) if the devil isn't already grappling a creature. Until this grapple ends, the target is restrained and takes [[/damage activity=7GprfdQsWbexe4iC average]] damage at the start of each of its turns.</p>",
             "chat": "<p>The Chain Devil attacks with its Chain. The target is grappled if the devil isn't already grappling a creature. Until this grapple ends, the target is restrained.</p>"
         },
         "9T0RdBc0Tvsj6wJW": {
@@ -1356,7 +1357,7 @@
         },
         "9v8vBxcPazXyBUmo": {
             "name": "Keen Hearing and Smell",
-            "description": "<p>The werewolf has<strong> advantage </strong>on Wisdom (Perception) checks that rely on hearing or smell.</p>"
+            "description": "<p>The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
         },
         "9x43sdgtqX8bOdiy": {
             "name": "Bite",
@@ -1461,7 +1462,7 @@
         },
         "AW3qP6nJk45lOHe3": {
             "name": "Water Susceptibility",
-            "description": "<p>For every <strong>5 ft.</strong> the elemental moves in water, or for every gallon of water splashed on it, it takes<strong> 1 <em>cold damage</em>.</strong></p>"
+            "description": "<p>For every 5 ft. the elemental moves in water, or for every gallon of water splashed on it, it takes [[/damage]] damage.</p>"
         },
         "AXKWmB2ZU1hebo5S": {
             "name": "Talons",
@@ -1512,7 +1513,7 @@
         },
         "AwP14Hu6dPdnSbQt": {
             "name": "Parry",
-            "description": "<p>The gladiator adds 3 to its <strong>AC</strong> against one melee Attack that would hit it. To do so, the gladiator must see the attacker and be wielding a melee weapon.</p>",
+            "description": "<p>The gladiator adds 3 to its AC against one melee Attack that would hit it. To do so, the gladiator must see the attacker and be wielding a melee weapon.</p>",
             "chat": "<p>The gladiator adds 3 to its <strong>AC</strong> against one melee Attack that would hit it.</p>"
         },
         "AwiZrSjLzs3aNC33": {
@@ -1522,7 +1523,7 @@
         },
         "AxY9pWHDr2M1SPCC": {
             "name": "Parry",
-            "description": "<p>The knight adds 2 to its <strong>AC</strong> against one melee Attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.</p>",
+            "description": "<p>The knight adds 2 to its AC against one melee Attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.</p>",
             "chat": "<p>The knight adds 2 to its <strong>AC</strong> against one melee Attack that would hit it.</p>"
         },
         "AyIhVI6Kj5ONGc6I": {
@@ -1544,7 +1545,7 @@
         },
         "B7KYqupW3iRUpWAU": {
             "name": "Stone Camouflage",
-            "description": "<p>The grimlock has<strong> advantage </strong>on Dexterity (Stealth) checks made to hide in rocky terrain.</p>"
+            "description": "<p>The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.</p>"
         },
         "B7lBOr1AahNZs4a6": {
             "name": "Archmage"
@@ -1586,7 +1587,7 @@
         },
         "BNRcaqutWC30200X": {
             "name": "Keen Hearing and Smell",
-            "description": "<p>The dog has<strong> advantage </strong>on Wisdom (Perception) checks that rely on hearing or smell.</p>"
+            "description": "<p>The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
         },
         "BNmepDhipTFG7kIT": {
             "name": "Legendary Resistance",
@@ -1629,11 +1630,11 @@
         },
         "BVEOVtTEuJhNvTfo": {
             "name": "Pack Tactics",
-            "description": "<p>The hound has<strong> advantage </strong>on an attack roll against a creature if at least one of the hound's allies is within <strong>5 ft.</strong> of the creature and the ally isn't incapacitated.</p>"
+            "description": "<p>The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
         },
         "BeB04w7ftFRDaMQ6": {
             "name": "Hellish Weapons",
-            "description": "<p>The erinyes's weapon attacks are magical and deal an extra <strong>13 (3d8) <em>poison damage</em></strong> on a hit (included in the attacks).</p>",
+            "description": "<p>The erinyes's weapon attacks are magical and deal an extra 13 (3d8) poison damage on a hit (included in the attacks).</p>",
             "chat": "<p>The erinyes's weapon attacks are magical and deal extra <em>poison damage</em> on a hit (included in the attacks).</p>"
         },
         "BgJf6V68k1OQMyWH": {
@@ -1691,7 +1692,7 @@
         },
         "C2ZJ3Oe30dyU2o7E": {
             "name": "Mimicry",
-            "description": "<p>The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful <strong>DC 14 Wisdom (Insight) check</strong>.</p>",
+            "description": "<p>The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful [[/check]] check.</p>",
             "chat": "<p>The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful Wisdom (Insight) check.</p>"
         },
         "CAxSzHWizrafT033": {
@@ -1706,7 +1707,7 @@
         },
         "CElneYmOXIzyfv2a": {
             "name": "Longbow",
-            "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>The target must succeed on a  <strong>DC 14 Constitution</strong> saving throw or be poisoned. The poison lasts until it is removed by the lesser restoration spell or similar magic.</p>",
+            "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>The target must succeed on a [[/save]] saving throw or be &amp;Reference[poisoned]. The poison lasts until it is removed by the lesser restoration spell or similar magic.</p>",
             "chat": "<p>The Erinyes attacks with its Longbow. The target must make a <strong>Constitution</strong> saving throw.</p>"
         },
         "CG9kMpmgbBE0ePpO": {
@@ -1741,7 +1742,7 @@
         },
         "COcc6eoG6ScS4wGz": {
             "name": "Multiattack",
-            "description": "<p>In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid.</p>"
+            "description": "<p>In bear form, the werebear makes two [[/item .pEYcOjAF2fovrXRP]]{claw} attacks. In humanoid form, it makes two [[/item .UeXfHUO5RZp72PIs]]{greataxe} attacks. In hybrid form, it can attack like a bear or a humanoid.</p>"
         },
         "CPMieBYNggqmHRra": {
             "name": "Blinded"
@@ -1771,7 +1772,7 @@
         },
         "ChSnKd7pSLoN1Jeu": {
             "name": "Limited Magic Immunity",
-            "description": "<p>The rakshasa can't be affected or detected by spells of 6th level or lower unless it wishes to be. It has<strong> advantage </strong>on saving throws against all other spells and magical effects.</p>"
+            "description": "<p>The rakshasa can't be affected or detected by spells of 6th level or lower unless it wishes to be. It has advantage on saving throws against all other spells and magical effects.</p>"
         },
         "CjIq8Ed7bu3vVwT1": {
             "name": "Contagion",
@@ -1838,7 +1839,7 @@
         },
         "D4cqlN9pDyQwRvWP": {
             "name": "Death Burst",
-            "description": "<p>When the mephit dies, it explodes in a burst of jagged ice. </p><p>Each creature within 5 ft. of it must make a  <strong>DC 10 Dexterity</strong> saving throw, taking <strong>4 (1d8) <em>slashing damage</em></strong> on a failed save, or half as much damage on a successful one.</p>",
+            "description": "<p>When the mephit dies, it explodes in a burst of jagged ice. Each creature within 5 ft. of it must make a [[/save]] saving throw, taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
             "chat": "<p>When the mephit dies, it explodes in a burst of jagged ice. Each creature within 5 ft. of it must make a <strong>Dexterity</strong> saving throw.</p>"
         },
         "D5UqYD1EnTrJaMTO": {
@@ -1991,6 +1992,7 @@
         },
         "EMJe4NIzUdNIQj9S": {
             "name": "Teleport",
+            "description": "<p>The marilith magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.</p>",
             "chat": "<section class=\"secret\"><p></p></section><p>The marilith magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.</p>"
         },
         "EMvcuOpu7ABCmBWi": {
@@ -2041,7 +2043,7 @@
         },
         "EcECOhaJIpCtN2o7": {
             "name": "Sneak Attack",
-            "description": "<p>The assassin deals an extra 13 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the attack roll.</p>"
+            "description": "<p>The assassin deals an extra [[/damage average]] damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the attack roll.</p>"
         },
         "Ed7XgnZu9qRs3qdn": {
             "name": "Slam",
@@ -2055,7 +2057,7 @@
         },
         "EjU9p4Wh1U2wsnFK": {
             "name": "Shapechanger",
-            "description": "<p>The weretiger can use its action to <strong>polymorph</strong> into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. </p><p>Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>",
+            "description": "<p>The weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid.</p><p>Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>",
             "chat": "<p>The weretiger can use its action to <strong>polymorph</strong>, or return to its true form.</p>"
         },
         "EjeLsaCua7yjgxax": {
@@ -2127,7 +2129,7 @@
         },
         "FC0FNE8O4rnbth8s": {
             "name": "Glaive",
-            "description": "<p>[[/attack extended]]. [[/damage extended]], or <strong>9 (1d10 + 4) <em>slashing damage</em></strong> in Small or Medium form.</p>",
+            "description": "<p>[[/attack extended]]. [[/damage extended]], or [[/damage average activity=aKQQjgpq0XwCcMGK]] damage in Small or Medium form.</p>",
             "chat": "<p>The Oni attacks with its Glaive.</p>"
         },
         "FEdBqpqpIEyjdO2H": {
@@ -2156,7 +2158,7 @@
         },
         "FWSzSLqeIDq7meXC": {
             "name": "Fire Aura",
-            "description": "<p>At the start of each of the balor's turns, each creature within 5 feet of it takes <strong>10 (3d6) <em>fire damage</em></strong>, and flammable objects in the aura that aren't being worn or carried ignite.</p><p>A creature that touches the balor or hits it with a melee attack while within 5 feet of it takes <strong>10 (3d6) <em>fire damage</em></strong>.</p>",
+            "description": "<p>At the start of each of the balor's turns, each creature within 5 feet of it takes [[/damage average]] damage, and flammable objects in the aura that aren't being worn or carried ignite.</p><p>A creature that touches the balor or hits it with a melee attack while within 5 feet of it takes [[/damage average]] damage.</p>",
             "chat": "<p>At the start of each of the balor's turns, each creature within 5 feet of it takes <em>fire damage</em>, and flammable objects in the aura that aren't being worn or carried ignite. A creature that touches the balor or hits it with a melee attack while within 5 feet of it takes <em>fire damage</em>.</p>"
         },
         "FWww5Mv4eoxXAADH": {
@@ -2337,7 +2339,7 @@
         },
         "GUsD8GdOLhuqFUih": {
             "name": "Keen Hearing and Smell",
-            "description": "<p>The grimlock has<strong> advantage </strong>on Wisdom (Perception) checks that rely on hearing or smell.</p>"
+            "description": "<p>The grimlock has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
         },
         "GZdNj6f2SdN1fr4A": {
             "name": "Wing Attack",
@@ -2463,7 +2465,7 @@
         },
         "HJDOmnRX2zQuXraB": {
             "name": "Magic Weapons",
-            "description": "<p>the oni's weapon attacks are magical.</p>"
+            "description": "<p>The oni's weapon attacks are magical.</p>"
         },
         "HPUO3weiwRQnql0d": {
             "name": "Cloaker"
@@ -2501,7 +2503,7 @@
         },
         "HhLmdqeivyDnsemN": {
             "name": "Parry",
-            "description": "<p>The noble adds 2 to its <strong>AC</strong> against one melee Attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.</p>",
+            "description": "<p>The noble adds 2 to its AC against one melee Attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.</p>",
             "chat": "<p>The noble adds 2 to its <strong>AC</strong> against one melee Attack that would hit it.</p>"
         },
         "HiGvFK1bT8zkJA3r": {
@@ -2510,7 +2512,7 @@
         },
         "HlRML24gXEmuamg9": {
             "name": "Sunlight Sensitivity",
-            "description": "<p>While in sunlight, the kobold has<strong> disadvantage </strong>on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>"
+            "description": "<p>While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>"
         },
         "HlddcPm4cWptj3ka": {
             "name": "Tyrannosaurus Rex"
@@ -2552,7 +2554,7 @@
         },
         "HxKKuoyc6AYGLsIX": {
             "name": "Rock Catching",
-            "description": "<p>If a rock or similar object is hurled at the giant, the giant can, with a successful DC 10 Dexterity saving throw, catch the missile and take no <em>bludgeoning damage</em> from it.</p>",
+            "description": "<p>If a rock or similar object is hurled at the giant, the giant can, with a successful [[/save]] saving throw, catch the missile and take no bludgeoning damage from it.</p>",
             "chat": "<p>If a rock or similar object is hurled at the giant, the giant can catch the missile and take no <em>bludgeoning damage</em> from it.</p>"
         },
         "HzLuzqlmtBSeSS4Q": {
@@ -2601,7 +2603,7 @@
         },
         "IKaEdLLHwVL0s9UP": {
             "name": "Magic Resistance",
-            "description": "<p>The devil has<strong> advantage </strong>on saving throws against spells and other magical effects.</p>"
+            "description": "<p>The devil has advantage on saving throws against spells and other magical effects.</p>"
         },
         "IL0u33pW96t5O04m": {
             "name": "Regional Effects",
@@ -2646,7 +2648,7 @@
         },
         "Ijd3GKLRlMzwoSe1": {
             "name": "Stunning Screech",
-            "description": "<p>The vrock emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn't a demon must succeed on a  <strong>DC 14 Constitution</strong> saving throw or be stunned until the end of the vrock's next turn .</p>",
+            "description": "<p>The vrock emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn't a demon must succeed on a [[/save]] saving throw or be stunned until the end of the vrock's next turn .</p>",
             "chat": "<p>The vrock emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn't a demon must make a <strong>Constitution</strong> saving throw.</p>"
         },
         "Ixo5shumxy4I9qyD": {
@@ -2710,7 +2712,7 @@
         },
         "JCSej95QR8svWsYz": {
             "name": "Gnome Cunning",
-            "description": "<p>The gnome has<strong> advantage </strong>on Intelligence, Wisdom, and Charisma saving throws against magic.</p>"
+            "description": "<p>The gnome has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.</p>"
         },
         "JExoadfmCtQH6vsK": {
             "name": "Magic Resistance",
@@ -2740,11 +2742,11 @@
         },
         "JT4JWvnmmQnEJ2qv": {
             "name": "Magic Resistance",
-            "description": "<p>The marilith has<strong> advantage </strong>on saving throws against spells and other magical effects.</p>"
+            "description": "<p>The marilith has advantage on saving throws against spells and other magical effects.</p>"
         },
         "JVbj7KABKYi3Z8U3": {
             "name": "Fetid Cloud",
-            "description": "<p>A 10-foot radius of disgusting green gas extends out from the dretch. The gas spreads around corners, and its area is lightly obscured. It lasts for 1 minute or until a strong wind disperses it.</p><p>Any creature that starts its turn in that area must succeed on a  <strong>DC 11 Constitution</strong> saving throw or be poisoned until the start of its next turn. While poisoned in this way, the target can take either an action or a bonus action on its turn, not both, and can't take reactions. 1 use per day.</p>",
+            "description": "<p>A 10-foot radius of disgusting green gas extends out from the dretch. The gas spreads around corners, and its area is lightly obscured. It lasts for 1 minute or until a strong wind disperses it.</p><p>Any creature that starts its turn in that area must succeed on a [[/save]] saving throw or be &amp;Reference[poisoned] until the start of its next turn. While poisoned in this way, the target can take either an action or a bonus action on its turn, not both, and can't take reactions. 1 use per day.</p>",
             "chat": "<p>A 10-foot radius of disgusting green gas extends out from the dretch. The gas spreads around corners, and its area is lightly obscured. Any creature that starts its turn in that area must make a <strong>Constitution</strong> saving throw.</p>"
         },
         "JW8bXggOMBx1S6tF": {
@@ -2825,7 +2827,7 @@
         },
         "Jwx7Sfs5m3RDWckF": {
             "name": "Fey Ancestry",
-            "description": "<p>The drow has<strong> advantage </strong>on saving throws against being charmed, and magic can't put the drow to sleep.</p>"
+            "description": "<p>The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.</p>"
         },
         "JxFTskCIHyVwp7fF": {
             "name": "Magic Resistance",
@@ -2896,7 +2898,7 @@
         },
         "KO6Ez3XWFM4iH4zB": {
             "name": "Spear",
-            "description": "<p>[[/attack extended]]. [[/damage extended]], or <strong>5 (1d8 + 1) <em>piercing damage</em></strong> if used with two hands to make a melee attack.</p>",
+            "description": "<p>[[/attack extended]]. [[/damage extended]], or [[/damage average attackMode=twoHanded]] damage if used with two hands to make a melee attack.</p>",
             "chat": "<p>The Tribal Warrior attacks with their Spear.</p>"
         },
         "KOHVWl5RU9XBR8Jb": {
@@ -3115,7 +3117,7 @@
         },
         "LpYrQPxHA10HPnkl": {
             "name": "Death Burst",
-            "description": "<p>When the mephit dies, it explodes in a burst of lava. Each creature within 5 ft. of it must make a  <strong>DC 11 Dexterity</strong> saving throw, taking <strong>7 (2d6) <em>fire damage</em></strong> on a failed save, or half as much damage on a successful one.</p>",
+            "description": "<p>When the mephit dies, it explodes in a burst of lava. Each creature within 5 ft. of it must make a [[/save]] saving throw, taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
             "chat": "<p>When the mephit dies, it explodes in a burst of lava. Each creature within 5 ft. of it must make a <strong>Dexterity</strong> saving throw.</p>"
         },
         "Lq4Toyg4sjkdU4e2": {
@@ -3124,7 +3126,7 @@
         },
         "LqnhZjRtRqhLIFTm": {
             "name": "Hand Crossbow",
-            "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>The target must succeed on a  <strong>DC 13 Constitution</strong> saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.</p>",
+            "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>The target must succeed on a [[/save]] saving throw or be &amp;Reference[poisoned] for 1 hour. If the saving throw fails by 5 or more, the target is also &amp;Reference[unconscious] while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.</p>",
             "chat": "<p>The Drow attacks with its Hand Crossbow. The target must make a <strong>Constitution</strong> saving throw.</p>"
         },
         "Ls6rBLfLiVx1xTaD": {
@@ -3311,7 +3313,7 @@
         },
         "MyhBa9G8ryUWGm5D": {
             "name": "Dark Devotion",
-            "description": "<p>The cultist has<strong> advantage </strong>on saving throws against being charmed or frightened.</p>"
+            "description": "<p>The cultist has advantage on saving throws against being charmed or frightened.</p>"
         },
         "Mzh95utKDPIrjiH8": {
             "name": "Detect Evil and Good",
@@ -3328,7 +3330,7 @@
         },
         "N3vrbUmlL4FEARJ8": {
             "name": "Keen Smell",
-            "description": "<p>The troll has<strong> advantage </strong>on Wisdom (Perception) checks that rely on smell.</p>"
+            "description": "<p>The troll has advantage on Wisdom (Perception) checks that rely on smell.</p>"
         },
         "N42BQALoCmeYphD1": {
             "name": "Engulf",
@@ -3451,7 +3453,7 @@
         },
         "NwivB5zd15WhthVJ": {
             "name": "Relentless",
-            "description": "<p>If the wereboar <strong>takes 14 damage</strong> or less that would reduce it to <strong>0 hit points</strong>, it is reduced to <strong>1 hit point</strong> instead.</p>",
+            "description": "<p>If the wereboar takes 14 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.</p>",
             "chat": "<p>If the wereboar takes damage that would reduce it to <strong>0 hit points</strong>, it is reduced to <strong>1 hit point</strong> instead.</p>"
         },
         "O2pIuhKov4RccvzH": {
@@ -3494,7 +3496,7 @@
         },
         "OE8y8otGDFop6Fzt": {
             "name": "Pack Tactics",
-            "description": "<p>The thug has<strong> advantage </strong>on an attack roll against a creature if at least one of the thug's allies is within <strong>5 ft.</strong> of the creature and the ally isn't incapacitated.</p>"
+            "description": "<p>The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
         },
         "OEx9iy4HDipiYsPt": {
             "name": "Rotting Touch",
@@ -3519,7 +3521,7 @@
         },
         "OMZ6qNK1bdpI8ryh": {
             "name": "Magic Resistance",
-            "description": "<p>The hag has<strong> advantage </strong>on saving throws against spells and other magical effects.</p>"
+            "description": "<p>The hag has advantage on saving throws against spells and other magical effects.</p>"
         },
         "OPXUPzkwhBaLTt7a": {
             "name": "Spider Climb",
@@ -3549,7 +3551,7 @@
         },
         "OdzhvEDeD06BWsZS": {
             "name": "Fey Charm",
-            "description": "<p>The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must succeed on a  <strong>DC 14 Wisdom</strong> saving throw or be magically charmed.</p><p>The charmed creature regards the dryad as a trusted friend to be heeded and protected. Although the target isn't under the dryad's control, it takes the dryad's requests or actions in the most favorable way it can.Each time the dryad or its allies do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the dryad dies, is on a different plane of existence from the target, or ends the effect as a bonus action. If a target's saving throw is successful, the target is immune to the dryad's Fey Charm for the next 24 hours.The dryad can have no more than one humanoid and up to three beasts charmed at a time.</p>",
+            "description": "<p>The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must succeed on a [[/save]] saving throw or be magically &amp;Reference[charmed].</p><p>The charmed creature regards the dryad as a trusted friend to be heeded and protected. Although the target isn't under the dryad's control, it takes the dryad's requests or actions in the most favorable way it can.Each time the dryad or its allies do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the dryad dies, is on a different plane of existence from the target, or ends the effect as a bonus action. If a target's saving throw is successful, the target is immune to the dryad's Fey Charm for the next 24 hours.The dryad can have no more than one humanoid and up to three beasts charmed at a time.</p>",
             "chat": "<p>The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must make a <strong>Wisdom</strong> saving throw. Each time the dryad or its allies do anything harmful to the target, it can repeat the saving throw.</p>"
         },
         "OljCWQpwojS4FKur": {
@@ -3581,7 +3583,7 @@
         },
         "P0pbiook7Q79UYqQ": {
             "name": "Heated Body",
-            "description": "<p>A creature that touches the azer or hits it with a melee attack while within 5 feet of it takes <strong>5 (1d10) <em>fire damage</em></strong>.</p>"
+            "description": "<p>A creature that touches the azer or hits it with a melee attack while within 5 feet of it takes [[/damage average]] damage.</p>"
         },
         "P0ycd36lowML3rTc": {
             "name": "Claw",
@@ -3641,7 +3643,7 @@
         },
         "PIggvpkBTTCDGOHp": {
             "name": "Steadfast",
-            "description": "<p>The devil can't be frightened while it can see an allied creature <strong>within 30 feet</strong> of it.</p>"
+            "description": "<p>The devil can't be frightened while it can see an allied creature within 30 feet of it.</p>"
         },
         "PMXLrGDWGu9amL2X": {
             "name": "Scale Mail",
@@ -3668,7 +3670,7 @@
         },
         "PVdWTEQBuiAglD7l": {
             "name": "Whirlwind",
-            "description": "<p>Each creature in the elemental's space must make a  <strong>DC 13 Strength</strong> saving throw. On a failure, a target takes <strong>15 (3d8 + 2) <em>bludgeoning damage</em></strong> and is flung up 20 feet away from the elemental in a random direction and knocked prone.</p><p>If a thrown target strikes an object, such as a wall or floor, the target takes <strong>3 (1d6) <em>bludgeoning damage</em></strong> for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a  <strong>DC 13 Dexterity</strong> saving throw or take the same damage and be knocked prone. If the saving throw is successful, the target takes half the <em>bludgeoning damage</em> and isn't flung away or knocked prone.</p>",
+            "description": "<p>Each creature in the elemental's space must make a [[/save]] saving throw. On a failure, a target takes [[/damage average]] damage and is flung up 20 feet away from the elemental in a random direction and knocked prone.</p><p>If a thrown target strikes an object, such as a wall or floor, the target takes [[/damage activity=dnd5eactivity000 average]] damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a [[/save activity=k9fqQYuxbnT3pwT3]] saving throw or take the same damage and be knocked prone. If the saving throw is successful, the target takes half the bludgeoning damage and isn't flung away or knocked prone.</p>",
             "chat": "<p>Each creature in the elemental's space must make a <strong>Strength</strong> saving throw. On a failure, a target is flung up 20 feet away from the elemental in a random direction and knocked prone. If the target is thrown at another creature, that creature must make a <strong>Dexterity</strong> saving throw or take the same damage and be knocked prone.</p>"
         },
         "PWqvlPCG9P9edPYi": {
@@ -3685,7 +3687,7 @@
         },
         "PhdUmTsYUeWSSDNN": {
             "name": "Shapechanger",
-            "description": "<p>The wererat can use its action to <strong>polymorph</strong> into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. </p><p>Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>",
+            "description": "<p>The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid.</p><p>Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>",
             "chat": "<p>The wererat can use its action to <strong>polymorph</strong>, or return to its true form.</p>"
         },
         "Pi704hBXv722CLGM": {
@@ -3756,7 +3758,7 @@
         },
         "QGNzJqfTHnbhjzFN": {
             "name": "Change Shape",
-            "description": "<p>The oni magically <strong>polymorphs</strong> into a <strong>Small</strong> or<strong> Medium humanoid</strong>, into <strong>a Large giant</strong>, or <strong>back into its true form</strong>. Other than its size, its statistics are the same in each form.<strong> The only equipment that is transformed is its glaive</strong>, which shrinks so that it can be wielded in humanoid form. If the oni dies, it reverts to its true form, and its glaive reverts to its normal size.</p>"
+            "description": "<p>The oni magically polymorphs into a Small or Medium humanoid, into a Large giant, or back into its true form. Other than its size, its statistics are the same in each form. The only equipment that is transformed is its glaive, which shrinks so that it can be wielded in humanoid form. If the oni dies, it reverts to its true form, and its glaive reverts to its normal size.</p>"
         },
         "QGcQYZbVl4bWzi4E": {
             "name": "Shadow"
@@ -3796,7 +3798,7 @@
         },
         "QWi0q0cSzHEp8VqB": {
             "name": "Death Burst",
-            "description": "<p>When the mephit dies, it explodes in a cloud of steam. </p><p>Each creature within 5 ft. of the mephit must succeed on a  <strong>DC 10 Dexterity</strong> saving throw or take <strong>4 (1d8) <em>fire damage</em></strong>.</p>",
+            "description": "<p>When the mephit dies, it explodes in a cloud of steam. Each creature within 5 ft. of the mephit must succeed on a [[/save]] saving throw or take [[/damage average]] damage.</p>",
             "chat": "<p>When the mephit dies, it explodes in a cloud of steam. Each creature within 5 ft. of the mephit must make a <strong>Dexterity</strong> saving throw.</p>"
         },
         "QX33CsCo431JxQxy": {
@@ -3901,7 +3903,7 @@
         },
         "RFPDYIhkmBW2B47S": {
             "name": "Horror Nimbus",
-            "description": "<p>The nalfeshnee magically emits scintillating, multicolored light. Each creature within 15 feet of the nalfeshnee that can see the light must succeed on a  <strong>DC 15 Wisdom</strong> saving throw or be frightened for 1 minute. </p><p>A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the nalfeshnee's Horror Nimbus for the next 24 hours.</p>",
+            "description": "<p>The nalfeshnee magically emits scintillating, multicolored light. Each creature within 15 feet of the nalfeshnee that can see the light must succeed on a [[/save]] saving throw or be &amp;Reference[frightened] for 1 minute.</p><p>A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the nalfeshnee's Horror Nimbus for the next 24 hours.</p>",
             "chat": "<p>A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the nalfeshnee's Horror Nimbus for the next 24 hours.</p>"
         },
         "RHezeN7HzNf2oKYP": {
@@ -3928,13 +3930,8 @@
         },
         "RTpPc5fs27dBqDuj": {
             "name": "Blinding Breath",
-            "description": "<p>The mephit exhales a 15-foot cone of blinding dust.</p><p>Each creature in that area must succeed on a  <strong>DC 10 Dexterity</strong> saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>",
+            "description": "<p>The mephit exhales a 15-foot cone of blinding dust. Each creature in that area must succeed on a [[/save]] saving throw or be &amp;Referrence[blinded] for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>",
             "chat": "<p>The mephit exhales a 15-foot cone of blinding dust. Each creature in that area must make a <strong>Dexterity</strong> saving throw. A creature can repeat the saving throw at the end of each of its turns.</p>"
-        },
-        "RZpYFJGNqA7L1bj1": {
-            "name": "Bite (beast form only)",
-            "description": "<p>[[/attack extended]]. [[/damage extended]], and the target must make a [[/save]] saving throw, taking [[/damage average activity=dnd5eactivity100]] damage on a failed save, or half as much damage on a successful one.</p>",
-            "chat": "<p>The Imp attacks with its Bite.</p>"
         },
         "RbcK5H5JO9EnIiCA": {
             "name": "Bite",
@@ -3951,7 +3948,7 @@
         },
         "RgZ4lGrNf9AaIyrG": {
             "name": "Glaive",
-            "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>If the target is a creature other than an undead or a construct, it must succeed on a  <strong>DC 12 Constitution</strong> saving throw or lose 5 (1d10) hit points at the start of each of its turns due to an infernal wound.</p><p>Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 5 (1d10). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.</p>",
+            "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>If the target is a creature other than an undead or a construct, it must succeed on a [[/save]] saving throw or lose 5 (1d10) hit points at the start of each of its turns due to an infernal wound.</p><p>Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 5 (1d10). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.</p>",
             "chat": "<p>The Bearded Devil attacks with its Glaive. If the target is a creature other than an undead or a construct, it must make a <strong>Constitution</strong> saving throw. Any creature can take an action to stanch the wound with a successful Wisdom (Medicine) check.</p>"
         },
         "Rj3oSInoQMIfHrPc": {
@@ -3966,7 +3963,7 @@
         },
         "RnLjEUZ0gBxcH2T3": {
             "name": "Steam Breath",
-            "description": "<p>The mephit exhales a 15-foot cone of scalding steam. Each creature in that area must succeed on a  <strong>DC 10 Dexterity</strong> saving throw, taking <strong>4 (1d8) <em>fire damage</em></strong> on a failed save, or half as much damage on a successful one.</p>",
+            "description": "<p>The mephit exhales a 15-foot cone of scalding steam. Each creature in that area must succeed on a [[/save]] saving throw, taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
             "chat": "<p>The mephit exhales a 15-foot cone of scalding steam. Each creature in that area must succeed on a Dexterity saving throw.</p>"
         },
         "RnqMV5Ur5n9S3wIt": {
@@ -4077,7 +4074,7 @@
         },
         "SQqFFwf2ADQmLaVO": {
             "name": "Shark Telepathy",
-            "description": "<p>The sahuagin can magically command any shark <strong>within 120 feet</strong> of it, using a limited telepathy.</p>"
+            "description": "<p>The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.</p>"
         },
         "SXXvwaLBNuzBymp3": {
             "name": "Axe Beak"
@@ -4114,7 +4111,7 @@
         },
         "Sp9AkcXsLCN09C9v": {
             "name": "Brave",
-            "description": "<p>The knight has<strong> advantage </strong>on saving throws against being frightened.</p>"
+            "description": "<p>The knight has advantage on saving throws against being frightened.</p>"
         },
         "SqZRuJ8lt2KGJBbq": {
             "name": "Commoner"
@@ -4258,7 +4255,7 @@
         },
         "TizBVS6hRuBa8JYY": {
             "name": "Charge (Boar or Hybrid Form Only)",
-            "description": "<p>If the wereboar moves at least 15 feet straight toward a target and then hits it with its tusks on the same turn, the target takes an extra <strong>7 (2d6) <em>slashing damage</em></strong>. </p><p>If the target is a creature, it must succeed on a  <strong>DC 13 Strength</strong> saving throw or be knocked prone.</p>",
+            "description": "<p>If the wereboar moves at least 15 feet straight toward a target and then hits it with its tusks on the same turn, the target takes an extra [[/damage average]] damage.</p><p>If the target is a creature, it must succeed on a [[/save]] saving throw or be knocked &amp;Reference[prone].</p>",
             "chat": "<p>If the wereboar moves at least 15 feet straight toward a target and then hits it with its tusks on the same turn, the target takes extra <em>slashing damage</em>. If the target is a creature, it must make aStrength saving throw or be knocked prone.</p>"
         },
         "TjWQOgI3A4UAl7lC": {
@@ -4388,7 +4385,7 @@
         },
         "Up2YzkDn0uBKQj6K": {
             "name": "Sunlight Sensitivity",
-            "description": "<p>While in sunlight, the drow has<strong> disadvantage </strong>on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>"
+            "description": "<p>While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>"
         },
         "UpWaTW9cFf96GmMH": {
             "name": "Tail Attack",
@@ -4396,7 +4393,7 @@
         },
         "UqpaWsGVgiCMSZEw": {
             "name": "Spear",
-            "description": "<p>A gleaming steel point mouted atop a stout wooden haft, the spear may be wielded in one hand or two and can puncture through the heaviest armor with deadly force.</p>"
+            "description": "<p>[[/attack extended]]. [[/damage extended]] or [[/damage average attackMode=twoHanded]] damage if used with two hands.</p>"
         },
         "UrXp9O9N7DvdH9nL": {
             "name": "Dancing Lights (tiny)"
@@ -4414,7 +4411,7 @@
         },
         "UwlU9Zhwf94gPX0n": {
             "name": "Keen Smell",
-            "description": "<p>The wererat has<strong> advantage </strong>on Wisdom (Perception) checks that rely on smell.</p>"
+            "description": "<p>The wererat has advantage on Wisdom (Perception) checks that rely on smell.</p>"
         },
         "Ux1Gv0S29JzRaD27": {
             "name": "Multiattack",
@@ -4508,7 +4505,7 @@
         },
         "VpvOoT7mbR0XNZiL": {
             "name": "Tail",
-            "description": "<p>[[/attack extended]]. [[/damage extended]]. </p><p>If the target is a creature other than an undead or a construct, it must succeed on a  <strong>DC 17 Constitution</strong> saving throw or lose 10 (3d6) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 10 (3d6). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.</p>",
+            "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>If the target is a creature other than an undead or a construct, it must succeed on a [[/save]] saving throw or lose 10 (3d6) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 10 (3d6). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.</p>",
             "chat": "<p>The Horned Devil attacks with its Tail. If the target is a creature other than an undead or a construct, it must make a <strong>Constitution</strong> saving throw.</p>"
         },
         "Vq0dUbodqBggQAVQ": {
@@ -4552,7 +4549,7 @@
         },
         "W7sEr3m8MBrzYq2v": {
             "name": "Parry",
-            "description": "<p>The erinyes adds 4 to its <strong>AC</strong> against one melee Attack that would hit it. To do so, the erinyes must see the attacker and be wielding a melee weapon.</p>",
+            "description": "<p>The erinyes adds 4 to its AC against one melee Attack that would hit it. To do so, the erinyes must see the attacker and be wielding a melee weapon.</p>",
             "chat": "<p>The erinyes adds 4 to its <strong>AC</strong> against one melee Attack that would hit it.</p>"
         },
         "WAGF3evP6GTYDvM0": {
@@ -4586,7 +4583,7 @@
         },
         "WRygAnkpMeaqiw70": {
             "name": "Heated Weapons",
-            "description": "<p>When the azer hits with a metal melee weapon, it deals an extra <strong>3 (1d6) <em>fire damage</em></strong> (included in the attack).</p>",
+            "description": "<p>When the azer hits with a metal melee weapon, it deals an extra 3 (1d6) fire damage (included in the attack).</p>",
             "chat": "<p>When the azer hits with a metal melee weapon, it deals extra <em>fire damage</em> (included in the attack).</p>"
         },
         "WTbOQBsarsL1LuXJ": {
@@ -4604,7 +4601,7 @@
         },
         "Wa6dckSFp3pY8yH5": {
             "name": "Magic Resistance",
-            "description": "<p>The archmage has<strong> advantage </strong>on saving throws against spells and other magical effects.</p>"
+            "description": "<p>The archmage has advantage on saving throws against spells and other magical effects.</p>"
         },
         "Wa8BU72wRqyBCqkI": {
             "name": "Claws",
@@ -4630,7 +4627,7 @@
         },
         "WharT2ReFy2FYTG0": {
             "name": "Magic Resistance",
-            "description": "<p>The erinyes has<strong> advantage </strong>on saving throws against spells and other magical effects.</p>"
+            "description": "<p>The erinyes has advantage on saving throws against spells and other magical effects.</p>"
         },
         "Whn4pPAB1YSnvocN": {
             "name": "Multiattack",
@@ -4778,7 +4775,7 @@
         },
         "XeAyeJsNjKZKPWEN": {
             "name": "Horrific Appearance",
-            "description": "<p>Any humanoid that starts its turn <strong>within 30 feet</strong> of the hag and can see the hag's true form must make a <strong>DC 11 Wisdom saving throw</strong>. On a failed save, the creature is frightened for <strong>1 minute</strong>. A creature can repeat the saving throw at the end of each of its turns, with<strong> disadvantage </strong>if the hag is within line of sight, ending the effect on itself on a success.</p><p>If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Horrific Appearance for the next 24 hours<strong>. </strong>Unless the target is surprised or the revelation of the hag's true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has<strong> disadvantage </strong>on attack rolls against the hag.</p>",
+            "description": "<p>Any humanoid that starts its turn within 30 feet of the hag and can see the hag's true form must make a [[/save]] saving throw. On a failed save, the creature is &amp;Reference[frightened] for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the hag is within line of sight, ending the effect on itself on a success.</p><p>If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Horrific Appearance for the next 24 hours. Unless the target is surprised or the revelation of the hag's true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has disadvantage on attack rolls against the hag.</p>",
             "chat": "<p>Any humanoid that starts its turn <strong>within 30 feet</strong> of the hag and can see the hag's true form must make a <strong>Wisdom</strong> saving throw.</p>"
         },
         "XfQMBoTh892XSnCX": {
@@ -4798,6 +4795,7 @@
         },
         "XtK73VCT1s8abvjs": {
             "name": "Ethereal Stride",
+            "description": "<p>The nightmare and up to three willing creatures within 5 feet of it magically enter the Ethereal Plane from the Material Plane, or vice versa.</p>",
             "chat": "<section class=\"secret\"><p></p></section><p>The nightmare and up to three willing creatures within 5 feet of it magically enter the Ethereal Plane from the Material Plane, or vice versa.</p>"
         },
         "XuuhDCc4RQcZOXUL": {
@@ -4872,7 +4870,7 @@
         },
         "YO57HtdvpuGxJANB": {
             "name": "Multiattack",
-            "description": "<p>The scout makes two melee attacks or two ranged attacks.</p>"
+            "description": "<p>The scout makes two [[/item .YDoOa6D6QDoR2Htu]]{melee} attacks or two [[/item .E2fYrhLigMeVH09l]]{ranged} attacks.</p>"
         },
         "YOqhbf8WsX0jH9Fu": {
             "name": "Clay Golem"
@@ -4894,7 +4892,7 @@
         },
         "YXCQq6M3IGaLDz2M": {
             "name": "Illumination",
-            "description": "<p>The nightmare sheds bright light in a <strong>10-foot radius</strong> and dim light for an additional <strong>10 feet.</strong></p>"
+            "description": "<p>The nightmare sheds bright light in a 10-foot radius and dim light for an additional 10 feet.</p>"
         },
         "YauNxZeIeT4uDcTf": {
             "name": "Bite",
@@ -4925,12 +4923,12 @@
         },
         "YuhirWYJsQfL6zo5": {
             "name": "Poisoned Dart",
-            "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>The target must succeed on a  <strong>DC 12 Constitution</strong> saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>",
+            "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>The target must succeed on a [[/save]] saving throw or be &amp;Reference[poisoned] for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>",
             "chat": "<p>The Deep Gnome (Svirfneblin) attacks with its Poisoned Dart. The target must make a <strong>Constitution</strong> saving throw. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>"
         },
         "YvzdCGQeCV1XOcUt": {
             "name": "Warhammer",
-            "description": "<p>[[/attack extended]]. [[/damage extended]], or <strong>8 (1d10 + 3) <em>bludgeoning damage</em></strong> if used with two hands to make a melee attack, plus <strong>3 (1d6) <em>fire damage</em></strong>.</p>",
+            "description": "<p>[[/attack extended]]. [[/damage extended]], or [[/damage average attackMode=twoHanded]] if used with two hands to make a melee attack.</p>",
             "chat": "<section></section><p>A heavy metal hammer capable of being wielded with a single hand with a shield or in two hands to deliver crushing concussive blows.</p>"
         },
         "YypXtXEL61FqWYOP": {
@@ -5002,7 +5000,7 @@
         },
         "ZVMVqd01HraMcenH": {
             "name": "Shapechanger",
-            "description": "<p>The fiend can use its action to <strong>polymorph</strong> into a Small or Medium humanoid, or back into its true form. Without wings, the fiend loses its flying speed. Other than its size and speed, its statistics are the same in each form.</p><p>Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>",
+            "description": "<p>The fiend can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Without wings, the fiend loses its flying speed. Other than its size and speed, its statistics are the same in each form.</p><p>Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>",
             "chat": "<p>The fiend can use its action to <strong>polymorph</strong> into a humanoid, or back into its true form.</p>"
         },
         "ZW39DE2zI3TXVYC9": {
@@ -5091,7 +5089,7 @@
         },
         "abhGXKzA0XGprXED": {
             "name": "Multiattack (Humanoid or Hybrid Form Only)",
-            "description": "<p>The werewolf makes two attacks: one with its bite and one with its claws or spear.</p>"
+            "description": "<p>The werewolf makes two attacks: one with its [[/item .tWfR8uJNnQxpXgDw]]{bite} and one with its [[/item .36H4LGNMMEYS1Irm]]{claws} or [[/item .TiKtAuqd6urQ45Ds]]{spear}.</p>"
         },
         "ae0OI3obJqa4AS7U": {
             "name": "Claw (Bite in Beast Form)",
@@ -5171,7 +5169,7 @@
         },
         "bAm4BNi3o137SAmd": {
             "name": "Shortbow",
-            "description": "<p>This two handed bow is somewhat smaller than the traditional longbow variant, making it well suited for rapid attacks while on the move or mounted from horseback.</p>"
+            "description": "<p>[[/attack extended]]. [[/damage extended]]</p>"
         },
         "bDVZoB8Y0b3nkveO": {
             "name": "Hooves",
@@ -5302,7 +5300,7 @@
         },
         "c8fbl1Kc5O3GNTus": {
             "name": "Unnerving Mask",
-            "description": "<p>When a creature the devil can see starts its turn within 30 feet of the devil, the devil can create the illusion that it looks like one of the creature's departed loved ones or bitter enemies. If the creature can see the devil, it must succeed on a <strong> DC 14 Wisdom saving throw</strong> or be Frightened until the end of its turn.</p>",
+            "description": "<p>When a creature the devil can see starts its turn within 30 feet of the devil, the devil can create the illusion that it looks like one of the creature's departed loved ones or bitter enemies. If the creature can see the devil, it must succeed on a [[/save]] saving throw or be Frightened until the end of its turn.</p>",
             "chat": "<p>The devil can create the illusion that it looks like one of the creature's departed loved ones or bitter enemies. make a <strong>Wisdom</strong> saving throw.</p>"
         },
         "c9XDGsTJRy9HUaxQ": {
@@ -5353,7 +5351,7 @@
         },
         "cac4FpQc3XabBwTj": {
             "name": "Multiattack",
-            "description": "<p>The thug makes two melee attacks.</p>"
+            "description": "<p>The thug makes two [[/item .6gRu9IFFkvxesFfK]]{melee} attacks.</p>"
         },
         "cbov06rPLGnlIvFi": {
             "name": "Breath Weapons",
@@ -5393,7 +5391,7 @@
         },
         "crRphULq6iIdlq88": {
             "name": "Evasion",
-            "description": "<p>If the assassin is subjected to an effect that allows it to make a <strong>Dexterity</strong> saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.</p>"
+            "description": "<p>If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.</p>"
         },
         "ctW81uiX56xZR2c5": {
             "name": "Ray of Frost",
@@ -5405,7 +5403,7 @@
         },
         "d0AIrKneA8GKmDE1": {
             "name": "Pack Tactics",
-            "description": "<p>The warrior has<strong> advantage </strong>on an attack roll against a creature if at least one of the warrior's allies is within <strong>5 ft.</strong> of the creature and the ally isn't incapacitated.</p>"
+            "description": "<p>The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
         },
         "d0prpsGSAorDadec": {
             "name": "Owl"
@@ -5470,7 +5468,7 @@
         },
         "dQt68nlmGdhK2ojI": {
             "name": "Magic Resistance",
-            "description": "<p>The hezrou has<strong> advantage </strong>on saving throws against spells and other magical effects.</p>"
+            "description": "<p>The hezrou has advantage on saving throws against spells and other magical effects.</p>"
         },
         "dYJy66Ftt58qpTUi": {
             "name": "Bite",
@@ -5539,7 +5537,7 @@
         },
         "dvoOA7jzBnq2Lxza": {
             "name": "Longsword",
-            "description": "<p>[[/attack extended]]. [[/damage extended]], or [[/damage average attackMode=twoHanded]] damage if used with two hands, plus <strong>13 (3d8) <em>poison damage</em></strong>.</p>",
+            "description": "<p>[[/attack extended]]. [[/damage extended]], or [[/damage average attackMode=twoHanded]] damage if used with two hands.</p>",
             "chat": "<p>The Erinyes attacks with its Longsword.</p>"
         },
         "dw5lQaT8ySNuOVd4": {
@@ -5567,7 +5565,7 @@
         },
         "e8rpvJJVWCN4HU7I": {
             "name": "Shapechanger",
-            "description": "<p>The quasit can use its action to <strong>polymorph</strong> into a beast form that resembles a bat (speed <strong>10 ft.</strong> fly <strong>40 ft.</strong>), a centipede (<strong>40 ft.</strong>, climb <strong>40 ft.</strong>), or a toad (<strong>40 ft.</strong>, swim <strong>40 ft.</strong>), or back into its true form . Its statistics are the same in each form, except for the speed changes noted. </p><p>Any equipment it is wearing or carrying isn't transformed . It reverts to its true form if it dies.</p>",
+            "description": "<p>The quasit can use its action to polymorph into a beast form that resembles a bat (speed 10 ft. fly 40 ft.), a centipede (40 ft., climb 40 ft.), or a toad (40 ft., swim 40 ft.), or back into its true form . Its statistics are the same in each form, except for the speed changes noted.</p><p>Any equipment it is wearing or carrying isn't transformed . It reverts to its true form if it dies.</p>",
             "chat": "<p>The quasit can use its action to <strong>polymorph</strong> into a beast form or back into its true form. </p>"
         },
         "eCPQuQkIabFKTl9u": {
@@ -5581,7 +5579,7 @@
         },
         "eEVWpD5omMdUkWLu": {
             "name": "Spores",
-            "description": "<p>A 15-foot-radius cloud of toxic spores extends out from the vrock. The spores spread around corners. Each creature in that area must succeed on a  <strong>DC 14 Constitution</strong> saving throw or become poisoned. </p><p>While poisoned in this way, a target takes <strong>5 (1d10) <em>poison damage</em></strong> at the start of each of its turns. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Emptying a vial of holy water on the target also ends the effect on it.</p>",
+            "description": "<p>A 15-foot-radius cloud of toxic spores extends out from the vrock. The spores spread around corners. Each creature in that area must succeed on a [[/save]] saving throw or become &amp;Reference[poisoned].</p><p>While poisoned in this way, a target takes [[/damage average]] damage at the start of each of its turns. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Emptying a vial of holy water on the target also ends the effect on it.</p>",
             "chat": "<p>A 15-foot-radius cloud of toxic spores extends out from the vrock. The spores spread around corners. Each creature in that area must make a <strong>Constitution</strong> saving throw. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>"
         },
         "eEpy1ONlXumKS1mp": {
@@ -5629,7 +5627,7 @@
         },
         "eiNNUlTgJyVFcQkO": {
             "name": "Rock",
-            "description": "<p>[[/attack extended]]. [[/damage extended]]. </p><p>If the target is a creature, it must succeed on a  <strong>DC 17 Strength</strong> saving throw or be knocked prone.</p>",
+            "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>If the target is a creature, it must succeed on a [[/save]] saving throw or be knocked prone.</p>",
             "chat": "<p>The Stone Giant attacks with its Rock. If the target is a creature, it must make a <strong>Strength</strong> saving throw or be knocked prone.</p>"
         },
         "eiifqZwYGi71r2Yl": {
@@ -5683,7 +5681,7 @@
         },
         "fHe3YshNib2lsJ45": {
             "name": "Javelin",
-            "description": "<p>[[/attack extended]]. [[/damage extended]], or <strong>9 (2d6 + 2) <em>piercing damage</em></strong> while enlarged.</p>",
+            "description": "<p>[[/attack extended]]. [[/damage extended]], or [[/damage average activity=qmX3Tp3KYUdZPgB1]] damage while enlarged.</p>",
             "chat": "<p>The Duergar attacks with its Javelin.</p>"
         },
         "fI8m07LnyCCdsSpn": {
@@ -5736,7 +5734,7 @@
         },
         "fdt2FIirmBRCpRBm": {
             "name": "Touch",
-            "description": "<p>[[/attack extended]]. [[/damage extended]]. </p><p>If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes <strong>5 (1d10) <em>fire damage</em></strong> at the start of each of its turns.</p>",
+            "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes [[/damage activity=t6hyTO2lOgR3OWJQ average]] damage at the start of each of its turns.</p>",
             "chat": "<p>The Fire Elemental attacks with its Touch. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes <em>fire damage</em> at the start of each of its turns.</p>"
         },
         "ffeBuEAJL0Kk0RRk": {
@@ -5749,7 +5747,7 @@
         },
         "fhBBeyLSor6NVA0l": {
             "name": "Keen Hearing and Smell",
-            "description": "<p>The hound has<strong> advantage </strong>on Wisdom (Perception) checks that rely on hearing or smell.</p>"
+            "description": "<p>The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>"
         },
         "fkCNtbvPOMd7mipF": {
             "name": "Pseudodragon"
@@ -5786,7 +5784,7 @@
         },
         "ftmaVOSJXvHPhraJ": {
             "name": "Change Shape",
-            "description": "<p>The hag magically <strong>polymorphs</strong> into a <strong>Small</strong> or <strong>Medium female humanoid, or back into her true form</strong>. Her statistics are the same in each form. <strong>Any equipment she is wearing or carrying isn't transformed</strong>. She reverts to her true form if she dies.</p>"
+            "description": "<p>The hag magically polymorphs into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her true form if she dies.</p>"
         },
         "ftqEpCKoioTST72K": {
             "name": "Frightful Presence",
@@ -5860,7 +5858,7 @@
         },
         "gSrKQbka5aLxlcJz": {
             "name": "Spellcasting",
-            "description": "<p>The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast [[/item .A3q2gTNqG6fvNGrv]]{disguise self} and [[/item .1N8dDMMgZ1h1YJ3B]]{invisibility} at will and has the following wizard spells prepared:</p><p>• <strong>Cantrips</strong> (at will): [[/item .EOmsUcFQJTfG2oio]]{fire bolt}, [[/item .Bnn9Nzajixvow9xi]]{light}, [[/item .Utk1OQRwYkMkFRD3]]{mage hand}, [[/item .udsLtG0BugXHR2JQ]]{prestidigitation}, [[/item .XvbiNhNqXXIFisIy]]{shocking grasp}</p><p>• <strong>1st level</strong> (4 slots): [[/item .ghXTfe7sgCbgf1Q8]]{detect magic}, [[/item .3OZnNhunvRtPOQmH]]{identify}, <strong>[[/item .CKZTpZlxj7hjjo2H]]{mage armor}*</strong>, [[/item .41JIhpDyM9Anm7cs]]{magic missile}</p><p>• <strong>2nd level</strong> (3 slots): [[/item .ppWAAEul0QHtm4er]]{detect thoughts}, [[/item .X4c8xCkmF8U9HUMz]]{mirror image}, [[/item .wqfAVANuQonNBgnL]]{misty step}</p><p>•<strong> 3rd leve</strong>l (3 slots): [[/item .Ek45cBpVXvJdv1Qy]]{counterspell},[[/item .yfbK8gZqESlaoY5t]]{fly}, [[/item .IyikgTEOTv701jgQ]]{lightning bolt}</p><p>•<strong> 4th level </strong>(3 slots): [[/item .pxpb2eOB6bv4phAf]]{banishment}, [[/item .avD5XUtkBPQQR97c]]{fire shield},<strong> [[/item .ReMbjfeOKoSj3O79]]{stoneskin}*</strong></p><p>•<strong> 5th level</strong> (3 slots): [[/item .RpKjTlYASrfqUPVA]]{cone of cold}, [[/item .fVbCxFRaORalHB20]]{scrying}, [[/item .o9ZCvuD2B1OTcubb]]{wall of force}</p><p>•<strong> 6th level </strong>(1 slot): [[/item .WmQpxfjZwF3MGUby]]{globe of invulnerability}</p><p>•<strong> 7th level </strong>(1 slot): [[/item .L4J89JXqbKs6puEV]]{teleport}</p><p>• <strong>8th level</strong> (1 slot): <strong>[[/item .bllEWfm9xfEKynhv]]{mind blank}*</strong></p><p>• <strong>9th level </strong>(1 slot):<strong> [[/item .JYuRBwxpoFhXduvD]]{time stop}* </strong></p><p><strong>*-The archmage casts these spells on itself before combat.</strong></p>",
+            "description": "<p>The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast [[/item .A3q2gTNqG6fvNGrv]]{disguise self} and [[/item .1N8dDMMgZ1h1YJ3B]]{invisibility} at will and has the following wizard spells prepared:</p><p>Cantrips (at will): [[/item .EOmsUcFQJTfG2oio]]{fire bolt}, [[/item .Bnn9Nzajixvow9xi]]{light}, [[/item .Utk1OQRwYkMkFRD3]]{mage hand}, [[/item .udsLtG0BugXHR2JQ]]{prestidigitation}, [[/item .XvbiNhNqXXIFisIy]]{shocking grasp}</p><p>1st level (4 slots): [[/item .ghXTfe7sgCbgf1Q8]]{detect magic}, [[/item .3OZnNhunvRtPOQmH]]{identify}, [[/item .CKZTpZlxj7hjjo2H]]{mage armor}*, [[/item .41JIhpDyM9Anm7cs]]{magic missile}</p><p>2nd level (3 slots): [[/item .ppWAAEul0QHtm4er]]{detect thoughts}, [[/item .X4c8xCkmF8U9HUMz]]{mirror image}, [[/item .wqfAVANuQonNBgnL]]{misty step}</p><p>3rd level (3 slots): [[/item .Ek45cBpVXvJdv1Qy]]{counterspell},[[/item .yfbK8gZqESlaoY5t]]{fly}, [[/item .IyikgTEOTv701jgQ]]{lightning bolt}</p><p>4th level (3 slots): [[/item .pxpb2eOB6bv4phAf]]{banishment}, [[/item .avD5XUtkBPQQR97c]]{fire shield}, [[/item .ReMbjfeOKoSj3O79]]{stoneskin}*</p><p>5th level (3 slots): [[/item .RpKjTlYASrfqUPVA]]{cone of cold}, [[/item .fVbCxFRaORalHB20]]{scrying}, [[/item .o9ZCvuD2B1OTcubb]]{wall of force}</p><p>6th level (1 slot): [[/item .WmQpxfjZwF3MGUby]]{globe of invulnerability}</p><p>7th level (1 slot): [[/item .L4J89JXqbKs6puEV]]{teleport}</p><p>8th level (1 slot): [[/item .bllEWfm9xfEKynhv]]{mind blank}*</p><p>9th level (1 slot): [[/item .JYuRBwxpoFhXduvD]]{time stop}*</p><p>*-The archmage casts these spells on itself before combat.</p>",
             "chat": "<p>The archmage is an spellcaster. Its spellcasting ability is Intelligence.</p>"
         },
         "gVFZXBtgx450yiH7": {
@@ -5917,7 +5915,7 @@
         },
         "gijcyepmnWeRu4HV": {
             "name": "Fire Breath",
-            "description": "<p>The hound exhales fire in a 15-foot cone. Each creature in that area must make a  <strong>DC 12 Dexterity</strong> saving throw, taking <strong>21 (6d6) <em>fire damage</em></strong> on a failed save, or half as much damage on a successful one.</p>",
+            "description": "<p>The hound exhales fire in a 15-foot cone. Each creature in that area must make a [[/save]] saving throw, taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
             "chat": "<p>The hound exhales fire in a 15-foot cone. Each creature in that area must make a <strong>Dexterity</strong> saving throw.</p>"
         },
         "gjce4R2feN2UH0YE": {
@@ -5946,7 +5944,7 @@
         },
         "gq4SqLPtYhhtWidm": {
             "name": "Magic Resistance",
-            "description": "<p>The devil has<strong> advantage </strong>on saving throws against spells and other magical effects.</p>"
+            "description": "<p>The devil has advantage on saving throws against spells and other magical effects.</p>"
         },
         "gqMeY9GtWfBNt1bf": {
             "name": "Bite",
@@ -6012,7 +6010,7 @@
         },
         "h9XO0f5Un3EhJqHm": {
             "name": "Bite (Bear or Hybrid Form Only)",
-            "description": "<p>[[/attack extended]]. [[/damage extended]]. </p><p>If the target is a humanoid, it must succeed on a  <strong>DC 14 Constitution</strong> saving throw or be cursed with were bear lycanthropy.</p>",
+            "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>If the target is a humanoid, it must succeed on a [[/save]] saving throw or be cursed with were bear lycanthropy.</p>",
             "chat": "<p>The Werebear attacks with its Bite. If the target is a humanoid, it must make a <strong>Constitution</strong> saving throw.</p>"
         },
         "hGGrGcyo6L62I2rM": {
@@ -6117,7 +6115,7 @@
         },
         "hon1LZGigQRl2jBn": {
             "name": "Two Heads",
-            "description": "<p>The ettin has<strong> advantage </strong>on Wisdom (Perception) checks and on saving throws <strong>against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious</strong>.</p>"
+            "description": "<p>The ettin has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.</p>"
         },
         "hqj2yXtgwt64v3Lj": {
             "name": "Basilisk"
@@ -6172,11 +6170,11 @@
         },
         "iBhjlawEB5iwUmoS": {
             "name": "Rampage",
-            "description": "<p>When the gnoll reduces a creature to <strong>0 hit points</strong> with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.</p>"
+            "description": "<p>When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.</p>"
         },
         "iFHGL8wlqBtZAdHr": {
             "name": "Sting",
-            "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>The target must succeed on a  <strong>DC 14 Constitution</strong> saving throw or become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success .</p>",
+            "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>The target must succeed on a [[/save]] saving throw or become &amp;Reference[poisoned] for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success .</p>",
             "chat": "<p>The Bone Devil attacks with its Sting. the target must make a <strong>Constitution</strong> saving throw. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success .</p>"
         },
         "iGBdQA3IuKsurcUy": {
@@ -6201,7 +6199,7 @@
         },
         "iQt3J3ZnHDoeaEIR": {
             "name": "Illumination",
-            "description": "<p>The elemental sheds bright light in a <strong>30-foot radius</strong> and dim light in an additional <strong>30 ft.</strong>.</p>"
+            "description": "<p>The elemental sheds bright light in a 30-foot radius and dim light in an additional 30 ft..</p>"
         },
         "iRRniNGmcgkUi4oH": {
             "name": "Multiattack",
@@ -6226,7 +6224,7 @@
         },
         "iXhbFt7gCj3FBM2r": {
             "name": "Fire Breath",
-            "description": "<p>The mephit exhales a 15-foot cone of fire. Each creature in that area must make a  <strong>DC 11 Dexterity</strong> saving throw, taking <strong>7 (2d6) <em>fire damage</em></strong> on a failed save, or half as much damage on a successful one.</p>",
+            "description": "<p>The mephit exhales a 15-foot cone of fire. Each creature in that area must make a [[/save]] saving throw, taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
             "chat": "<p>The mephit exhales a 15-foot cone of fire. Each creature in that area must make a <strong>Dexterity</strong> saving throw.</p>"
         },
         "iYlIoEDfSCrggrca": {
@@ -6365,7 +6363,7 @@
         },
         "jZeQHAOQV365hmZF": {
             "name": "Magic Resistance",
-            "description": "<p>The nalfeshnee has<strong> advantage </strong>on saving throws against spells and other magical effects.</p>"
+            "description": "<p>The nalfeshnee has advantage on saving throws against spells and other magical effects.</p>"
         },
         "jc3NboVcwuEiXOYn": {
             "name": "Spider Climb",
@@ -6376,7 +6374,7 @@
         },
         "jgHhzAjFiPXlluVM": {
             "name": "Magic Resistance",
-            "description": "<p>The satyr has<strong> advantage </strong>on saving throws against spells and other magical effects.</p>"
+            "description": "<p>The satyr has advantage on saving throws against spells and other magical effects.</p>"
         },
         "jhhT9PsHy5A7EojO": {
             "name": "Resurrection",
@@ -6415,7 +6413,7 @@
         },
         "k0g8uqoYdJ4LVxcn": {
             "name": "Lightning Strike",
-            "description": "<p>The giant hurls a magical lightning bolt at a point it can see within 500 feet of it. </p><p>Each creature within 10 feet of that point must make a  <strong>DC 17 Dexterity</strong> saving throw, taking <strong>54 (12d8) <em>lightning damage</em></strong> on a failed save, or half as much damage on a successful one.</p>",
+            "description": "<p>The giant hurls a magical lightning bolt at a point it can see within 500 feet of it.</p><p>Each creature within 10 feet of that point must make a [[/save]] saving throw, taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p>",
             "chat": "<p>The Storm Giant attacks with its Lightning Strike. Each creature within 10 feet of that point must make a <strong>Dexterity</strong> saving throw.</p>"
         },
         "k24xxFfPtUCahddE": {
@@ -6582,12 +6580,12 @@
         },
         "lS2o3QOZ2lxKyi0L": {
             "name": "Parry",
-            "description": "<p>The marlith adds 5 to its <strong>AC</strong> against one melee Attack that would hit it. To do so, the marlith must see the attacker and be wielding a melee weapon.</p>",
+            "description": "<p>The marlith adds 5 to its AC against one melee Attack that would hit it. To do so, the marlith must see the attacker and be wielding a melee weapon.</p>",
             "chat": "<p>The marlith adds 5 to its <strong>AC</strong> against one melee Attack that would hit it.</p>"
         },
         "lSteE7vBmM70Jy3Z": {
             "name": "Dark Devotion",
-            "description": "<p>The fanatic has<strong> advantage </strong>on saving throws against being charmed or frightened.</p>"
+            "description": "<p>The fanatic has advantage on saving throws against being charmed or frightened.</p>"
         },
         "lUgfHIerFG9DvYSB": {
             "name": "Wing Attack",
@@ -6626,7 +6624,7 @@
         },
         "ldz0yUpzhV9Xlhss": {
             "name": "Bite (Rat or Hybrid Form Only)",
-            "description": "<p>[[/attack extended]]. [[/damage extended]]. </p><p>If the target is a humanoid, it must succeed on a  <strong>DC 11 Constitution</strong> saving throw or be cursed with wererat lycanthropy.</p>",
+            "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>If the target is a humanoid, it must succeed on a [[/save]] saving throw or be cursed with wererat lycanthropy.</p>",
             "chat": "<p>The Wererat attacks with its Bite. If the target is a humanoid, it must make a <strong>Constitution</strong> saving throw.</p>"
         },
         "lfUDtJ8hdeULQzqa": {
@@ -6779,7 +6777,7 @@
         },
         "mViCCkDhb1mA9oO6": {
             "name": "Magic Resistance",
-            "description": "<p>The vrock has<strong> advantage </strong>on saving throws against spells and other magical effects.</p>"
+            "description": "<p>The vrock has advantage on saving throws against spells and other magical effects.</p>"
         },
         "mWbrPhcKOz6oLXMV": {
             "name": "Doppelganger"
@@ -6842,7 +6840,7 @@
         },
         "nCTze3rZpWcTeuYQ": {
             "name": "Wall of Ice",
-            "description": "<p>The devil magically forms an opaque wall of ice on a solid surface it can see within 60 feet of it. The wall is 1 foot thick and up to 30 feet long and 10 feet high, or it's a hemispherical dome up to 20 feet in diameter.</p><p>When the wall appears, each creature in its space is pushed out of it by the shortest route. The creature chooses which side of the wall to end up on, unless the creature is incapacitated. The creature then makes a  <strong>DC 17 Dexterity</strong> saving throw, taking <strong>35 (10d6) <em>cold damage</em></strong> on a failed save, or half as much damage on a successful one.</p><p>The wall lasts for 1 minute or until the devil is incapacitated or dies. The wall can be damaged and breached; each 10-foot section has AC 5, 30 hit points, vulnerability to <em>fire damage</em>, and immunity to acid, cold, necrotic, poison, and <em>psychic damage</em>. If a section is destroyed, it leaves behind a sheet of frigid air in the space the wall occupied. Whenever a creature finishes moving through the frigid air on a turn, willingly or otherwise, the creature must make a  <strong>DC 17 Constitution</strong> saving throw, taking <strong>17 (5d6) <em>cold damage</em></strong> on a failed save, or half as much damage on a successful one. The frigid air dissipates when the rest of the wall vanishes.</p>",
+            "description": "<p>The devil magically forms an opaque wall of ice on a solid surface it can see within 60 feet of it. The wall is 1 foot thick and up to 30 feet long and 10 feet high, or it's a hemispherical dome up to 20 feet in diameter.</p><p>When the wall appears, each creature in its space is pushed out of it by the shortest route. The creature chooses which side of the wall to end up on, unless the creature is incapacitated. The creature then makes a [[/save]] saving throw, taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p><p>The wall lasts for 1 minute or until the devil is incapacitated or dies. The wall can be damaged and breached; each 10-foot section has AC 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage. If a section is destroyed, it leaves behind a sheet of frigid air in the space the wall occupied. Whenever a creature finishes moving through the frigid air on a turn, willingly or otherwise, the creature must make a [[/save activity=1sgpSnbxz7JYshd3]] saving throw, taking [[/damage activity=1sgpSnbxz7JYshd3 average]] damage on a failed save, or half as much damage on a successful one. The frigid air dissipates when the rest of the wall vanishes.</p>",
             "chat": "<p>The devil magically forms an opaque wall of ice on a solid surface it can see within 60 feet of it. The wall is 1 foot thick and up to 30 feet long and 10 feet high, or it's a hemispherical dome up to 20 feet in diameter.When the wall appears, each creature in its space is pushed out of it by the shortest route. The creature chooses which side of the wall to end up on, unless the creature is incapacitated. The creature then makes a Dexterity saving throw.</p><p>The wall can be damaged and breached. If a section is destroyed, it leaves behind a sheet of frigid air in the space the wall occupied. Whenever a creature finishes moving through the frigid air on a turn, willingly or otherwise, the creature must make a <strong>Constitution</strong> saving throw.</p>"
         },
         "nDvgtu7NSNCrREAv": {
@@ -6851,7 +6849,7 @@
         },
         "nE7YNnVM7srBcdfl": {
             "name": "Create Whirlwind",
-            "description": "<p>A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms on a point the djinni can see within 120 feet of it. The whirlwind lasts as long as the djinni maintains concentration (as if concentrating on a spell).</p><p>Any creature but the djinni that enters the whirlwind must succeed on a  <strong>DC 18 Strength</strong> saving throw or be restrained by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures restrained by the whirlwind move with it. The whirlwind ends if the djinni loses sight of it.</p><p>A creature can use its action to free a creature restrained by the whirlwind, including itself, by succeeding on a DC 18 Strength check. If the check succeeds, the creature is no longer restrained and moves to the nearest space outside the whirlwind.</p>",
+            "description": "<p>A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms on a point the djinni can see within 120 feet of it. The whirlwind lasts as long as the djinni maintains concentration (as if concentrating on a spell).</p><p>Any creature but the djinni that enters the whirlwind must succeed on a [[/save]] saving throw or be restrained by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures restrained by the whirlwind move with it. The whirlwind ends if the djinni loses sight of it.</p><p>A creature can use its action to free a creature restrained by the whirlwind, including itself, by succeeding on a [[/check]] check. If the check succeeds, the creature is no longer restrained and moves to the nearest space outside the whirlwind.</p>",
             "chat": "<p>A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms on a point the djinni can see within 120 feet of it. Any creature but the djinni that enters the whirlwind must make a <strong>Strength</strong> saving throw or be restrained by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures restrained by the whirlwind move with it. A creature can use its action to free a creature restrained by the whirlwind, including itself, by succeeding on a Strength check. If the check succeeds, the creature is no longer restrained and moves to the nearest space outside the whirlwind.</p>"
         },
         "nEC1BRwM8Lx9hLXW": {
@@ -6924,7 +6922,7 @@
         },
         "ndwCjJFBLTujojCl": {
             "name": "Beard",
-            "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>The target must succeed on a  <strong>DC 12 Constitution</strong> saving throw or be poisoned for 1 minute. While poisoned in this way, the target can't regain hit points. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>",
+            "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>The target must succeed on a [[/save]] saving throw or be &amp;Reference[poisoned] for 1 minute. While poisoned in this way, the target can't regain hit points. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>",
             "chat": "<p>The Bearded Devil attacks with its Beard. The target must make a <strong>Constitution</strong> saving throw. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>"
         },
         "neAokA0n390MXPMQ": {
@@ -6980,7 +6978,7 @@
         },
         "nzkZgDrDq0RwWUao": {
             "name": "Death Throes",
-            "description": "<p>When the balor dies, it explodes, and each creature within 30 feet of it must make a  <strong>DC 20 Dexterity</strong> saving throw, taking <strong>70 (20d6) <em>fire damage</em></strong> on a failed save, or half as much damage on a successful one.</p><p>The explosion ignites flammable objects in that area that aren't being worn or carried, and it destroys the balor's weapons.</p>",
+            "description": "<p>When the balor dies, it explodes, and each creature within 30 feet of it must make a [[/save]] saving throw, taking [[/damage average]] damage on a failed save, or half as much damage on a successful one.</p><p>The explosion ignites flammable objects in that area that aren't being worn or carried, and it destroys the balor's weapons.</p>",
             "chat": "<p>When the balor dies, it explodes, and each creature within 30 feet of it must make a <strong>Dexterity</strong> saving throw. The explosion ignites flammable objects in that area that aren't being worn or carried, and it destroys the balor's weapons.</p>"
         },
         "o4v4mHxP82HTbIOX": {
@@ -7194,7 +7192,7 @@
         },
         "pZLDhUyfsObRKMpP": {
             "name": "Pack Tactics",
-            "description": "<p>The kobold has<strong> advantage </strong>on an attack roll against a creature if at least one of the kobold's allies is within <strong>5 ft.</strong> of the creature and the ally isn't incapacitated.</p>"
+            "description": "<p>The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 ft. of the creature and the ally isn't incapacitated.</p>"
         },
         "pl7hO2z20EnTaPZt": {
             "name": "Shortsword",
@@ -7303,7 +7301,7 @@
         },
         "qJHrH8Q3q1JB5xe5": {
             "name": "Heart Sight",
-            "description": "<p>The sprite touches a creature and magically knows the creature's current emotional state. </p><p>If the target fails a  <strong>DC 10 Charisma</strong> saving throw, the sprite also knows the creature's alignment. Celestials, fiends, and undead automatically fail the saving throw.</p>",
+            "description": "<p>The sprite touches a creature and magically knows the creature's current emotional state.</p><p>If the target fails a [[/save]] saving throw, the sprite also knows the creature's alignment. Celestials, fiends, and undead automatically fail the saving throw.</p>",
             "chat": "<p>The sprite touches a creature. target must make a <strong>Charisma</strong> saving throw.</p>"
         },
         "qLd01BTjVwH6NUfH": {
@@ -7540,7 +7538,7 @@
         },
         "rlA41r2MlaqmVjvf": {
             "name": "Ignited Illumination",
-            "description": "<p>As a bonus action, the magmin can set itself ablaze or extinguish its flames. While ablaze, the magmin sheds bright light in a <strong>10-foot radius</strong> and dim light for an additional <strong>10 ft.</strong></p>"
+            "description": "<p>As a bonus action, the magmin can set itself ablaze or extinguish its flames. While ablaze, the magmin sheds bright light in a 10-foot radius and dim light for an additional 10 ft.</p>"
         },
         "rne03sCadusyP3Yg": {
             "name": "Grasping Hand",
@@ -7572,14 +7570,14 @@
         },
         "ryNcNrIgtkYHRKWj": {
             "name": "Stone Camouflage",
-            "description": "<p>The xorn has<strong> advantage </strong>on Dexterity (Stealth) checks made to hide in rocky terrain.</p>"
+            "description": "<p>The xorn has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.</p>"
         },
         "rz8UTUnFT87BsAFR": {
             "name": "Riding Horse"
         },
         "rzLcynHQQj04Ue4B": {
             "name": "Keen Smell",
-            "description": "<p>The werebear has<strong> advantage </strong>on Wisdom (Perception) checks that rely on smell.</p>"
+            "description": "<p>The werebear has advantage on Wisdom (Perception) checks that rely on smell.</p>"
         },
         "s1s5asgUorljP7SV": {
             "name": "Etherealness",
@@ -7637,7 +7635,7 @@
         },
         "sN28gnBGF2TVdd53": {
             "name": "Spear",
-            "description": "<p>[[/attack extended]]. [[/damage extended]], or <strong>4 (1d8) <em>piercing damage</em></strong> if used with two hands to make a melee attack.</p>",
+            "description": "<p>[[/attack extended]]. [[/damage extended]], or [[/damage average attackMode=twoHanded]] damage if used with two hands to make a melee attack.</p>",
             "chat": "<p>The Merfolk attacks with its Spear.</p>"
         },
         "sSs3hSzkKBMNBgTs": {
@@ -7660,7 +7658,7 @@
         },
         "sZcc3bwnRjaDV9BZ": {
             "name": "Freeze",
-            "description": "<p>If the elemental takes <strong><em>cold damage</em></strong>, it partially freezes; its speed is reduced by <strong>20 ft.</strong> until the end of its next turn.</p>",
+            "description": "<p>If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 ft. until the end of its next turn.</p>",
             "chat": "<p>If the elemental takes <strong><em>cold damage</em></strong>, it partially freezes.</p>"
         },
         "sZjcCRCNcf6m4VoK": {
@@ -7799,7 +7797,7 @@
         },
         "tCtnqPPKQ9NxIDqd": {
             "name": "War Pick",
-            "description": "<p>[[/attack extended]]. [[/damage extended]], or <strong>11 (2d8 + 2) <em>piercing damage</em></strong> while enlarged.</p>",
+            "description": "<p>[[/attack extended]]. [[/damage extended]], or [[/damage average activity=efBWBI6TxtxVoljw]] damage while enlarged.</p>",
             "chat": "<p>The Duergar attacks with its War Pick.</p>"
         },
         "tD8Vmsb4B5eqTOJA": {
@@ -7858,7 +7856,7 @@
         },
         "tWfR8uJNnQxpXgDw": {
             "name": "Bite (Wolf or Hybrid Form Only)",
-            "description": "<p>[[/attack extended]]. [[/damage extended]]. </p><p>If the target is a humanoid, it must succeed on a  <strong>DC 12 Constitution</strong> saving throw or be cursed with werewolf lycanthropy.</p>",
+            "description": "<p>[[/attack extended]]. [[/damage extended]].</p><p>If the target is a humanoid, it must succeed on a [[/save]] saving throw or be cursed with werewolf lycanthropy.</p>",
             "chat": "<p>The Werewolf attacks with its Bite. If the target is a humanoid, it must make a <strong>Constitution</strong> saving throw.</p>"
         },
         "tXHiE3pxHbBF8bS6": {
@@ -8085,11 +8083,11 @@
         },
         "uyWDYVSAJuCfayLE": {
             "name": "Blood Frenzy",
-            "description": "<p>The sahuagin has<strong> advantage </strong>on melee attack rolls against any creature that doesn't have all its<strong> hit points</strong>.</p>"
+            "description": "<p>The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>"
         },
         "v3i1DaUS4Bkc8Ser": {
             "name": "Death Burst",
-            "description": "<p>When the mephit dies, it explodes in a burst of dust. Each creature within <strong>5 ft.</strong> of it must then succeed on a <strong>DC 10 Constitution saving throw</strong> or be blinded for <strong>1 minute</strong>. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.</p>",
+            "description": "<p>When the mephit dies, it explodes in a burst of dust. Each creature within 5 ft. of it must then succeed on a [[/save]] saving throw or be &amp;Reference[blinded] for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.</p>",
             "chat": "<p>When the mephit dies, it explodes in a burst of dust. Each creature within <strong>5 ft.</strong> of it must make a <strong>Constitution</strong> saving throw.</p>"
         },
         "v5TMyixZTtiw13d7": {
@@ -8196,7 +8194,7 @@
         },
         "vlmHYqAZxNGh8xQ6": {
             "name": "Magic Resistance",
-            "description": "<p>The quasit has<strong> advantage </strong>on saving throws against spells and other magical effects.</p>"
+            "description": "<p>The quasit has advantage on saving throws against spells and other magical effects.</p>"
         },
         "vnAmgF7ZkpmDIJSc": {
             "name": "Multiattack",
@@ -8270,7 +8268,7 @@
         },
         "wkqjn4bqhPIUUo7k": {
             "name": "Fear Aura",
-            "description": "<p>Any creature hostile to the pit fiend that starts its turn <strong>within 20 feet</strong> of the pit fiend must make a <strong>DC 21 Wisdom saving throw</strong>, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.</p>",
+            "description": "<p>Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a [[/save]] saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is &amp;Reference[frightened] until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.</p>",
             "chat": "<p>Any creature hostile to the pit fiend that starts its turn <strong>within 20 feet</strong> of the pit fiend must make a <strong>Wisdom</strong> saving throw.</p>"
         },
         "wmqCsq80pewLPg4c": {
@@ -8336,7 +8334,7 @@
         },
         "x6Hd2pSXy7TDwgjR": {
             "name": "Treasure Sense",
-            "description": "<p>The xorn can pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within <strong>60 ft.</strong> of it.</p>"
+            "description": "<p>The xorn can pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 60 ft. of it.</p>"
         },
         "x7uPzThV97uQxTun": {
             "name": "Bite",
@@ -8465,7 +8463,7 @@
         },
         "yWYB2iyRA61AjcVJ": {
             "name": "Regeneration",
-            "description": "<p>The troll regains <strong>10 hit points</strong> at the start of its turn. If the troll takes <strong>acid</strong> or <strong><em>fire damage</em></strong>, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with <strong>0 hit points</strong> and doesn't regenerate.</p>",
+            "description": "<p>The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.</p>",
             "chat": "<p>The troll regains <strong>10 hit points</strong> at the start of its turn.</p>"
         },
         "yawTeS8u2FCfzzZH": {
@@ -8518,7 +8516,7 @@
         },
         "yud1cnEVQ9KxbmWc": {
             "name": "Fire Form",
-            "description": "<p>The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 ft. of it takes <strong>5 (1d10) <em>fire damage</em></strong>. </p><p>In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes <strong>5 (1d10) <em>fire damage</em></strong> and catches fire; until someone takes an action to douse the fire, the creature takes <strong>5 (1d10) <em>fire damage</em></strong> at the start of each of its turns.</p>",
+            "description": "<p>The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 ft. of it takes [[/damage average]] damage.</p><p>In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes [[/damage average]] damage and catches fire; until someone takes an action to douse the fire, the creature takes [[/damage average]] damage at the start of each of its turns.</p>",
             "chat": "<p>A creature that touches the elemental or hits it with a melee attack while within 5 ft. of it takes <em>fire damage</em>. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes <em>fire damage</em> and catches fire; until someone takes an action to douse the fire, the creature takes <em>fire damage</em> at the start of each of its turns.</p>"
         },
         "ywVQhULZvd4Jn51c": {
@@ -8584,6 +8582,7 @@
         },
         "zK5E9yD6BR0fZRBo": {
             "name": "Teleport",
+            "description": "<p>The nalfeshnee magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.</p>",
             "chat": "<section class=\"secret\"><p></p></section><p>The nalfeshnee magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.</p>"
         },
         "zMAWdyc8UVb37BK4": {
@@ -8661,7 +8660,7 @@
         },
         "zqsYu35qYHNNeTWE": {
             "name": "Stone Camouflage",
-            "description": "<p>The giant has<strong> advantage </strong>on Dexterity (Stealth) checks made to hide in rocky terrain.</p>"
+            "description": "<p>The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.</p>"
         },
         "ztgcdrWPshKRpFd0": {
             "name": "Fireball",
@@ -8681,7 +8680,7 @@
         },
         "zzskoOXzAiMDZfbc": {
             "name": "Shapechanger",
-            "description": "<p>The wereboar can use its action to <strong>polymorph</strong> into a boar-humanoid hybrid or into a boar, or back into its true form, which is humanoid. </p><p>Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>",
+            "description": "<p>The wereboar can use its action to polymorph into a boar-humanoid hybrid or into a boar, or back into its true form, which is humanoid.</p><p>Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.</p>",
             "chat": "<p>The wereboar can use its action to <strong>polymorph</strong>, or return to its true form.</p>"
         }
     },
