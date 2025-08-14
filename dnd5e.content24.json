@@ -1175,7 +1175,7 @@
             "name": "Spellcasting Ability"
         },
         "KUyN4eK1xTBzXsjP": {
-            "name": "Inhaled (2014)"
+            "name": "Inhaled"
         },
         "KWbzkTnSU0FxRxoU": {
             "name": "Ghost"
@@ -1223,7 +1223,7 @@
             "name": "Psionics (2014)"
         },
         "LUL48OUq6SJeMGc7": {
-            "name": "Injury (2014)"
+            "name": "Injury"
         },
         "LY1ywDGQxNYk4q8B": {
             "name": "Merrow"
@@ -1766,7 +1766,7 @@
             "name": "Stirges"
         },
         "Y0vsJYSWeQcFpJ27": {
-            "name": "Ingested (2014)"
+            "name": "Ingested"
         },
         "Y7nmbQAruWOs7WRM": {
             "name": "Investigation"
@@ -2197,7 +2197,7 @@
             "name": "Telepathy"
         },
         "gi8IKhtOlBVhMJrN": {
-            "name": "Spell Scroll (2014)"
+            "name": "Spell Scroll"
         },
         "gk15WhvhQVgUn3UG": {
             "name": "Swarm of Venomous Snakes"
@@ -2435,7 +2435,7 @@
             "name": "A Legendary Creature's Lair (2014)"
         },
         "kXnCEqqGUWRZeZDj": {
-            "name": "Contact (2014)"
+            "name": "Contact"
         },
         "kdlgZOpRMB6bGCod": {
             "name": "Instantaneous"
@@ -3074,6 +3074,30 @@
         },
         "smEk7kvVyslFozrB": {
             "name": "Illusion"
+        },
+        "spellsDevotion00": {
+            "name": "Oath of Devotion Spells"
+        },
+        "spellsDraconic00": {
+            "name": "Draconic Spells"
+        },
+        "spellsFiend00000": {
+            "name": "Fiend Spells"
+        },
+        "spellsLandArid00": {
+            "name": "Circle of the Land, Arid Spells"
+        },
+        "spellsLandPolar0": {
+            "name": "Circle of the Land, Polar Spells"
+        },
+        "spellsLandTemper": {
+            "name": "Circle of the Land, Temperate Spells"
+        },
+        "spellsLandTropic": {
+            "name": "Circle of the Land, Tropical Spells"
+        },
+        "spellsLife000000": {
+            "name": "Life Domain Spells"
         },
         "suHSIeLVLizTYPgT": {
             "name": "Werebear"

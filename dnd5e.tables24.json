@@ -13,6 +13,9 @@
         "Creating a Character": "Creating a Character"
     },
     "entries": {
+        "0UVk1kE4Nz7qMSlj": {
+            "name": "Blue"
+        },
         "1HtTelpxxOAc4vID": {
             "name": "Puzzle"
         },
@@ -31,6 +34,9 @@
         "6L3KbE75ugKNdbhg": {
             "name": "Human"
         },
+        "6ofDupJRAkCwQL5d": {
+            "name": "Yellow"
+        },
         "7h9jMXFIxBKzjivk": {
             "name": "Rogue"
         },
@@ -48,6 +54,9 @@
         },
         "9isSpLlYLL5h2Aoa": {
             "name": "Rogue"
+        },
+        "9roEeqKHIauLWYsP": {
+            "name": "Indigo"
         },
         "A4xbZelWo8bO7tfV": {
             "name": "Elf, Wood"
@@ -78,6 +87,9 @@
         },
         "DAzY7u6xTitMeoB6": {
             "name": "Skull"
+        },
+        "DYdvoPQwjzkQAmOz": {
+            "name": "Yellow"
         },
         "EiuOGVBwrd5dzY1O": {
             "name": "Ruin"
@@ -133,14 +145,26 @@
         "Tzf8H1DJyFsmBqaN": {
             "name": "Jester"
         },
+        "VJ0WNUsuWtNqlr7M": {
+            "name": "Green"
+        },
         "WN6avNTrKLMyCRVD": {
             "name": "Sun"
+        },
+        "WtYqe4zm1DJyXmI5": {
+            "name": "Orange"
         },
         "XAwjD2CKetY0vDzS": {
             "name": "Rat"
         },
         "XoGa3OMCvqVJ1iUS": {
             "name": "Sun"
+        },
+        "YRy23VFeS34ZU0kN": {
+            "name": "Violet"
+        },
+        "Yh9bG6idhWWwUmdS": {
+            "name": "Red"
         },
         "Ym4LPQm1DMZ3iUBH": {
             "name": "Dwarf"
@@ -151,8 +175,14 @@
         "az5LLssMmXKwVuVN": {
             "name": "Tiefling, Chthonic"
         },
+        "b1ryx7FwWLGwgQiQ": {
+            "name": "Indigo"
+        },
         "bEMGelUnEQGCNIch": {
             "name": "Knight"
+        },
+        "cbfHzGC7oLI48i1F": {
+            "name": "Violet"
         },
         "ckQqX5zhGyji2SBo": {
             "name": "Star"
@@ -270,6 +300,9 @@
         },
         "imEKznlZEE0rSsLx": {
             "name": "Flames"
+        },
+        "jAjDgUISYpf5GnE5": {
+            "name": "Orange"
         },
         "k0SXf6JEb7Eairsz": {
             "name": "Comet"
@@ -415,11 +448,17 @@
         "sxKB8VQEBh0roKnc": {
             "name": "Moon"
         },
+        "t0CrtbVhYtW3a7Lt": {
+            "name": "Red"
+        },
         "tErs3uTFNYKl3gAu": {
             "name": "Gnome, Rock"
         },
         "trQNDzdEF19fadQK": {
             "name": "Jester"
+        },
+        "uA69bAczU0ATdEt4": {
+            "name": "Green"
         },
         "uhxub63WB4H7yROY": {
             "name": "Goat"
@@ -430,6 +469,9 @@
         "v65tOkYcYXbUplIe": {
             "name": "Boar"
         },
+        "w7WNMlR1c0Bmsj1l": {
+            "name": "Special"
+        },
         "wHuva8KyJqk0ks9t": {
             "name": "Weasel"
         },
@@ -438,6 +480,9 @@
         },
         "xVsjx6HCackwxQ1O": {
             "name": "Talons"
+        },
+        "xZgEE34Oi8lV3z8S": {
+            "name": "Blue"
         },
         "xzCuVY29JwIHHgbB": {
             "name": "Void"

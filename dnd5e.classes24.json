@@ -454,22 +454,16 @@
                 "17": {
                     "title": "Class Features"
                 },
-                "18": {
-                    "title": "Class Features"
-                },
-                "20": {
+                "19": {
                     "hint": "You gain proficiency in another skill of your choice from the skill list available to Barbarians at level 1."
                 },
-                "22": {
-                    "hint": "You embody primal power. Your Strength and Constitution scores increase by 4, to a maximum of 25."
-                },
-                "31": {
+                "28": {
                     "hint": "Your training with weapons allows you to use the mastery properties of additional weapons."
                 },
-                "32": {
+                "29": {
                     "hint": "Your training with weapons allows you to use the mastery properties of additional weapons."
                 },
-                "33": {
+                "30": {
                     "hint": "Your training with weapons allows you to use the mastery properties of additional weapons."
                 }
             }
@@ -550,7 +544,12 @@
         },
         "phbbrbPrimalCham": {
             "name": "Primal Champion",
-            "description": "<p>You embody primal power. Your Strength and Constitution scores increase by 4, to a maximum of 25.</p>"
+            "description": "<p>You embody primal power. Your Strength and Constitution scores increase by 4, to a maximum of 25.</p>",
+            "advancement": {
+                "0": {
+                    "hint": "You embody primal power. Your Strength and Constitution scores increase by 4, to a maximum of 25."
+                }
+            }
         },
         "phbbrbPrimalKnow": {
             "name": "Primal Knowledge",
@@ -609,10 +608,7 @@
                 "10": {
                     "title": "Class Features"
                 },
-                "11": {
-                    "title": "Class Features"
-                },
-                "15": {
+                "14": {
                     "title": "Expertise"
                 }
             }
@@ -681,7 +677,7 @@
         },
         "phbbrdSpellcasti": {
             "name": "Spellcasting",
-            "description": "<p>You have learned to cast spells through your bardic arts. See @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.mh3akteBDiLegqFK]{chapter 7} for the rules on spellcasting. The information below details how you use those rules with Bard spells, which appear in the @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.wwia6Wwo4BgE9GSI]{Bard spell list}.</p><p><strong>Cantrips.</strong> You know two cantrips of your choice from the Bard spell list. <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplDancingLig]{Dancing Lights}</em> and <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplViciousMoc]{Vicious Mockery}</em> are recommended.</p><p>Whenever you gain a Bard level, you can replace one of your cantrips with another cantrip of your choice from the Bard spell list.</p><p>When you reach Bard levels 4 and 10, you learn another cantrip of your choice from the Bard spell list, as shown in the Cantrips column of the @UUID[Compendium.dnd5e.content24.JournalEntry.phbBard000000000.JournalEntryPage.V8pqIWlaL9GhY61t#class-features]{Bard Features} table.</p><p><strong>Spell Slots.</strong> The Bard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.</p><p><strong>Prepared Spells of Level 1+.</strong> You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Bard spell list. <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplCharmPerso]{Charm Person}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplColorSpray]{Color Spray}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplDissonantW]{Dissonant Whispers}</em>, and <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplHealingWor]{Healing Word} </em>are recommended.</p><p>The number of spells on your list increases as you gain Bard levels, as shown in the Prepared Spells column of the Bard Features table. Whenever that number increases, choose additional spells from the Bard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Bard, your list of prepared spells can include six spells of levels 1 and 2 in any combination.</p><p>If another Bard feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Bard spells for you.</p><p><strong>Changing Your Prepared Spells. </strong>Whenever you gain a Bard level, you can replace one spell on your list with another Bard spell for which you have spell slots.</p><p><strong>Spellcasting Ability. </strong>Charisma is your spellcasting ability for your Bard spells.</p><p><strong>Spellcasting Focus. </strong>You can use a Musical Instrument as a Spellcasting Focus for your Bard spells.</p>"
+            "description": "<p>You have learned to cast spells through your bardic arts. See @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.b2QVn25z2N1ykWpf]{chapter 7} for the rules on spellcasting. The information below details how you use those rules with Bard spells, which appear in the @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.wwia6Wwo4BgE9GSI]{Bard spell list}.</p><p><strong>Cantrips.</strong> You know two cantrips of your choice from the Bard spell list. <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplDancingLig]{Dancing Lights}</em> and <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplViciousMoc]{Vicious Mockery}</em> are recommended.</p><p>Whenever you gain a Bard level, you can replace one of your cantrips with another cantrip of your choice from the Bard spell list.</p><p>When you reach Bard levels 4 and 10, you learn another cantrip of your choice from the Bard spell list, as shown in the Cantrips column of the @UUID[Compendium.dnd5e.content24.JournalEntry.phbBard000000000.JournalEntryPage.V8pqIWlaL9GhY61t#class-features]{Bard Features} table.</p><p><strong>Spell Slots.</strong> The Bard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.</p><p><strong>Prepared Spells of Level 1+.</strong> You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Bard spell list. <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplCharmPerso]{Charm Person}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplColorSpray]{Color Spray}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplDissonantW]{Dissonant Whispers}</em>, and <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplHealingWor]{Healing Word} </em>are recommended.</p><p>The number of spells on your list increases as you gain Bard levels, as shown in the Prepared Spells column of the Bard Features table. Whenever that number increases, choose additional spells from the Bard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Bard, your list of prepared spells can include six spells of levels 1 and 2 in any combination.</p><p>If another Bard feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Bard spells for you.</p><p><strong>Changing Your Prepared Spells. </strong>Whenever you gain a Bard level, you can replace one spell on your list with another Bard spell for which you have spell slots.</p><p><strong>Spellcasting Ability. </strong>Charisma is your spellcasting ability for your Bard spells.</p><p><strong>Spellcasting Focus. </strong>You can use a Musical Instrument as a Spellcasting Focus for your Bard spells.</p>"
         },
         "phbbrdSuperiorIn": {
             "name": "Superior Inspiration",
@@ -725,13 +721,10 @@
                 "5": {
                     "title": "Class Features"
                 },
-                "6": {
-                    "title": "Class Features"
-                },
-                "16": {
+                "14": {
                     "hint": "You have dedicated yourself to one of the following sacred roles of your choice."
                 },
-                "17": {
+                "15": {
                     "hint": "Divine power infuses you in battle. You gain one of the following options of your choice (if you get either option from a Cleric subclass in an older book, use only the option you choose for this feature)."
                 }
             }
@@ -789,7 +782,7 @@
         },
         "phbclcSpellcasti": {
             "name": "Spellcasting",
-            "description": "<p>You have learned to cast spells through prayer and meditation. See @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.mh3akteBDiLegqFK]{chapter 7} for the rules on spellcasting. The information below details how you use those rules with Cleric spells, which appear on the @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.SkHptN2PTzFGDaEj]{Cleric spell list}.</p><p><strong>Cantrips.</strong> You know three cantrips of your choice from the Cleric spell list. @UUID[Compendium.dnd5e.spells24.Item.phbsplGuidance00]{Guidance}, @UUID[Compendium.dnd5e.spells24.Item.phbsplSacredFlam]{Sacred Flame}, and @UUID[Compendium.dnd5e.spells24.Item.phbsplThaumaturg]{Thaumaturgy} are recommended.</p><p>Whenever you gain a Cleric level, you can replace one of your cantrips with another cantrip of your choice from the Cleric spell list.</p><p>When you reach Cleric levels 4 and 10, you learn another cantrip of your choice from the Cleric spell list, as shown in the Cantrips column of the @UUID[Compendium.dnd5e.content24.JournalEntry.phbCleric0000000.JournalEntryPage.acPyA6A4DQBSnuZB#class-features]{Cleric Features} table.</p><p><strong>Spell Slots.</strong> The Cleric Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.</p><p><strong>Prepared Spells of Level 1+.</strong> You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Cleric spell list. @UUID[Compendium.dnd5e.spells24.Item.phbsplBless00000]{Bless}, @UUID[Compendium.dnd5e.spells24.Item.phbsplCureWounds]{Cure Wounds}, @UUID[Compendium.dnd5e.spells24.Item.phbsplGuidingBol]{Guiding Bolt}, and @UUID[Compendium.dnd5e.spells24.Item.phbsplShieldofFa]{Shield of Faith} are recommended.</p><p>The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric Features table. Whenever that number increases, choose additional spells from the Cleric spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.</p><p>If another Cleric feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Cleric spells for you.</p><p><strong>Changing Your Prepared Spells. </strong>Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells there with other Cleric spells for which you have spell slots.</p><p><strong>Spellcasting Ability. </strong>Wisdom is your spellcasting ability for your Cleric spells.</p><p><strong>Spellcasting Focus. </strong>You can use a Holy Symbol as a Spellcasting Focus for your Cleric spells.</p>"
+            "description": "<p>You have learned to cast spells through prayer and meditation. See @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.b2QVn25z2N1ykWpf]{chapter 7} for the rules on spellcasting. The information below details how you use those rules with Cleric spells, which appear on the @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.SkHptN2PTzFGDaEj]{Cleric spell list}.</p><p><strong>Cantrips.</strong> You know three cantrips of your choice from the Cleric spell list. @UUID[Compendium.dnd5e.spells24.Item.phbsplGuidance00]{Guidance}, @UUID[Compendium.dnd5e.spells24.Item.phbsplSacredFlam]{Sacred Flame}, and @UUID[Compendium.dnd5e.spells24.Item.phbsplThaumaturg]{Thaumaturgy} are recommended.</p><p>Whenever you gain a Cleric level, you can replace one of your cantrips with another cantrip of your choice from the Cleric spell list.</p><p>When you reach Cleric levels 4 and 10, you learn another cantrip of your choice from the Cleric spell list, as shown in the Cantrips column of the @UUID[Compendium.dnd5e.content24.JournalEntry.phbCleric0000000.JournalEntryPage.acPyA6A4DQBSnuZB#class-features]{Cleric Features} table.</p><p><strong>Spell Slots.</strong> The Cleric Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.</p><p><strong>Prepared Spells of Level 1+.</strong> You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Cleric spell list. @UUID[Compendium.dnd5e.spells24.Item.phbsplBless00000]{Bless}, @UUID[Compendium.dnd5e.spells24.Item.phbsplCureWounds]{Cure Wounds}, @UUID[Compendium.dnd5e.spells24.Item.phbsplGuidingBol]{Guiding Bolt}, and @UUID[Compendium.dnd5e.spells24.Item.phbsplShieldofFa]{Shield of Faith} are recommended.</p><p>The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric Features table. Whenever that number increases, choose additional spells from the Cleric spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.</p><p>If another Cleric feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Cleric spells for you.</p><p><strong>Changing Your Prepared Spells. </strong>Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells there with other Cleric spells for which you have spell slots.</p><p><strong>Spellcasting Ability. </strong>Wisdom is your spellcasting ability for your Cleric spells.</p><p><strong>Spellcasting Focus. </strong>You can use a Holy Symbol as a Spellcasting Focus for your Cleric spells.</p>"
         },
         "phbclcSupremeHea": {
             "name": "Supreme Healing",
@@ -843,16 +836,13 @@
                 "6": {
                     "title": "Class Features"
                 },
-                "7": {
-                    "title": "Class Features"
-                },
-                "18": {
+                "17": {
                     "hint": "You have dedicated yourself to one of the following sacred roles of your choice."
                 },
-                "19": {
+                "18": {
                     "hint": "The might of the elements flows through you. You gain one of the following options of your choice."
                 },
-                "28": {
+                "26": {
                     "hint": "You know Druidic, the secret language of Druids."
                 }
             }
@@ -899,7 +889,7 @@
         },
         "phbdrdSpellcasti": {
             "name": "Spellcasting",
-            "description": "<p>You have learned to cast spells through studying the mystical forces of nature. See @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.mh3akteBDiLegqFK]{chapter 7} for the rules on spellcasting. The information below details how you use those rules with Druid spells, which appear on the @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.LhvuDQEyrCdg5EfU]{Druid spell list}.</p><p><strong>Cantrips.</strong> You know two cantrips of your choice from the Druid spell list. @UUID[Compendium.dnd5e.spells24.Item.phbsplDruidcraft]{Druidcraft} and @UUID[Compendium.dnd5e.spells24.Item.phbsplProduceFla]{Produce Flame} are recommended.</p><p>Whenever you gain a Druid level, you can replace one of your cantrips with another cantrip of your choice from the Druid spell list.</p><p>When you reach Druid levels 4 and 10, you learn another cantrip of your choice from the Druid spell list, as shown in the Cantrips column of the @UUID[Compendium.dnd5e.content24.JournalEntry.phbDruid00000000.JournalEntryPage.UCOh3zlvGxyk5jLr#class-features]{Druid Features} table.</p><p><strong>Spell Slots.</strong> The Druid Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.</p><p><strong>Prepared Spells of Level 1+.</strong> You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Druid spell list. @UUID[Compendium.dnd5e.spells24.Item.phbsplAnimalFrie]{Animal Friendship}, @UUID[Compendium.dnd5e.spells24.Item.phbsplCureWounds]{Cure Wounds}, @UUID[Compendium.dnd5e.spells24.Item.phbsplFaerieFire]{Faerie Fire}, and @UUID[Compendium.dnd5e.spells24.Item.phbsplThunderwav]{Thunderwave} are recommended.</p><p>The number of spells on your list increases as you gain Druid levels, as shown in the Prepared Spells column of the Druid Features table. Whenever that number increases, choose additional spells from the Druid spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Druid, your list of prepared spells can include six spells of levels 1 and 2 in any combination.</p><p>If another Druid feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Druid spells for you.</p><p><strong>Changing Your Prepared Spells.</strong> Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells with other Druid spells for which you have spell slots.</p><p><strong>Spellcasting Ability. </strong>Wisdom is your spellcasting ability for your Druid spells.</p><p><strong>Spellcasting Focus. </strong>You can use a Druidic Focus as a Spellcasting Focus for your Druid spells.</p>"
+            "description": "<p>You have learned to cast spells through studying the mystical forces of nature. See @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.b2QVn25z2N1ykWpf]{chapter 7} for the rules on spellcasting. The information below details how you use those rules with Druid spells, which appear on the @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.LhvuDQEyrCdg5EfU]{Druid spell list}.</p><p><strong>Cantrips.</strong> You know two cantrips of your choice from the Druid spell list. @UUID[Compendium.dnd5e.spells24.Item.phbsplDruidcraft]{Druidcraft} and @UUID[Compendium.dnd5e.spells24.Item.phbsplProduceFla]{Produce Flame} are recommended.</p><p>Whenever you gain a Druid level, you can replace one of your cantrips with another cantrip of your choice from the Druid spell list.</p><p>When you reach Druid levels 4 and 10, you learn another cantrip of your choice from the Druid spell list, as shown in the Cantrips column of the @UUID[Compendium.dnd5e.content24.JournalEntry.phbDruid00000000.JournalEntryPage.UCOh3zlvGxyk5jLr#class-features]{Druid Features} table.</p><p><strong>Spell Slots.</strong> The Druid Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.</p><p><strong>Prepared Spells of Level 1+.</strong> You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Druid spell list. @UUID[Compendium.dnd5e.spells24.Item.phbsplAnimalFrie]{Animal Friendship}, @UUID[Compendium.dnd5e.spells24.Item.phbsplCureWounds]{Cure Wounds}, @UUID[Compendium.dnd5e.spells24.Item.phbsplFaerieFire]{Faerie Fire}, and @UUID[Compendium.dnd5e.spells24.Item.phbsplThunderwav]{Thunderwave} are recommended.</p><p>The number of spells on your list increases as you gain Druid levels, as shown in the Prepared Spells column of the Druid Features table. Whenever that number increases, choose additional spells from the Druid spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Druid, your list of prepared spells can include six spells of levels 1 and 2 in any combination.</p><p>If another Druid feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Druid spells for you.</p><p><strong>Changing Your Prepared Spells.</strong> Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells with other Druid spells for which you have spell slots.</p><p><strong>Spellcasting Ability. </strong>Wisdom is your spellcasting ability for your Druid spells.</p><p><strong>Spellcasting Focus. </strong>You can use a Druidic Focus as a Spellcasting Focus for your Druid spells.</p>"
         },
         "phbdrdWildCompan": {
             "name": "Wild Companion",
@@ -981,9 +971,6 @@
                     "title": "Class Features"
                 },
                 "6": {
-                    "title": "Class Features"
-                },
-                "7": {
                     "title": "Class Features"
                 }
             }
@@ -1142,7 +1129,7 @@
         },
         "phbinvRepellingB": {
             "name": "Repelling Blast",
-            "description": "<blockquote><p>Prerequisite: Level 2+ Warlock, a Warlock Cantrip That Deals Damage via an Attack Roll</p></blockquote><p>Choose one of your known Warlock cantrips that requires an attack roll. When you hit a Large or smaller creature with that cantrip, you can push the creature up to 10 feet straight away from you.</p><p>Repeatable. You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.</p><section class=\"secret\" id=\"secret-5xV7SaKI7sGaeKvq\"><p><strong>Foundry Note</strong></p><p>The <strong>Make Repelling</strong> activity can be used to enchant a cantrip which adds \", Repelling\" as a reminder.</p></section>"
+            "description": "<blockquote><p>Prerequisite: Level 2+ Warlock, a Warlock Cantrip That Deals Damage via an Attack Roll</p></blockquote><p>Choose one of your known Warlock cantrips that requires an attack roll. When you hit a Large or smaller creature with that cantrip, you can push the creature up to 10 feet straight away from you.</p><p><strong>Repeatable.</strong> You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.</p><section class=\"secret\" id=\"secret-5xV7SaKI7sGaeKvq\"><p><strong>Foundry Note</strong></p><p>The <strong>Make Repelling</strong> activity can be used to enchant a cantrip which adds \", Repelling\" as a reminder.</p></section>"
         },
         "phbinvThirstingB": {
             "name": "Thirsting Blade",
@@ -1292,9 +1279,6 @@
                     "title": "Class Features"
                 },
                 "13": {
-                    "title": "Class Features"
-                },
-                "14": {
                     "title": "Class Features"
                 }
             }
@@ -1454,9 +1438,6 @@
                 },
                 "8": {
                     "title": "Class Features"
-                },
-                "10": {
-                    "title": "Class Features"
                 }
             }
         },
@@ -1486,7 +1467,7 @@
         },
         "phbpdnSpellcasti": {
             "name": "Spellcasting",
-            "description": "<p>You have learned to cast spells through prayer and meditation. See the @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.mh3akteBDiLegqFK]{rules on spellcasting}. The information below details how you use those rules with Paladin spells, which appear in the @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.8yD9Jgp404hfZ9ie]{Paladin spell list}.</p><p><strong>Spell Slots.</strong> The @UUID[Compendium.dnd5e.content24.JournalEntry.phbPaladin000000.JournalEntryPage.A34CXe4HdzXHoBEl#class-features]{Paladin Features table} shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.</p><p><strong>Prepared Spells of Level 1+.</strong> You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Paladin spells. <em>Heroism</em> and <em>Searing Smite</em> are recommended.</p><p>The number of spells on your list increases as you gain Paladin levels, as shown in the Prepared Spells column of the Paladin Features table. Whenever that number increases, choose additional Paladin spells until the number of spells on your list matches the number in the Paladin Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Paladin, your list of prepared spells can include six Paladin spells of level 1 or 2 in any combination.</p><p>If another Paladin feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Paladin spells for you.</p><p><strong>Changing Your Prepared Spells.</strong> Whenever you finish a Long Rest, you can replace one spell on your list with another Paladin spell for which you have spell slots.</p><p><strong>Spellcasting Ability. </strong>Charisma is your spellcasting ability for your Paladin spells.</p><p><strong>Spellcasting Focus. </strong>You can use a Holy Symbol as a Spellcasting Focus for your Paladin spells.</p>"
+            "description": "<p>You have learned to cast spells through prayer and meditation. See the @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.b2QVn25z2N1ykWpf]{rules on spellcasting}. The information below details how you use those rules with Paladin spells, which appear in the @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.8yD9Jgp404hfZ9ie]{Paladin spell list}.</p><p><strong>Spell Slots.</strong> The @UUID[Compendium.dnd5e.content24.JournalEntry.phbPaladin000000.JournalEntryPage.A34CXe4HdzXHoBEl#class-features]{Paladin Features table} shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.</p><p><strong>Prepared Spells of Level 1+.</strong> You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Paladin spells. <em>Heroism</em> and <em>Searing Smite</em> are recommended.</p><p>The number of spells on your list increases as you gain Paladin levels, as shown in the Prepared Spells column of the Paladin Features table. Whenever that number increases, choose additional Paladin spells until the number of spells on your list matches the number in the Paladin Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Paladin, your list of prepared spells can include six Paladin spells of level 1 or 2 in any combination.</p><p>If another Paladin feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Paladin spells for you.</p><p><strong>Changing Your Prepared Spells.</strong> Whenever you finish a Long Rest, you can replace one spell on your list with another Paladin spell for which you have spell slots.</p><p><strong>Spellcasting Ability. </strong>Charisma is your spellcasting ability for your Paladin spells.</p><p><strong>Spellcasting Focus. </strong>You can use a Holy Symbol as a Spellcasting Focus for your Paladin spells.</p>"
         },
         "phbpdnWeaponMast": {
             "name": "Weapon Mastery",
@@ -1566,20 +1547,14 @@
                 "9": {
                     "title": "Class Features"
                 },
-                "10": {
-                    "title": "Class Features"
-                },
-                "16": {
+                "15": {
                     "hint": "You gain Expertise in two of your skill proficiencies of your choice. Sleight of Hand and Stealth are recommended if you have proficiency in them."
                 },
-                "19": {
+                "18": {
                     "hint": "You picked up various languages in the communities where you plied your roguish talents. You know Thieves’ Cant and one other language of your choice, which you can choose from the languages below."
                 },
-                "20": {
+                "19": {
                     "hint": "Your cunning mind is exceptionally difficult to control. You gain proficiency in Wisdom and Charisma saving throws."
-                },
-                "21": {
-                    "hint": "You gain an Epic Boon feat or another feat of your choice for which you qualify. Boon of the Night Spirit is recommended."
                 }
             }
         },
@@ -1754,9 +1729,6 @@
                 },
                 "11": {
                     "title": "Class Features"
-                },
-                "12": {
-                    "title": "Class Features"
                 }
             }
         },
@@ -1770,7 +1742,7 @@
         },
         "phbrgrSpellcasti": {
             "name": "Spellcasting",
-            "description": "<p>You have learned to channel the magical essence of nature to cast spells. See the @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.mh3akteBDiLegqFK]{rules on spellcasting}. The information below details how you use those rules with Ranger spells, which appear in the @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.5HnIk6HsrSxkvkz5]{Ranger spell list}.</p><p><strong>Spell Slots.</strong> The @UUID[Compendium.dnd5e.content24.JournalEntry.phbRanger0000000.JournalEntryPage.fgzoeAJE4EEUSOYQ#class-features]{Ranger Features table} shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.</p><p><strong>Prepared Spells of Level 1+.</strong> You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Ranger spells. @UUID[Compendium.dnd5e.spells24.Item.phbsplCureWounds]{Cure Wounds} and @UUID[Compendium.dnd5e.spells24.Item.phbsplEnsnaringS]{Ensnaring Strike} are recommended.</p><p>The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger Features table. Whenever that number increases, choose additional Ranger spells until the number of spells on your list matches the number in the Ranger Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Ranger, your list of prepared spells can include six Ranger spells of level 1 or 2 in any combination.</p><p>If another Ranger feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Ranger spells for you.</p><p><strong>Changing Your Prepared Spells.</strong> Whenever you finish a Long Rest, you can replace one spell on your list with another Ranger spell for which you have spell slots.</p><p><strong>Spellcasting Ability. </strong>Wisdom is your spellcasting ability for your Ranger spells.</p><p><strong>Spellcasting Focus. </strong>You can use a Druidic Focus as a Spellcasting Focus for your Ranger spells.</p>"
+            "description": "<p>You have learned to channel the magical essence of nature to cast spells. See the @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.b2QVn25z2N1ykWpf]{rules on spellcasting}. The information below details how you use those rules with Ranger spells, which appear in the @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.5HnIk6HsrSxkvkz5]{Ranger spell list}.</p><p><strong>Spell Slots.</strong> The @UUID[Compendium.dnd5e.content24.JournalEntry.phbRanger0000000.JournalEntryPage.fgzoeAJE4EEUSOYQ#class-features]{Ranger Features table} shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.</p><p><strong>Prepared Spells of Level 1+.</strong> You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Ranger spells. @UUID[Compendium.dnd5e.spells24.Item.phbsplCureWounds]{Cure Wounds} and @UUID[Compendium.dnd5e.spells24.Item.phbsplEnsnaringS]{Ensnaring Strike} are recommended.</p><p>The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger Features table. Whenever that number increases, choose additional Ranger spells until the number of spells on your list matches the number in the Ranger Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Ranger, your list of prepared spells can include six Ranger spells of level 1 or 2 in any combination.</p><p>If another Ranger feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Ranger spells for you.</p><p><strong>Changing Your Prepared Spells.</strong> Whenever you finish a Long Rest, you can replace one spell on your list with another Ranger spell for which you have spell slots.</p><p><strong>Spellcasting Ability. </strong>Wisdom is your spellcasting ability for your Ranger spells.</p><p><strong>Spellcasting Focus. </strong>You can use a Druidic Focus as a Spellcasting Focus for your Ranger spells.</p>"
         },
         "phbrgrSuperiorDe": {
             "name": "Superior Hunter's Defense",
@@ -1880,10 +1852,7 @@
                 "4": {
                     "title": "Class Features"
                 },
-                "5": {
-                    "title": "Class Features"
-                },
-                "12": {
+                "11": {
                     "hint": "Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options."
                 }
             }
@@ -1898,7 +1867,7 @@
         },
         "phbscrSpellcasti": {
             "name": "Spellcasting",
-            "description": "<p>Drawing from your innate magic, you can cast spells. See the @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.mh3akteBDiLegqFK]{rules on spellcasting}. The information below details how you use those rules with Sorcerer spells, which appear in the @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.VfZ5mH2ZuyFq82Ga]{Sorcerer spell list} later in the class's description.</p><p><strong>Cantrips.</strong> You know four Sorcerer cantrips of your choice. @UUID[Compendium.dnd5e.spells24.Item.phbsplLight00000]{Light}, @UUID[Compendium.dnd5e.spells24.Item.phbsplPrestidigi]{Prestidigitation}, @UUID[Compendium.dnd5e.spells24.Item.phbsplShockingGr]{Shocking Grasp}, and @UUID[Compendium.dnd5e.spells24.Item.phbsplSorcerousB]{Sorcerous Burst} are recommended. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.</p><p>When you reach Sorcerer levels 4 and 10, you learn another Sorcerer cantrip of your choice, as shown in the Cantrips column of the Sorcerer Features table.</p><p><strong>Spell Slots.</strong> The @UUID[Compendium.dnd5e.content24.JournalEntry.phbSorcerer00000.JournalEntryPage.fsqRUA4acVXH4I3O#class-features]{Sorcerer Features table} shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.</p><p><strong>Prepared Spells of Level 1+.</strong> You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Sorcerer spells. <em>Burning Hands</em> and <em>Detect Magic</em> are recommended.</p><p>The number of spells on your list increases as you gain Sorcerer levels, as shown in the Prepared Spells column of the Sorcerer Features table. Whenever that number increases, choose additional Sorcerer spells until the number of spells on your list matches the number in the Sorcerer Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Sorcerer, your list of prepared spells can include six Sorcerer spells of level 1 or 2 in any combination.</p><p>If another Sorcerer feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Sorcerer spells for you.</p><p><strong>Changing Your Prepared Spells.</strong> Whenever you gain a Sorcerer level, you can replace one spell on your list with another Sorcerer spell for which you have spell slots.</p><p><strong>Spellcasting Ability.</strong> Charisma is your spellcasting ability for your Sorcerer spells.</p><p><strong>Spellcasting Focus.</strong> You can use an Arcane Focus as a Spellcasting Focus for your Sorcerer spells.</p>"
+            "description": "<p>Drawing from your innate magic, you can cast spells. See the @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.b2QVn25z2N1ykWpf]{rules on spellcasting}. The information below details how you use those rules with Sorcerer spells, which appear in the @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.VfZ5mH2ZuyFq82Ga]{Sorcerer spell list} later in the class's description.</p><p><strong>Cantrips.</strong> You know four Sorcerer cantrips of your choice. @UUID[Compendium.dnd5e.spells24.Item.phbsplLight00000]{Light}, @UUID[Compendium.dnd5e.spells24.Item.phbsplPrestidigi]{Prestidigitation}, @UUID[Compendium.dnd5e.spells24.Item.phbsplShockingGr]{Shocking Grasp}, and @UUID[Compendium.dnd5e.spells24.Item.phbsplSorcerousB]{Sorcerous Burst} are recommended. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.</p><p>When you reach Sorcerer levels 4 and 10, you learn another Sorcerer cantrip of your choice, as shown in the Cantrips column of the Sorcerer Features table.</p><p><strong>Spell Slots.</strong> The @UUID[Compendium.dnd5e.content24.JournalEntry.phbSorcerer00000.JournalEntryPage.fsqRUA4acVXH4I3O#class-features]{Sorcerer Features table} shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.</p><p><strong>Prepared Spells of Level 1+.</strong> You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Sorcerer spells. <em>Burning Hands</em> and <em>Detect Magic</em> are recommended.</p><p>The number of spells on your list increases as you gain Sorcerer levels, as shown in the Prepared Spells column of the Sorcerer Features table. Whenever that number increases, choose additional Sorcerer spells until the number of spells on your list matches the number in the Sorcerer Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Sorcerer, your list of prepared spells can include six Sorcerer spells of level 1 or 2 in any combination.</p><p>If another Sorcerer feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Sorcerer spells for you.</p><p><strong>Changing Your Prepared Spells.</strong> Whenever you gain a Sorcerer level, you can replace one spell on your list with another Sorcerer spell for which you have spell slots.</p><p><strong>Spellcasting Ability.</strong> Charisma is your spellcasting ability for your Sorcerer spells.</p><p><strong>Spellcasting Focus.</strong> You can use an Arcane Focus as a Spellcasting Focus for your Sorcerer spells.</p>"
         },
         "phbwlkBookOfShad": {
             "name": "Book of Shadows"
@@ -1975,7 +1944,21 @@
         },
         "phbwlkMysticArca": {
             "name": "Mystic Arcanum",
-            "description": "<p>Your patron grants you a magical secret called an arcanum. Choose one level 6 Warlock spell as this arcanum.</p><p>You can cast your arcanum spell once without expending a spell slot, and you must finish a Long Rest before you can cast it in this way again.</p><p>You gain another Warlock spell of your choice that can be cast in this way when you reach Warlock levels 13 (level 7 spell), 15 (level 8 spell), and 17 (level 9 spell). You regain all uses of your Mystic Arcanum when you finish a Long Rest.</p><p>Whenever you gain a Warlock level, you can replace one of your arcanum spells with another Warlock spell of the same level.</p>"
+            "description": "<p>Your patron grants you a magical secret called an arcanum. Choose one level 6 Warlock spell as this arcanum.</p><p>You can cast your arcanum spell once without expending a spell slot, and you must finish a Long Rest before you can cast it in this way again.</p><p>You gain another Warlock spell of your choice that can be cast in this way when you reach Warlock levels 13 (level 7 spell), 15 (level 8 spell), and 17 (level 9 spell). You regain all uses of your Mystic Arcanum when you finish a Long Rest.</p><p>Whenever you gain a Warlock level, you can replace one of your arcanum spells with another Warlock spell of the same level.</p>",
+            "advancement": {
+                "0": {
+                    "hint": "Choose one level 6 Warlock spell as this arcanum. You can cast your arcanum spell without expending a spell slot, and you must finish a Long Rest before you can cast it this way again."
+                },
+                "1": {
+                    "hint": "Choose one level 7 Warlock spell as this arcanum. You can cast your arcanum spell without expending a spell slot, and you must finish a Long Rest before you can cast it this way again."
+                },
+                "2": {
+                    "hint": "Choose one level 8 Warlock spell as this arcanum. You can cast your arcanum spell without expending a spell slot, and you must finish a Long Rest before you can cast it this way again."
+                },
+                "3": {
+                    "hint": "Choose one level 9 Warlock spell as this arcanum. You can cast your arcanum spell without expending a spell slot, and you must finish a Long Rest before you can cast it this way again."
+                }
+            }
         },
         "phbwlkPactMagic0": {
             "name": "Pact Magic",
@@ -2001,7 +1984,7 @@
                     "title": "Class Features"
                 },
                 "5": {
-                    "title": "Class Features"
+                    "hint": "You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16."
                 },
                 "6": {
                     "hint": "You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16."
@@ -2012,20 +1995,14 @@
                 "8": {
                     "hint": "You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16."
                 },
-                "9": {
-                    "hint": "You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16."
-                },
-                "12": {
+                "11": {
                     "hint": "You gain a Warlock subclass of your choice. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain each of your subclass’s features that are of your Warlock level or lower."
                 },
-                "14": {
+                "13": {
                     "hint": "You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons."
                 },
-                "15": {
+                "14": {
                     "hint": "In the past, you usually contacted your patron through intermediaries. Now you can communicate directly; you always have the Contact Other Plane spell prepared."
-                },
-                "16": {
-                    "hint": "You gain an Epic Boon feat or another feat of your choice for which you qualify. Boon of Fate is recommended."
                 }
             }
         },
@@ -2097,7 +2074,7 @@
         },
         "phbwzdSpellcasti": {
             "name": "Spellcasting",
-            "description": "<p>As a student of arcane magic, you have learned to cast spells. See the @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.mh3akteBDiLegqFK]{rules on spellcasting}. The information below details how you use those rules with Wizard spells, which appear in the @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.6AnqLUowgdsqMFvz]{Wizard spell list}.</p><p><strong>Cantrips.</strong> You know three Wizard cantrips of your choice. @UUID[Compendium.dnd5e.spells24.Item.phbsplLight00000]{Light}, @UUID[Compendium.dnd5e.spells24.Item.phbsplMageHand00]{Mage Hand}, and @UUID[Compendium.dnd5e.spells24.Item.phbsplRayofFrost]{Ray of Frost} are recommended. Whenever you finish a Long Rest, you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.</p><p>When you reach Wizard levels 4 and 10, you learn another Wizard cantrip of your choice, as shown in the Cantrips column of the @UUID[Compendium.dnd5e.content24.JournalEntry.phbWizard0000000.JournalEntryPage.g7cMRWzsgAsEF7zC#class-features]{Wizard Features table}.</p><p><strong>Spellbook. </strong>Your wizardly apprenticeship culminated in the creation of a unique book: your spellbook. It is a Tiny object that weighs 3 pounds, contains 100 pages, and can be read only by you or someone casting @UUID[Compendium.dnd5e.spells24.Item.phbsplIdentify00]{Identify}. You determine the book's appearance and materials, such as a gilt-edged tome or a collection of vellum bound with twine.</p><p>The book contains the level 1+ spells you know. It starts with six level 1 Wizard spells of your choice. @UUID[Compendium.dnd5e.spells24.Item.phbsplDetectMagi]{Detect Magic}, @UUID[Compendium.dnd5e.spells24.Item.phbsplFeatherFal]{Feather Fall}, @UUID[Compendium.dnd5e.spells24.Item.phbsplMageArmor0]{Mage Armor}, @UUID[Compendium.dnd5e.spells24.Item.phbsplMagicMissi]{Magic Missile}, @UUID[Compendium.dnd5e.spells24.Item.phbsplSleep00000]{Sleep}, and @UUID[Compendium.dnd5e.spells24.Item.phbsplThunderwav]{Thunderwave} are recommended.</p><p>Whenever you gain a Wizard level after 1, add two Wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown in the Wizard Features table. The spells are the culmination of arcane research you do regularly.</p><p><strong>Spell Slots.</strong> The Wizard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.</p><p><strong>Prepared Spells of Level 1+.</strong> You prepare the list of level 1+ spells that are available for you to cast with this feature. To do so, choose four spells from your spellbook. The chosen spells must be of a level for which you have spell slots.</p><p>The number of spells on your list increases as you gain Wizard levels, as shown in the Prepared Spells column of the Wizard Features table. Whenever that number increases, choose additional Wizard spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Wizard, your list of prepared spells can include six spells of levels 1 and 2 in any combination, chosen from your spellbook.</p><p>If another Wizard feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Wizard spells for you.</p><p><strong>Changing Your Prepared Spells.</strong> Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells there with spells from your spellbook.</p><p><strong>Spellcasting Ability.</strong> Intelligence is your spellcasting ability for your Wizard spells.</p><p><strong>Spellcasting Focus. </strong>You can use an Arcane Focus or your spellbook as a Spellcasting Focus for your Wizard spells.</p>"
+            "description": "<p>As a student of arcane magic, you have learned to cast spells. See the @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.b2QVn25z2N1ykWpf]{rules on spellcasting}. The information below details how you use those rules with Wizard spells, which appear in the @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.6AnqLUowgdsqMFvz]{Wizard spell list}.</p><p><strong>Cantrips.</strong> You know three Wizard cantrips of your choice. @UUID[Compendium.dnd5e.spells24.Item.phbsplLight00000]{Light}, @UUID[Compendium.dnd5e.spells24.Item.phbsplMageHand00]{Mage Hand}, and @UUID[Compendium.dnd5e.spells24.Item.phbsplRayofFrost]{Ray of Frost} are recommended. Whenever you finish a Long Rest, you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.</p><p>When you reach Wizard levels 4 and 10, you learn another Wizard cantrip of your choice, as shown in the Cantrips column of the @UUID[Compendium.dnd5e.content24.JournalEntry.phbWizard0000000.JournalEntryPage.g7cMRWzsgAsEF7zC#class-features]{Wizard Features table}.</p><p><strong>Spellbook. </strong>Your wizardly apprenticeship culminated in the creation of a unique book: your spellbook. It is a Tiny object that weighs 3 pounds, contains 100 pages, and can be read only by you or someone casting @UUID[Compendium.dnd5e.spells24.Item.phbsplIdentify00]{Identify}. You determine the book's appearance and materials, such as a gilt-edged tome or a collection of vellum bound with twine.</p><p>The book contains the level 1+ spells you know. It starts with six level 1 Wizard spells of your choice. @UUID[Compendium.dnd5e.spells24.Item.phbsplDetectMagi]{Detect Magic}, @UUID[Compendium.dnd5e.spells24.Item.phbsplFeatherFal]{Feather Fall}, @UUID[Compendium.dnd5e.spells24.Item.phbsplMageArmor0]{Mage Armor}, @UUID[Compendium.dnd5e.spells24.Item.phbsplMagicMissi]{Magic Missile}, @UUID[Compendium.dnd5e.spells24.Item.phbsplSleep00000]{Sleep}, and @UUID[Compendium.dnd5e.spells24.Item.phbsplThunderwav]{Thunderwave} are recommended.</p><p>Whenever you gain a Wizard level after 1, add two Wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown in the Wizard Features table. The spells are the culmination of arcane research you do regularly.</p><p><strong>Spell Slots.</strong> The Wizard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.</p><p><strong>Prepared Spells of Level 1+.</strong> You prepare the list of level 1+ spells that are available for you to cast with this feature. To do so, choose four spells from your spellbook. The chosen spells must be of a level for which you have spell slots.</p><p>The number of spells on your list increases as you gain Wizard levels, as shown in the Prepared Spells column of the Wizard Features table. Whenever that number increases, choose additional Wizard spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Wizard, your list of prepared spells can include six spells of levels 1 and 2 in any combination, chosen from your spellbook.</p><p>If another Wizard feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Wizard spells for you.</p><p><strong>Changing Your Prepared Spells.</strong> Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells there with spells from your spellbook.</p><p><strong>Spellcasting Ability.</strong> Intelligence is your spellcasting ability for your Wizard spells.</p><p><strong>Spellcasting Focus. </strong>You can use an Arcane Focus or your spellbook as a Spellcasting Focus for your Wizard spells.</p>"
         },
         "phbwzdWizard0000": {
             "name": "Wizard",
@@ -2118,14 +2095,8 @@
                 "4": {
                     "title": "Class Features"
                 },
-                "5": {
-                    "title": "Class Features"
-                },
-                "12": {
+                "11": {
                     "hint": "While studying magic, you also specialized in another field of study. Choose one of the following skills in which you have proficiency. You have Expertise in the chosen skill."
-                },
-                "14": {
-                    "hint": "You gain an Epic Boon feat or another feat of your choice for which you qualify. Boon of Spell Recall is recommended."
                 }
             }
         },

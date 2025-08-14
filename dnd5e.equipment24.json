@@ -124,6 +124,9 @@
         "4awBYMh85YMXFJDS": {
             "name": "Stunned"
         },
+        "4dTBPTD5GinKr7kC": {
+            "name": "Free Action"
+        },
         "4fBr9e0P9LVogtyq": {
             "name": "Poisoned"
         },
@@ -249,6 +252,9 @@
         },
         "ACmdUQgMzhh6BiJs": {
             "name": "Cold Resistance"
+        },
+        "AYtAkgcEHRws0Qeo": {
+            "name": "Ignore Difficult Terrain"
         },
         "AZcO17cLsTHbb0P9": {
             "name": "Incapacitated and Suffocating (Sneezing)"
@@ -2380,6 +2386,9 @@
         },
         "jiyXZKFtvIRlZfh2": {
             "name": "Transferred AC Bonus: 2"
+        },
+        "jm5ygTiAc2Vn7LNY": {
+            "name": "Winter Strider"
         },
         "jn9U4aMx0EjCXD2Y": {
             "name": "Brass Scale"

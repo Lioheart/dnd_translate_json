@@ -32,7 +32,7 @@
         },
         "phbBoonofFate000": {
             "name": "Boon of Fate",
-            "description": "<p>You gain the following benefits.</p><p><strong>Ability Score Increase.</strong> Increase one ability score of your choice by 1, to a maximum of 30.</p><p><strong>Improve Fate.</strong> When you or another creature within 60 feet of you succeeds on or fails a D20 Test, you can roll 2d4 and apply the total rolled as a bonus or penalty to the d20 roll. Once you use this benefit, you can't use it again until you roll Initiative or finish a Short or Long Rest.</p><section id=\"secret-zl5SPZXJtl1mEKOl\" class=\"secret\"><p><strong>Foundry Note</strong></p><p>The <strong>Improve Fate</strong> activity includes a roll and automatically restores a use after a Short or Long Rest. It does not automatically refresh after you roll Initiative though.</p></section>"
+            "description": "<p>You gain the following benefits.</p><p><strong>Ability Score Increase.</strong> Increase one ability score of your choice by 1, to a maximum of 30.</p><p><strong>Improve Fate.</strong> When you or another creature within 60 feet of you succeeds on or fails a D20 Test, you can roll 2d4 and apply the total rolled as a bonus or penalty to the d20 roll. Once you use this benefit, you can't use it again until you roll Initiative or finish a Short or Long Rest.</p>"
         },
         "phbBoonofIrresis": {
             "name": "Boon of Irresistible Offense",
@@ -80,7 +80,7 @@
         },
         "phbftMagicInitia": {
             "name": "Magic Initiate",
-            "description": "<p>You gain the following benefits.</p><p><strong>Two Cantrips.</strong> You learn two cantrips of your choice from the @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.SkHptN2PTzFGDaEj]{Cleric}, @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.LhvuDQEyrCdg5EfU]{Druid}, or @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.6AnqLUowgdsqMFvz]{Wizard} spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat).</p><p><strong>Level 1 Spell.</strong> Choose a level 1 spell from the same list you selected for this feat's cantrips. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have.</p><p><strong>Spell Change.</strong> Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.</p><p><strong>Repeatable.</strong> You can take this feat more than once, but you must choose a different spell list each time.</p><section id=\"secret-7JQCSgnGrtu9huzf\" class=\"secret\"><p><strong>Foundry Note</strong></p><p>The spells have to be added to your sheet with the above changes manually.</p></section>"
+            "description": "<p>You gain the following benefits.</p><p><strong>Two Cantrips.</strong> You learn two cantrips of your choice from the @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.SkHptN2PTzFGDaEj]{Cleric}, @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.LhvuDQEyrCdg5EfU]{Druid}, or @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.6AnqLUowgdsqMFvz]{Wizard} spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat).</p><p><strong>Level 1 Spell.</strong> Choose a level 1 spell from the same list you selected for this feat's cantrips. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have.</p><p><strong>Spell Change.</strong> Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.</p><p><strong>Repeatable.</strong> You can take this feat more than once, but you must choose a different spell list each time.</p>"
         },
         "phbftSavageAttac": {
             "name": "Savage Attacker",
@@ -88,7 +88,7 @@
         },
         "phbftSkilled0000": {
             "name": "Skilled",
-            "description": "<p>You gain proficiency in any combination of three skills or tools of your choice.</p><p><strong>Repeatable.</strong> You can take this feat more than once.</p><section class=\"secret\" id=\"secret-36vceWBnGWiMkySr\"><p><strong>Foundry Note</strong></p><p>This feature does not automatically grant the proficiencies. You can toggle the \"Edit\" mode in the <strong>\"</strong>Details\" tab of your sheet and click on the circles next to the Skills to choose your proficiencies.</p></section>"
+            "description": "<p>You gain proficiency in any combination of three skills or tools of your choice.</p><p><strong>Repeatable.</strong> You can take this feat more than once.</p>"
         },
         "uvZy4Zzi0oPd54qs": {
             "name": "Alert"
